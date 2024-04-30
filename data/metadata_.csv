@@ -1,0 +1,1160 @@
+name,iso,observations,gender,source,year
+Albania,AL,1647,male,DHS,2008
+Albania,AL,2537,male,DHS,2017
+Albania,AL,4591,female,DHS,2008
+Albania,AL,6618,female,DHS,2017
+Algeria,DZ,12304,male,MICS,2012
+Algeria,DZ,6416,male,MICS,2013
+Algeria,DZ,1256,male,MICS,2018
+Algeria,DZ,17780,male,MICS,2019
+Algeria,DZ,11391,female,MICS,2012
+Algeria,DZ,5747,female,MICS,2013
+Algeria,DZ,1187,female,MICS,2018
+Algeria,DZ,17530,female,MICS,2019
+Angola,AO,222730,male,Census,2014
+Angola,AO,176920,female,Census,2014
+Bangladesh,BD,1371627,male,IPUMS,1991
+Bangladesh,BD,1774442,male,IPUMS,2001
+Bangladesh,BD,1109794,male,IPUMS,2011
+Bangladesh,BD,923473,female,IPUMS,1991
+Bangladesh,BD,1217569,female,IPUMS,2001
+Bangladesh,BD,824913,female,IPUMS,2011
+Armenia,AM,47296,male,IPUMS,2001
+Armenia,AM,43403,male,IPUMS,2011
+Armenia,AM,54240,female,IPUMS,2001
+Armenia,AM,47010,female,IPUMS,2011
+Argentina,AR,392258,male,IPUMS,1980
+Argentina,AR,684589,male,IPUMS,1991
+Argentina,AR,544356,male,IPUMS,2001
+Argentina,AR,384455,female,IPUMS,1980
+Argentina,AR,675622,female,IPUMS,1991
+Argentina,AR,570610,female,IPUMS,2001
+Belarus,BY,161185,male,IPUMS,1999
+Belarus,BY,133298,male,IPUMS,2009
+Belarus,BY,193697,female,IPUMS,1999
+Belarus,BY,172048,female,IPUMS,2009
+Belgium,BE,3060,male,LIS,1985
+Belgium,BE,1818,male,LIS,1988
+Belgium,BE,2144,male,LIS,1992
+Belgium,BE,1270,male,LIS,1995
+Belgium,BE,1939,male,LIS,1997
+Belgium,BE,1170,male,LIS,2000
+Belgium,BE,1818,male,LIS,2003
+Belgium,BE,1833,male,LIS,2004
+Belgium,BE,2146,male,LIS,2005
+Belgium,BE,2049,male,LIS,2006
+Belgium,BE,2034,male,LIS,2007
+Belgium,BE,2076,male,LIS,2008
+Belgium,BE,1898,male,LIS,2009
+Belgium,BE,1900,male,LIS,2010
+Belgium,BE,1956,male,LIS,2011
+Belgium,BE,2018,male,LIS,2012
+Belgium,BE,1945,male,LIS,2013
+Belgium,BE,1910,male,LIS,2014
+Belgium,BE,1717,male,LIS,2015
+Belgium,BE,1688,male,LIS,2016
+Belgium,BE,1708,male,LIS,2017
+Belgium,BE,3104,female,LIS,1985
+Belgium,BE,1834,female,LIS,1988
+Belgium,BE,2175,female,LIS,1992
+Belgium,BE,1404,female,LIS,1995
+Belgium,BE,2065,female,LIS,1997
+Belgium,BE,1345,female,LIS,2000
+Belgium,BE,2124,female,LIS,2003
+Belgium,BE,2121,female,LIS,2004
+Belgium,BE,2470,female,LIS,2005
+Belgium,BE,2422,female,LIS,2006
+Belgium,BE,2383,female,LIS,2007
+Belgium,BE,2478,female,LIS,2008
+Belgium,BE,2256,female,LIS,2009
+Belgium,BE,2197,female,LIS,2010
+Belgium,BE,2276,female,LIS,2011
+Belgium,BE,2421,female,LIS,2012
+Belgium,BE,2346,female,LIS,2013
+Belgium,BE,2320,female,LIS,2014
+Belgium,BE,2152,female,LIS,2015
+Belgium,BE,2130,female,LIS,2016
+Belgium,BE,2126,female,LIS,2017
+Benin,BJ,46205,male,IPUMS,1992
+Benin,BJ,73145,male,IPUMS,2002
+Benin,BJ,109733,male,IPUMS,2013
+Benin,BJ,44449,female,IPUMS,1992
+Benin,BJ,69077,female,IPUMS,2002
+Benin,BJ,100149,female,IPUMS,2013
+Bolivia,BO,60261,male,IPUMS,1976
+Bolivia,BO,74449,male,IPUMS,1992
+Bolivia,BO,95635,male,IPUMS,2001
+Bolivia,BO,107007,male,IPUMS,2012
+Bolivia,BO,61157,female,IPUMS,1976
+Bolivia,BO,74346,female,IPUMS,1992
+Bolivia,BO,100831,female,IPUMS,2001
+Bolivia,BO,116980,female,IPUMS,2012
+Botswana,BW,6777,male,IPUMS,1991
+Botswana,BW,10753,female,IPUMS,1991
+Brazil,BR,2813207,male,IPUMS,1991
+Brazil,BR,3299073,male,IPUMS,2000
+Brazil,BR,3186234,male,IPUMS,2010
+Brazil,BR,2660070,female,IPUMS,1991
+Brazil,BR,3266864,female,IPUMS,2000
+Brazil,BR,3305672,female,IPUMS,2010
+Bulgaria,BG,1609,male,SILC,2007
+Bulgaria,BG,1499,male,SILC,2008
+Bulgaria,BG,1898,male,SILC,2009
+Bulgaria,BG,1973,male,SILC,2010
+Bulgaria,BG,2064,male,SILC,2011
+Bulgaria,BG,1730,male,SILC,2012
+Bulgaria,BG,1461,male,SILC,2013
+Bulgaria,BG,1427,male,SILC,2014
+Bulgaria,BG,1440,male,SILC,2015
+Bulgaria,BG,2091,male,SILC,2016
+Bulgaria,BG,2069,male,SILC,2017
+Bulgaria,BG,1911,male,SILC,2018
+Bulgaria,BG,1885,male,SILC,2019
+Bulgaria,BG,1771,male,SILC,2020
+Bulgaria,BG,1626,female,SILC,2007
+Bulgaria,BG,1539,female,SILC,2008
+Bulgaria,BG,1907,female,SILC,2009
+Bulgaria,BG,2065,female,SILC,2010
+Bulgaria,BG,2160,female,SILC,2011
+Bulgaria,BG,1814,female,SILC,2012
+Bulgaria,BG,1550,female,SILC,2013
+Bulgaria,BG,1471,female,SILC,2014
+Bulgaria,BG,1453,female,SILC,2015
+Bulgaria,BG,2164,female,SILC,2016
+Bulgaria,BG,2160,female,SILC,2017
+Bulgaria,BG,1938,female,SILC,2018
+Bulgaria,BG,1954,female,SILC,2019
+Bulgaria,BG,1842,female,SILC,2020
+Burkina Faso,BF,171549,male,IPUMS,2006
+Burkina Faso,BF,144986,female,IPUMS,2006
+Burundi,BI,2429,male,DHS,2010
+Burundi,BI,4151,male,DHS,2016
+Burundi,BI,5751,female,DHS,2010
+Burundi,BI,9988,female,DHS,2016
+Cambodia,KH,150242,male,IPUMS,1998
+Cambodia,KH,203347,male,IPUMS,2008
+Cambodia,KH,163205,female,IPUMS,1998
+Cambodia,KH,212787,female,IPUMS,2008
+Cameroon,CM,85743,male,IPUMS,1987
+Cameroon,CM,182738,male,IPUMS,2005
+Cameroon,CM,72287,female,IPUMS,1987
+Cameroon,CM,154931,female,IPUMS,2005
+Canada,CA,5294,male,LIS,1987
+Canada,CA,9312,male,LIS,1991
+Canada,CA,16376,male,LIS,1994
+Canada,CA,11285,male,LIS,1999
+Canada,CA,11008,male,LIS,2000
+Canada,CA,11105,male,LIS,2001
+Canada,CA,10260,male,LIS,2002
+Canada,CA,10278,male,LIS,2003
+Canada,CA,9774,male,LIS,2004
+Canada,CA,9347,male,LIS,2005
+Canada,CA,9360,male,LIS,2006
+Canada,CA,8787,male,LIS,2007
+Canada,CA,8322,male,LIS,2008
+Canada,CA,8539,male,LIS,2009
+Canada,CA,8261,male,LIS,2010
+Canada,CA,7776,male,LIS,2011
+Canada,CA,5524,female,LIS,1987
+Canada,CA,10026,female,LIS,1991
+Canada,CA,18065,female,LIS,1994
+Canada,CA,12215,female,LIS,1999
+Canada,CA,11835,female,LIS,2000
+Canada,CA,12111,female,LIS,2001
+Canada,CA,11173,female,LIS,2002
+Canada,CA,11299,female,LIS,2003
+Canada,CA,10781,female,LIS,2004
+Canada,CA,10338,female,LIS,2005
+Canada,CA,10328,female,LIS,2006
+Canada,CA,9727,female,LIS,2007
+Canada,CA,9171,female,LIS,2008
+Canada,CA,9531,female,LIS,2009
+Canada,CA,9188,female,LIS,2010
+Canada,CA,8708,female,LIS,2011
+Chad,TD,1145,male,DHS,1996
+Chad,TD,875,male,DHS,2004
+Chad,TD,2872,male,DHS,2014
+Chad,TD,3958,female,DHS,1996
+Chad,TD,77,female,DHS,2004
+Chad,TD,8415,female,DHS,2014
+China,CN,2472753,male,IPUMS,1990
+China,CN,2406488,male,IPUMS,2000
+China,CN,2483933,female,IPUMS,1990
+China,CN,2417289,female,IPUMS,2000
+Colombia,CO,210858,male,IPUMS,1973
+Colombia,CO,326365,male,IPUMS,1985
+Colombia,CO,432149,male,IPUMS,1993
+Colombia,CO,528299,male,IPUMS,2005
+Colombia,CO,196367,female,IPUMS,1973
+Colombia,CO,309424,female,IPUMS,1985
+Colombia,CO,418810,female,IPUMS,1993
+Colombia,CO,547467,female,IPUMS,2005
+"Congo, Dem. Rep.",CD,2585,male,DHS,2007
+"Congo, Dem. Rep.",CD,4985,male,DHS,2013
+"Congo, Dem. Rep.",CD,5572,female,DHS,2007
+"Congo, Dem. Rep.",CD,10720,female,DHS,2013
+"Congo, Rep.",CG,1525,male,DHS,2005
+"Congo, Rep.",CG,2672,male,DHS,2011
+"Congo, Rep.",CG,3843,female,DHS,2005
+"Congo, Rep.",CG,6335,female,DHS,2011
+Cote d'Ivoire,CI,6544,male,LIS,2002
+Cote d'Ivoire,CI,7413,male,LIS,2008
+Cote d'Ivoire,CI,6573,male,LIS,2015
+Cote d'Ivoire,CI,5477,female,LIS,2002
+Cote d'Ivoire,CI,6305,female,LIS,2008
+Cote d'Ivoire,CI,6230,female,LIS,2015
+Costa Rica,CR,24210,male,IPUMS,1973
+Costa Rica,CR,36838,male,IPUMS,1984
+Costa Rica,CR,59826,male,IPUMS,2000
+Costa Rica,CR,64125,male,IPUMS,2011
+Costa Rica,CR,21107,female,IPUMS,1973
+Costa Rica,CR,33049,female,IPUMS,1984
+Costa Rica,CR,59326,female,IPUMS,2000
+Costa Rica,CR,71186,female,IPUMS,2011
+Croatia,HR,1319,male,SILC,2010
+Croatia,HR,2237,male,SILC,2011
+Croatia,HR,1991,male,SILC,2012
+Croatia,HR,1861,male,SILC,2013
+Croatia,HR,1884,male,SILC,2014
+Croatia,HR,2350,male,SILC,2015
+Croatia,HR,2710,male,SILC,2016
+Croatia,HR,2705,male,SILC,2017
+Croatia,HR,2878,male,SILC,2018
+Croatia,HR,2575,male,SILC,2019
+Croatia,HR,2407,male,SILC,2020
+Croatia,HR,1381,female,SILC,2010
+Croatia,HR,2418,female,SILC,2011
+Croatia,HR,2093,female,SILC,2012
+Croatia,HR,1935,female,SILC,2013
+Croatia,HR,1994,female,SILC,2014
+Croatia,HR,2458,female,SILC,2015
+Croatia,HR,2847,female,SILC,2016
+Croatia,HR,2882,female,SILC,2017
+Croatia,HR,3002,female,SILC,2018
+Croatia,HR,2702,female,SILC,2019
+Croatia,HR,2584,female,SILC,2020
+Cuba,CU,151213,male,IPUMS,2002
+Cuba,CU,139996,male,IPUMS,2012
+Cuba,CU,175869,female,IPUMS,2002
+Cuba,CU,177963,female,IPUMS,2012
+Czech Republic,CZ,7690,male,LIS,1992
+Czech Republic,CZ,2846,male,LIS,2002
+Czech Republic,CZ,1568,male,LIS,2004
+Czech Republic,CZ,4063,male,LIS,2007
+Czech Republic,CZ,3053,male,LIS,2010
+Czech Republic,CZ,2570,male,LIS,2013
+Czech Republic,CZ,2739,male,LIS,2016
+Czech Republic,CZ,7672,female,LIS,1992
+Czech Republic,CZ,3179,female,LIS,2002
+Czech Republic,CZ,1783,female,LIS,2004
+Czech Republic,CZ,4493,female,LIS,2007
+Czech Republic,CZ,3505,female,LIS,2010
+Czech Republic,CZ,2906,female,LIS,2013
+Czech Republic,CZ,3094,female,LIS,2016
+Cyprus,CY,2034,male,SILC,2005
+Cyprus,CY,1997,male,SILC,2006
+Cyprus,CY,1859,male,SILC,2007
+Cyprus,CY,1673,male,SILC,2008
+Cyprus,CY,1531,male,SILC,2009
+Cyprus,CY,1838,male,SILC,2010
+Cyprus,CY,1912,male,SILC,2011
+Cyprus,CY,2172,male,SILC,2012
+Cyprus,CY,2228,male,SILC,2013
+Cyprus,CY,1945,male,SILC,2014
+Cyprus,CY,1940,male,SILC,2015
+Cyprus,CY,1792,male,SILC,2016
+Cyprus,CY,3525,male,SILC,2017
+Cyprus,CY,1603,male,SILC,2019
+Cyprus,CY,1643,male,SILC,2020
+Cyprus,CY,1908,female,SILC,2005
+Cyprus,CY,1861,female,SILC,2006
+Cyprus,CY,1760,female,SILC,2007
+Cyprus,CY,1589,female,SILC,2008
+Cyprus,CY,1482,female,SILC,2009
+Cyprus,CY,1774,female,SILC,2010
+Cyprus,CY,1833,female,SILC,2011
+Cyprus,CY,2134,female,SILC,2012
+Cyprus,CY,2176,female,SILC,2013
+Cyprus,CY,1907,female,SILC,2014
+Cyprus,CY,1873,female,SILC,2015
+Cyprus,CY,1756,female,SILC,2016
+Cyprus,CY,3450,female,SILC,2017
+Cyprus,CY,1604,female,SILC,2019
+Cyprus,CY,1581,female,SILC,2020
+Dominican Republic,DO,118020,male,IPUMS,2002
+Dominican Republic,DO,124753,male,IPUMS,2010
+Dominican Republic,DO,118510,female,IPUMS,2002
+Dominican Republic,DO,133428,female,IPUMS,2010
+Ecuador,EC,131457,male,IPUMS,1990
+Ecuador,EC,159564,male,IPUMS,2001
+Ecuador,EC,198436,male,IPUMS,2010
+Ecuador,EC,121470,female,IPUMS,1990
+Ecuador,EC,154014,female,IPUMS,2001
+Ecuador,EC,202403,female,IPUMS,2010
+Egypt,EG,918834,male,IPUMS,1996
+Egypt,EG,1249703,male,IPUMS,2006
+Egypt,EG,774644,female,IPUMS,1996
+Egypt,EG,1071636,female,IPUMS,2006
+El Salvador,SV,69685,male,IPUMS,2007
+El Salvador,SV,77612,female,IPUMS,2007
+Estonia,EE,2449,male,LIS,2000
+Estonia,EE,1565,male,LIS,2004
+Estonia,EE,1608,male,LIS,2007
+Estonia,EE,1623,male,LIS,2010
+Estonia,EE,1746,male,LIS,2013
+Estonia,EE,1913,male,LIS,2016
+Estonia,EE,2998,female,LIS,2000
+Estonia,EE,1826,female,LIS,2004
+Estonia,EE,1881,female,LIS,2007
+Estonia,EE,1943,female,LIS,2010
+Estonia,EE,2136,female,LIS,2013
+Estonia,EE,2262,female,LIS,2016
+Ethiopia,ET,1250,male,DHS,2000
+Ethiopia,ET,3194,male,DHS,2005
+Ethiopia,ET,7395,male,DHS,2011
+Ethiopia,ET,7071,male,DHS,2016
+Ethiopia,ET,8161,female,DHS,2000
+Ethiopia,ET,6908,female,DHS,2005
+Ethiopia,ET,7919,female,DHS,2011
+Ethiopia,ET,7834,female,DHS,2016
+Finland,FI,4353,male,LIS,1995
+Finland,FI,4667,male,LIS,2000
+Finland,FI,4615,male,LIS,2004
+Finland,FI,4022,male,LIS,2007
+Finland,FI,3427,male,LIS,2010
+Finland,FI,3973,male,LIS,2013
+Finland,FI,3512,male,LIS,2016
+Finland,FI,4593,female,LIS,1995
+Finland,FI,4978,female,LIS,2000
+Finland,FI,4907,female,LIS,2004
+Finland,FI,4372,female,LIS,2007
+Finland,FI,3743,female,LIS,2010
+Finland,FI,4373,female,LIS,2013
+Finland,FI,3822,female,LIS,2016
+Fiji,FJ,9031,male,IPUMS,1986
+Fiji,FJ,10979,male,IPUMS,2007
+Fiji,FJ,12268,male,IPUMS,2014
+Fiji,FJ,7941,female,IPUMS,1986
+Fiji,FJ,10562,female,IPUMS,2007
+Fiji,FJ,12037,female,IPUMS,2014
+Gabon,GA,557,male,DHS,2000
+Gabon,GA,2045,male,DHS,2012
+Gabon,GA,2800,female,DHS,2000
+Gabon,GA,4507,female,DHS,2012
+France,FR,8335,male,LIS,1996
+France,FR,16482,male,LIS,1997
+France,FR,23925,male,LIS,1998
+France,FR,24258,male,LIS,1999
+France,FR,23692,male,LIS,2000
+France,FR,23277,male,LIS,2001
+France,FR,12724,male,LIS,2002
+France,FR,12718,male,LIS,2003
+France,FR,13027,male,LIS,2004
+France,FR,12833,male,LIS,2005
+France,FR,12722,male,LIS,2006
+France,FR,12645,male,LIS,2007
+France,FR,12242,male,LIS,2008
+France,FR,16307,male,LIS,2009
+France,FR,17995,male,LIS,2010
+France,FR,18685,male,LIS,2011
+France,FR,18353,male,LIS,2012
+France,FR,16318,male,LIS,2013
+France,FR,16097,male,LIS,2014
+France,FR,15732,male,LIS,2015
+France,FR,16031,male,LIS,2016
+France,FR,15783,male,LIS,2017
+France,FR,15233,male,LIS,2018
+France,FR,9208,female,LIS,1996
+France,FR,18308,female,LIS,1997
+France,FR,26906,female,LIS,1998
+France,FR,27328,female,LIS,1999
+France,FR,26773,female,LIS,2000
+France,FR,26367,female,LIS,2001
+France,FR,14623,female,LIS,2002
+France,FR,14775,female,LIS,2003
+France,FR,15060,female,LIS,2004
+France,FR,14967,female,LIS,2005
+France,FR,14948,female,LIS,2006
+France,FR,14961,female,LIS,2007
+France,FR,14600,female,LIS,2008
+France,FR,19324,female,LIS,2009
+France,FR,21406,female,LIS,2010
+France,FR,22108,female,LIS,2011
+France,FR,21674,female,LIS,2012
+France,FR,19260,female,LIS,2013
+France,FR,19117,female,LIS,2014
+France,FR,18695,female,LIS,2015
+France,FR,19221,female,LIS,2016
+France,FR,18900,female,LIS,2017
+France,FR,18272,female,LIS,2018
+Germany,DE,2462,male,LIS,1984
+Germany,DE,2544,male,LIS,1985
+Germany,DE,2585,male,LIS,1986
+Germany,DE,2437,male,LIS,1987
+Germany,DE,2325,male,LIS,1988
+Germany,DE,2209,male,LIS,1989
+Germany,DE,2223,male,LIS,1990
+Germany,DE,3187,male,LIS,1991
+Germany,DE,3078,male,LIS,1992
+Germany,DE,2989,male,LIS,1993
+Germany,DE,3085,male,LIS,1994
+Germany,DE,3067,male,LIS,1995
+Germany,DE,2850,male,LIS,1996
+Germany,DE,3111,male,LIS,1997
+Germany,DE,2866,male,LIS,1998
+Germany,DE,4980,male,LIS,1999
+Germany,DE,4606,male,LIS,2000
+Germany,DE,4539,male,LIS,2001
+Germany,DE,4305,male,LIS,2002
+Germany,DE,4078,male,LIS,2003
+Germany,DE,3841,male,LIS,2004
+Germany,DE,4005,male,LIS,2005
+Germany,DE,3742,male,LIS,2006
+Germany,DE,3346,male,LIS,2007
+Germany,DE,3029,male,LIS,2008
+Germany,DE,6772,male,LIS,2009
+Germany,DE,5789,male,LIS,2010
+Germany,DE,5491,male,LIS,2011
+Germany,DE,6358,male,LIS,2012
+Germany,DE,5258,male,LIS,2013
+Germany,DE,5439,male,LIS,2014
+Germany,DE,4681,male,LIS,2015
+Germany,DE,5720,male,LIS,2016
+Germany,DE,5816,male,LIS,2017
+Germany,DE,5883,male,LIS,2018
+Germany,DE,2392,female,LIS,1984
+Germany,DE,2497,female,LIS,1985
+Germany,DE,2518,female,LIS,1986
+Germany,DE,2459,female,LIS,1987
+Germany,DE,2357,female,LIS,1988
+Germany,DE,2244,female,LIS,1989
+Germany,DE,2290,female,LIS,1990
+Germany,DE,3348,female,LIS,1991
+Germany,DE,3133,female,LIS,1992
+Germany,DE,3128,female,LIS,1993
+Germany,DE,3260,female,LIS,1994
+Germany,DE,3268,female,LIS,1995
+Germany,DE,3043,female,LIS,1996
+Germany,DE,3300,female,LIS,1997
+Germany,DE,3071,female,LIS,1998
+Germany,DE,5488,female,LIS,1999
+Germany,DE,5094,female,LIS,2000
+Germany,DE,5046,female,LIS,2001
+Germany,DE,4866,female,LIS,2002
+Germany,DE,4683,female,LIS,2003
+Germany,DE,4499,female,LIS,2004
+Germany,DE,4720,female,LIS,2005
+Germany,DE,4430,female,LIS,2006
+Germany,DE,4035,female,LIS,2007
+Germany,DE,3641,female,LIS,2008
+Germany,DE,8966,female,LIS,2009
+Germany,DE,7990,female,LIS,2010
+Germany,DE,7646,female,LIS,2011
+Germany,DE,8732,female,LIS,2012
+Germany,DE,7175,female,LIS,2013
+Germany,DE,7352,female,LIS,2014
+Germany,DE,6408,female,LIS,2015
+Germany,DE,7218,female,LIS,2016
+Germany,DE,7140,female,LIS,2017
+Germany,DE,6857,female,LIS,2018
+Gambia,GM,2979,male,LFS,2010
+Gambia,GM,9251,male,LFS,2015
+Gambia,GM,2296,female,LFS,2010
+Gambia,GM,7809,female,LFS,2015
+Guinea,GN,39674,male,IPUMS,1983
+Guinea,GN,66504,male,IPUMS,1996
+Guinea,GN,91978,male,IPUMS,2014
+Guinea,GN,38174,female,IPUMS,1983
+Guinea,GN,58501,female,IPUMS,1996
+Guinea,GN,75737,female,IPUMS,2014
+Ghana,GH,157077,male,IPUMS,2000
+Ghana,GH,237370,male,IPUMS,2010
+Ghana,GH,168412,female,IPUMS,2000
+Ghana,GH,263225,female,IPUMS,2010
+Greece,GR,179462,male,IPUMS,1981
+Greece,GR,176474,male,IPUMS,1991
+Greece,GR,180531,male,IPUMS,2001
+Greece,GR,177431,male,IPUMS,2011
+Greece,GR,175025,female,IPUMS,1981
+Greece,GR,173378,female,IPUMS,1991
+Greece,GR,185318,female,IPUMS,2001
+Greece,GR,199383,female,IPUMS,2011
+Guatemala,GT,27435,male,IPUMS,1964
+Guatemala,GT,41729,male,IPUMS,1973
+Guatemala,GT,39530,male,IPUMS,1981
+Guatemala,GT,107531,male,IPUMS,1994
+Guatemala,GT,141291,male,IPUMS,2002
+Guatemala,GT,22160,female,IPUMS,1964
+Guatemala,GT,33040,female,IPUMS,1973
+Guatemala,GT,32211,female,IPUMS,1981
+Guatemala,GT,88733,female,IPUMS,1994
+Guatemala,GT,124933,female,IPUMS,2002
+Haiti,HT,53335,male,IPUMS,1971
+Haiti,HT,79972,male,IPUMS,2003
+Haiti,HT,59477,female,IPUMS,1971
+Haiti,HT,89027,female,IPUMS,2003
+Honduras,HN,32648,male,IPUMS,1974
+Honduras,HN,50757,male,IPUMS,1988
+Honduras,HN,75284,male,IPUMS,2001
+Honduras,HN,29175,female,IPUMS,1974
+Honduras,HN,44377,female,IPUMS,1988
+Honduras,HN,67710,female,IPUMS,2001
+Hungary,HU,83015,male,IPUMS,1990
+Hungary,HU,87526,female,IPUMS,1990
+Guyana,GY,2606,male,LFS,2017
+Guyana,GY,3556,male,LFS,2018
+Guyana,GY,3604,male,LFS,2019
+Guyana,GY,713,male,LFS,2020
+Guyana,GY,2606,male,LFS,2021
+Guyana,GY,2958,female,LFS,2017
+Guyana,GY,4201,female,LFS,2018
+Guyana,GY,4418,female,LFS,2019
+Guyana,GY,913,female,LFS,2020
+Guyana,GY,2958,female,LFS,2021
+India,IN,40953,male,DHS,2005
+India,IN,64470,male,DHS,2015
+India,IN,63227,female,DHS,2005
+India,IN,69578,female,DHS,2015
+Indonesia,ID,87520,male,IPUMS,1971
+Indonesia,ID,1126539,male,IPUMS,1980
+Indonesia,ID,150222,male,IPUMS,1990
+Indonesia,ID,4431458,male,IPUMS,2010
+Indonesia,ID,63418,female,IPUMS,1971
+Indonesia,ID,864635,female,IPUMS,1980
+Indonesia,ID,122281,female,IPUMS,1990
+Indonesia,ID,4007261,female,IPUMS,2010
+Iceland,IS,1577,male,LIS,2004
+Iceland,IS,1500,male,LIS,2007
+Iceland,IS,1542,male,LIS,2010
+Iceland,IS,1666,female,LIS,2004
+Iceland,IS,1626,female,LIS,2007
+Iceland,IS,1700,female,LIS,2010
+Iraq,IQ,205961,male,IPUMS,1997
+Iraq,IQ,174730,female,IPUMS,1997
+Italy,IT,5284,male,LIS,1989
+Italy,IT,4918,male,LIS,1991
+Italy,IT,4536,male,LIS,1993
+Italy,IT,4696,male,LIS,1995
+Italy,IT,4147,male,LIS,1998
+Italy,IT,4126,male,LIS,2000
+Italy,IT,3517,male,LIS,2004
+Italy,IT,3233,male,LIS,2008
+Italy,IT,3216,male,LIS,2010
+Italy,IT,2815,male,LIS,2014
+Italy,IT,2165,male,LIS,2016
+Italy,IT,5449,female,LIS,1989
+Italy,IT,5123,female,LIS,1991
+Italy,IT,4768,female,LIS,1993
+Italy,IT,4932,female,LIS,1995
+Italy,IT,4359,female,LIS,1998
+Italy,IT,4355,female,LIS,2000
+Italy,IT,3859,female,LIS,2004
+Italy,IT,3583,female,LIS,2008
+Italy,IT,3571,female,LIS,2010
+Italy,IT,3221,female,LIS,2014
+Italy,IT,2598,female,LIS,2016
+Ireland,IE,1819,male,LIS,1994
+Ireland,IE,1536,male,LIS,1995
+Ireland,IE,1445,male,LIS,1996
+Ireland,IE,1442,male,LIS,2000
+Ireland,IE,1076,male,LIS,2002
+Ireland,IE,1958,male,LIS,2003
+Ireland,IE,2069,male,LIS,2004
+Ireland,IE,1871,male,LIS,2005
+Ireland,IE,1670,male,LIS,2006
+Ireland,IE,1490,male,LIS,2007
+Ireland,IE,1585,male,LIS,2008
+Ireland,IE,1456,male,LIS,2009
+Ireland,IE,1582,male,LIS,2011
+Ireland,IE,1693,male,LIS,2012
+Ireland,IE,1838,male,LIS,2013
+Ireland,IE,1888,male,LIS,2014
+Ireland,IE,1761,male,LIS,2015
+Ireland,IE,1620,male,LIS,2016
+Ireland,IE,1503,male,LIS,2017
+Ireland,IE,1434,male,LIS,2018
+Ireland,IE,2014,female,LIS,1994
+Ireland,IE,1714,female,LIS,1995
+Ireland,IE,1608,female,LIS,1996
+Ireland,IE,1667,female,LIS,2000
+Ireland,IE,1316,female,LIS,2002
+Ireland,IE,2357,female,LIS,2003
+Ireland,IE,2555,female,LIS,2004
+Ireland,IE,2293,female,LIS,2005
+Ireland,IE,2077,female,LIS,2006
+Ireland,IE,1880,female,LIS,2007
+Ireland,IE,1967,female,LIS,2008
+Ireland,IE,1827,female,LIS,2009
+Ireland,IE,2016,female,LIS,2011
+Ireland,IE,2121,female,LIS,2012
+Ireland,IE,2224,female,LIS,2013
+Ireland,IE,2337,female,LIS,2014
+Ireland,IE,2173,female,LIS,2015
+Ireland,IE,1997,female,LIS,2016
+Ireland,IE,1839,female,LIS,2017
+Ireland,IE,1762,female,LIS,2018
+Jamaica,JM,18944,male,IPUMS,2001
+Jamaica,JM,23173,female,IPUMS,2001
+Israel,IL,3416,male,LIS,1986
+Israel,IL,3425,male,LIS,1992
+Israel,IL,3309,male,LIS,2001
+Israel,IL,3487,male,LIS,2002
+Israel,IL,3475,male,LIS,2003
+Israel,IL,3345,male,LIS,2004
+Israel,IL,3420,male,LIS,2005
+Israel,IL,3306,male,LIS,2006
+Israel,IL,3395,male,LIS,2007
+Israel,IL,3177,male,LIS,2008
+Israel,IL,3400,male,LIS,2009
+Israel,IL,3266,male,LIS,2010
+Israel,IL,3198,male,LIS,2011
+Israel,IL,4738,male,LIS,2012
+Israel,IL,5347,male,LIS,2013
+Israel,IL,3400,female,LIS,1986
+Israel,IL,3484,female,LIS,1992
+Israel,IL,3466,female,LIS,2001
+Israel,IL,3640,female,LIS,2002
+Israel,IL,3634,female,LIS,2003
+Israel,IL,3581,female,LIS,2004
+Israel,IL,3705,female,LIS,2005
+Israel,IL,3613,female,LIS,2006
+Israel,IL,3627,female,LIS,2007
+Israel,IL,3477,female,LIS,2008
+Israel,IL,3715,female,LIS,2009
+Israel,IL,3580,female,LIS,2010
+Israel,IL,3520,female,LIS,2011
+Israel,IL,5148,female,LIS,2012
+Israel,IL,5862,female,LIS,2013
+Japan,JP,2063,male,LIS,2008
+Japan,JP,1414,male,LIS,2010
+Japan,JP,1030,male,LIS,2013
+Japan,JP,2189,female,LIS,2008
+Japan,JP,1468,female,LIS,2010
+Japan,JP,1115,female,LIS,2013
+Iran,IR,255662,male,IPUMS,2006
+Iran,IR,218860,female,IPUMS,2006
+"Korea, Rep.",KR,7423,male,LIS,2006
+"Korea, Rep.",KR,6390,male,LIS,2008
+"Korea, Rep.",KR,6223,male,LIS,2010
+"Korea, Rep.",KR,5835,male,LIS,2012
+"Korea, Rep.",KR,4953,male,LIS,2014
+"Korea, Rep.",KR,4012,male,LIS,2016
+"Korea, Rep.",KR,8263,female,LIS,2006
+"Korea, Rep.",KR,7141,female,LIS,2008
+"Korea, Rep.",KR,7055,female,LIS,2010
+"Korea, Rep.",KR,6664,female,LIS,2012
+"Korea, Rep.",KR,5694,female,LIS,2014
+"Korea, Rep.",KR,4666,female,LIS,2016
+Kyrgyz Republic,KG,2490,female,DHS,1997
+Kyrgyz Republic,KG,5595,female,DHS,2012
+Laos,LA,73328,male,IPUMS,2005
+Laos,LA,62496,female,IPUMS,2005
+Jordan,JO,78617,male,IPUMS,2004
+Jordan,JO,70733,female,IPUMS,2004
+Kenya,KE,97214,male,IPUMS,1989
+Kenya,KE,151482,male,IPUMS,1999
+Kenya,KE,450059,male,IPUMS,2009
+Kenya,KE,95730,female,IPUMS,1989
+Kenya,KE,151988,female,IPUMS,1999
+Kenya,KE,441683,female,IPUMS,2009
+Latvia,LV,1108,male,SILC,2005
+Latvia,LV,1272,male,SILC,2006
+Latvia,LV,1165,male,SILC,2007
+Latvia,LV,1514,male,SILC,2008
+Latvia,LV,1629,male,SILC,2009
+Latvia,LV,1758,male,SILC,2010
+Latvia,LV,1744,male,SILC,2011
+Latvia,LV,1626,male,SILC,2012
+Latvia,LV,1538,male,SILC,2013
+Latvia,LV,1465,male,SILC,2014
+Latvia,LV,1527,male,SILC,2015
+Latvia,LV,1484,male,SILC,2016
+Latvia,LV,1364,male,SILC,2017
+Latvia,LV,1294,male,SILC,2018
+Latvia,LV,1133,male,SILC,2019
+Latvia,LV,1368,male,SILC,2020
+Latvia,LV,1079,female,SILC,2005
+Latvia,LV,1247,female,SILC,2006
+Latvia,LV,1108,female,SILC,2007
+Latvia,LV,1450,female,SILC,2008
+Latvia,LV,1549,female,SILC,2009
+Latvia,LV,1725,female,SILC,2010
+Latvia,LV,1709,female,SILC,2011
+Latvia,LV,1634,female,SILC,2012
+Latvia,LV,1462,female,SILC,2013
+Latvia,LV,1413,female,SILC,2014
+Latvia,LV,1449,female,SILC,2015
+Latvia,LV,1438,female,SILC,2016
+Latvia,LV,1324,female,SILC,2017
+Latvia,LV,1320,female,SILC,2018
+Latvia,LV,1146,female,SILC,2019
+Latvia,LV,1360,female,SILC,2020
+Lithuania,LT,1573,male,LIS,2009
+Lithuania,LT,1405,male,LIS,2010
+Lithuania,LT,1388,male,LIS,2011
+Lithuania,LT,1223,male,LIS,2012
+Lithuania,LT,1219,male,LIS,2013
+Lithuania,LT,1125,male,LIS,2014
+Lithuania,LT,1089,male,LIS,2015
+Lithuania,LT,1109,male,LIS,2016
+Lithuania,LT,1136,male,LIS,2017
+Lithuania,LT,1102,male,LIS,2018
+Lithuania,LT,1952,female,LIS,2009
+Lithuania,LT,1748,female,LIS,2010
+Lithuania,LT,1715,female,LIS,2011
+Lithuania,LT,1535,female,LIS,2012
+Lithuania,LT,1548,female,LIS,2013
+Lithuania,LT,1431,female,LIS,2014
+Lithuania,LT,1422,female,LIS,2015
+Lithuania,LT,1486,female,LIS,2016
+Lithuania,LT,1521,female,LIS,2017
+Lithuania,LT,1517,female,LIS,2018
+Luxembourg,LU,1042,male,LIS,1985
+Luxembourg,LU,1055,male,LIS,1991
+Luxembourg,LU,885,male,LIS,1994
+Luxembourg,LU,1202,male,LIS,1997
+Luxembourg,LU,1208,male,LIS,2000
+Luxembourg,LU,1821,male,LIS,2004
+Luxembourg,LU,1935,male,LIS,2007
+Luxembourg,LU,2572,male,LIS,2010
+Luxembourg,LU,1611,male,LIS,2013
+Luxembourg,LU,1121,female,LIS,1985
+Luxembourg,LU,1128,female,LIS,1991
+Luxembourg,LU,969,female,LIS,1994
+Luxembourg,LU,1324,female,LIS,1997
+Luxembourg,LU,1330,female,LIS,2000
+Luxembourg,LU,2027,female,LIS,2004
+Luxembourg,LU,2128,female,LIS,2007
+Luxembourg,LU,2926,female,LIS,2010
+Luxembourg,LU,1889,female,LIS,2013
+Madagascar,MG,1246,male,DHS,2003
+Madagascar,MG,5057,male,DHS,2008
+Madagascar,MG,3260,female,DHS,1992
+Madagascar,MG,3825,female,DHS,1997
+Madagascar,MG,4487,female,DHS,2003
+Madagascar,MG,9246,female,DHS,2008
+Liberia,LR,32950,male,IPUMS,2008
+Liberia,LR,30032,female,IPUMS,2008
+Lesotho,LS,19002,male,IPUMS,1996
+Lesotho,LS,19841,male,IPUMS,2006
+Lesotho,LS,18143,female,IPUMS,1996
+Lesotho,LS,21350,female,IPUMS,2006
+Malawi,MW,96214,male,IPUMS,1987
+Malawi,MW,135932,male,IPUMS,1998
+Malawi,MW,188331,male,IPUMS,2008
+Malawi,MW,96359,female,IPUMS,1987
+Malawi,MW,117808,female,IPUMS,1998
+Malawi,MW,151136,female,IPUMS,2008
+Malaysia,MY,48565,male,IPUMS,1991
+Malaysia,MY,66358,male,IPUMS,2000
+Malaysia,MY,47039,female,IPUMS,1991
+Malaysia,MY,64570,female,IPUMS,2000
+Maldives,MV,1450,male,DHS,2009
+Maldives,MV,2157,male,DHS,2016
+Maldives,MV,6485,female,DHS,2009
+Maldives,MV,5363,female,DHS,2016
+Mali,ML,107425,male,IPUMS,1998
+Mali,ML,164043,male,IPUMS,2009
+Mali,ML,88767,female,IPUMS,1998
+Mali,ML,127200,female,IPUMS,2009
+Malta,MT,1875,male,SILC,2007
+Malta,MT,1873,female,SILC,2007
+Mexico,MX,54415,male,IPUMS,1970
+Mexico,MX,1112016,male,IPUMS,1990
+Mexico,MX,47047,male,IPUMS,1995
+Mexico,MX,1465554,male,IPUMS,2000
+Mexico,MX,1704413,male,IPUMS,2010
+Mexico,MX,1632101,male,IPUMS,2015
+Mexico,MX,46840,female,IPUMS,1970
+Mexico,MX,997387,female,IPUMS,1990
+Mexico,MX,44128,female,IPUMS,1995
+Mexico,MX,1358637,female,IPUMS,2000
+Mexico,MX,1668160,female,IPUMS,2010
+Mexico,MX,1627373,female,IPUMS,2015
+Moldova,MD,3933,female,DHS,2005
+Mongolia,MN,39608,male,IPUMS,2000
+Mongolia,MN,39975,female,IPUMS,2000
+Mauritius,MU,17758,male,IPUMS,1990
+Mauritius,MU,21728,male,IPUMS,2000
+Mauritius,MU,21959,male,IPUMS,2011
+Mauritius,MU,16467,female,IPUMS,1990
+Mauritius,MU,21183,female,IPUMS,2000
+Mauritius,MU,22598,female,IPUMS,2011
+Mozambique,MZ,181120,male,IPUMS,1997
+Mozambique,MZ,235322,male,IPUMS,2007
+Mozambique,MZ,167982,female,IPUMS,1997
+Mozambique,MZ,205780,female,IPUMS,2007
+Morocco,MA,157363,male,IPUMS,1994
+Morocco,MA,205045,male,IPUMS,2004
+Morocco,MA,496285,male,IPUMS,2014
+Morocco,MA,140852,female,IPUMS,1994
+Morocco,MA,182481,female,IPUMS,2004
+Morocco,MA,501936,female,IPUMS,2014
+Nepal,NP,284072,male,IPUMS,2001
+Nepal,NP,393093,male,IPUMS,2011
+Nepal,NP,235628,female,IPUMS,2001
+Nepal,NP,365181,female,IPUMS,2011
+Namibia,NA,745,male,DHS,2000
+Namibia,NA,989,male,DHS,2006
+Namibia,NA,1082,male,DHS,2013
+Namibia,NA,2632,female,DHS,1992
+Namibia,NA,3612,female,DHS,2000
+Namibia,NA,5170,female,DHS,2006
+Namibia,NA,5231,female,DHS,2013
+Myanmar,MM,699502,male,IPUMS,2014
+Myanmar,MM,759335,female,IPUMS,2014
+Netherlands,NL,1709,male,LIS,1990
+Netherlands,NL,2173,male,LIS,1993
+Netherlands,NL,2040,male,LIS,1999
+Netherlands,NL,4492,male,LIS,2004
+Netherlands,NL,4458,male,LIS,2007
+Netherlands,NL,4389,male,LIS,2010
+Netherlands,NL,4079,male,LIS,2013
+Netherlands,NL,4304,male,LIS,2015
+Netherlands,NL,4163,male,LIS,2016
+Netherlands,NL,3810,male,LIS,2017
+Netherlands,NL,3972,male,LIS,2018
+Netherlands,NL,1927,female,LIS,1990
+Netherlands,NL,2358,female,LIS,1993
+Netherlands,NL,2379,female,LIS,1999
+Netherlands,NL,4782,female,LIS,2004
+Netherlands,NL,4902,female,LIS,2007
+Netherlands,NL,4841,female,LIS,2010
+Netherlands,NL,4521,female,LIS,2013
+Netherlands,NL,4845,female,LIS,2015
+Netherlands,NL,4699,female,LIS,2016
+Netherlands,NL,4274,female,LIS,2017
+Netherlands,NL,4475,female,LIS,2018
+Nicaragua,NI,59930,male,IPUMS,2005
+Nicaragua,NI,57203,female,IPUMS,2005
+Norway,NO,2275,male,LIS,1986
+Norway,NO,4510,male,LIS,1991
+Norway,NO,4541,male,LIS,1995
+Norway,NO,6555,male,LIS,2000
+Norway,NO,5825,male,LIS,2004
+Norway,NO,67218,male,LIS,2007
+Norway,NO,72629,male,LIS,2010
+Norway,NO,71809,male,LIS,2013
+Norway,NO,73006,male,LIS,2016
+Norway,NO,74077,male,LIS,2019
+Norway,NO,2214,female,LIS,1986
+Norway,NO,4362,female,LIS,1991
+Norway,NO,4765,female,LIS,1995
+Norway,NO,6784,female,LIS,2000
+Norway,NO,6264,female,LIS,2004
+Norway,NO,74845,female,LIS,2007
+Norway,NO,81594,female,LIS,2010
+Norway,NO,82055,female,LIS,2013
+Norway,NO,81997,female,LIS,2016
+Norway,NO,83967,female,LIS,2019
+Niger,NE,1365,male,DHS,1992
+Niger,NE,2059,male,DHS,1998
+Niger,NE,2016,male,DHS,2006
+Niger,NE,2537,male,DHS,2012
+Niger,NE,3373,female,DHS,1992
+Niger,NE,4107,female,DHS,1998
+Niger,NE,5297,female,DHS,2006
+Niger,NE,6636,female,DHS,2012
+Pakistan,PK,16181,male,LFS,2010
+Pakistan,PK,16359,male,LFS,2011
+Pakistan,PK,14703,male,LFS,2012
+Pakistan,PK,32963,male,LFS,2013
+Pakistan,PK,35785,male,LFS,2014
+Pakistan,PK,17615,male,LFS,2015
+Pakistan,PK,17777,male,LFS,2017
+Pakistan,PK,34998,male,LFS,2018
+Pakistan,PK,17372,male,LFS,2019
+Pakistan,PK,13771,female,LFS,2010
+Pakistan,PK,14060,female,LFS,2011
+Pakistan,PK,12349,female,LFS,2012
+Pakistan,PK,28293,female,LFS,2013
+Pakistan,PK,30704,female,LFS,2014
+Pakistan,PK,15128,female,LFS,2015
+Pakistan,PK,15577,female,LFS,2017
+Pakistan,PK,30765,female,LFS,2018
+Pakistan,PK,15235,female,LFS,2019
+Panama,PA,5701,male,IPUMS,1960
+Panama,PA,17105,male,IPUMS,1970
+Panama,PA,23232,male,IPUMS,1980
+Panama,PA,37155,male,IPUMS,2000
+Panama,PA,43672,male,IPUMS,2010
+Panama,PA,4837,female,IPUMS,1960
+Panama,PA,14923,female,IPUMS,1970
+Panama,PA,21210,female,IPUMS,1980
+Panama,PA,38179,female,IPUMS,2000
+Panama,PA,47917,female,IPUMS,2010
+Nigeria,NG,1250,male,DHS,1999
+Nigeria,NG,1013,male,DHS,2003
+Nigeria,NG,8474,male,DHS,2008
+Nigeria,NG,8722,male,DHS,2013
+Nigeria,NG,8028,male,DHS,2018
+Nigeria,NG,4566,female,DHS,1990
+Nigeria,NG,3779,female,DHS,1999
+Nigeria,NG,4069,female,DHS,2003
+Nigeria,NG,18517,female,DHS,2008
+Nigeria,NG,21806,female,DHS,2013
+Nigeria,NG,22738,female,DHS,2018
+Papua New Guinea,PG,45009,male,IPUMS,1980
+Papua New Guinea,PG,41823,male,IPUMS,1990
+Papua New Guinea,PG,64022,male,IPUMS,2000
+Papua New Guinea,PG,43363,female,IPUMS,1980
+Papua New Guinea,PG,36295,female,IPUMS,1990
+Papua New Guinea,PG,55700,female,IPUMS,2000
+Paraguay,PY,8987,male,IPUMS,1962
+Paraguay,PY,27280,male,IPUMS,1972
+Paraguay,PY,39839,male,IPUMS,1982
+Paraguay,PY,58249,male,IPUMS,1992
+Paraguay,PY,68530,male,IPUMS,2002
+Paraguay,PY,7577,female,IPUMS,1962
+Paraguay,PY,27144,female,IPUMS,1972
+Paraguay,PY,36694,female,IPUMS,1982
+Paraguay,PY,55358,female,IPUMS,1992
+Paraguay,PY,66453,female,IPUMS,2002
+Peru,PE,284176,male,IPUMS,1993
+Peru,PE,371424,male,IPUMS,2007
+Peru,PE,279636,female,IPUMS,1993
+Peru,PE,386775,female,IPUMS,2007
+Philippines,PH,939511,male,IPUMS,1990
+Philippines,PH,852952,female,IPUMS,1990
+Poland,PL,18030,male,LIS,1995
+Poland,PL,17328,male,LIS,1999
+Poland,PL,17036,male,LIS,2004
+Poland,PL,18677,male,LIS,2005
+Poland,PL,19869,male,LIS,2006
+Poland,PL,19224,male,LIS,2007
+Poland,PL,19015,male,LIS,2008
+Poland,PL,18580,male,LIS,2009
+Poland,PL,17919,male,LIS,2010
+Poland,PL,17731,male,LIS,2011
+Poland,PL,17130,male,LIS,2012
+Poland,PL,16460,male,LIS,2013
+Poland,PL,16363,male,LIS,2014
+Poland,PL,15956,male,LIS,2015
+Poland,PL,15705,male,LIS,2016
+Poland,PL,15178,male,LIS,2017
+Poland,PL,14261,male,LIS,2018
+Poland,PL,13960,male,LIS,2019
+Poland,PL,13012,male,LIS,2020
+Poland,PL,19180,female,LIS,1995
+Poland,PL,18807,female,LIS,1999
+Poland,PL,18777,female,LIS,2004
+Poland,PL,20585,female,LIS,2005
+Poland,PL,22136,female,LIS,2006
+Poland,PL,21643,female,LIS,2007
+Poland,PL,21307,female,LIS,2008
+Poland,PL,20660,female,LIS,2009
+Poland,PL,19647,female,LIS,2010
+Poland,PL,19627,female,LIS,2011
+Poland,PL,18974,female,LIS,2012
+Poland,PL,18417,female,LIS,2013
+Poland,PL,18343,female,LIS,2014
+Poland,PL,17861,female,LIS,2015
+Poland,PL,17633,female,LIS,2016
+Poland,PL,17040,female,LIS,2017
+Poland,PL,16046,female,LIS,2018
+Poland,PL,15574,female,LIS,2019
+Poland,PL,14437,female,LIS,2020
+Portugal,PT,88442,male,IPUMS,1981
+Portugal,PT,89439,male,IPUMS,1991
+Portugal,PT,94774,male,IPUMS,2001
+Portugal,PT,88161,male,IPUMS,2011
+Portugal,PT,90661,female,IPUMS,1981
+Portugal,PT,92479,female,IPUMS,1991
+Portugal,PT,100566,female,IPUMS,2001
+Portugal,PT,100485,female,IPUMS,2011
+Romania,RO,386103,male,IPUMS,1992
+Romania,RO,353468,male,IPUMS,2002
+Romania,RO,296962,male,IPUMS,2011
+Romania,RO,378241,female,IPUMS,1992
+Romania,RO,367122,female,IPUMS,2002
+Romania,RO,320449,female,IPUMS,2011
+Puerto Rico,PR,25610,male,IPUMS,1990
+Puerto Rico,PR,26467,male,IPUMS,2000
+Puerto Rico,PR,4204,male,IPUMS,2005
+Puerto Rico,PR,3994,male,IPUMS,2010
+Puerto Rico,PR,28998,female,IPUMS,1990
+Puerto Rico,PR,32609,female,IPUMS,2000
+Puerto Rico,PR,5674,female,IPUMS,2005
+Puerto Rico,PR,5639,female,IPUMS,2010
+Russian Federation,RU,994292,male,IPUMS,2002
+Russian Federation,RU,909868,male,IPUMS,2010
+Russian Federation,RU,1286970,female,IPUMS,2002
+Russian Federation,RU,1214202,female,IPUMS,2010
+Sierra Leone,SL,41593,male,IPUMS,2004
+Sierra Leone,SL,37175,female,IPUMS,2004
+Senegal,SN,70944,male,IPUMS,2002
+Senegal,SN,55333,female,IPUMS,2002
+Slovak Republic,SK,8720,male,LIS,1992
+Slovak Republic,SK,2773,male,LIS,2004
+Slovak Republic,SK,2782,male,LIS,2007
+Slovak Republic,SK,2488,male,LIS,2010
+Slovak Republic,SK,2497,male,LIS,2013
+Slovak Republic,SK,2466,male,LIS,2014
+Slovak Republic,SK,2461,male,LIS,2015
+Slovak Republic,SK,2325,male,LIS,2016
+Slovak Republic,SK,2225,male,LIS,2017
+Slovak Republic,SK,1959,male,LIS,2018
+Slovak Republic,SK,8921,female,LIS,1992
+Slovak Republic,SK,3041,female,LIS,2004
+Slovak Republic,SK,3043,female,LIS,2007
+Slovak Republic,SK,2858,female,LIS,2010
+Slovak Republic,SK,2916,female,LIS,2013
+Slovak Republic,SK,2862,female,LIS,2014
+Slovak Republic,SK,2871,female,LIS,2015
+Slovak Republic,SK,2709,female,LIS,2016
+Slovak Republic,SK,2628,female,LIS,2017
+Slovak Republic,SK,2360,female,LIS,2018
+Serbia,RS,2784,male,SILC,2013
+Serbia,RS,2665,male,SILC,2014
+Serbia,RS,2481,male,SILC,2015
+Serbia,RS,2368,male,SILC,2016
+Serbia,RS,2183,male,SILC,2017
+Serbia,RS,2096,male,SILC,2018
+Serbia,RS,2032,male,SILC,2019
+Serbia,RS,1857,male,SILC,2020
+Serbia,RS,3450,female,SILC,2013
+Serbia,RS,3305,female,SILC,2014
+Serbia,RS,3175,female,SILC,2015
+Serbia,RS,3015,female,SILC,2016
+Serbia,RS,2827,female,SILC,2017
+Serbia,RS,2692,female,SILC,2018
+Serbia,RS,2576,female,SILC,2019
+Serbia,RS,2423,female,SILC,2020
+Rwanda,RW,104278,male,IPUMS,2002
+Rwanda,RW,160535,male,IPUMS,2012
+Rwanda,RW,131747,female,IPUMS,2002
+Rwanda,RW,194305,female,IPUMS,2012
+South Sudan,SS,43728,male,IPUMS,2008
+South Sudan,SS,44478,female,IPUMS,2008
+South Africa,ZA,287566,male,IPUMS,1996
+South Africa,ZA,313549,male,IPUMS,2001
+South Africa,ZA,358249,male,IPUMS,2011
+South Africa,ZA,368150,female,IPUMS,1996
+South Africa,ZA,413088,female,IPUMS,2001
+South Africa,ZA,494369,female,IPUMS,2011
+Spain,ES,3491,male,LIS,1995
+Spain,ES,2655,male,LIS,2000
+Spain,ES,7018,male,LIS,2004
+Spain,ES,6315,male,LIS,2007
+Spain,ES,5780,male,LIS,2010
+Spain,ES,5233,male,LIS,2013
+Spain,ES,5457,male,LIS,2016
+Spain,ES,3728,female,LIS,1995
+Spain,ES,2900,female,LIS,2000
+Spain,ES,7721,female,LIS,2004
+Spain,ES,7012,female,LIS,2007
+Spain,ES,6550,female,LIS,2010
+Spain,ES,6069,female,LIS,2013
+Spain,ES,6435,female,LIS,2016
+Sudan,SD,573811,male,IPUMS,2008
+Sudan,SD,457586,female,IPUMS,2008
+Taiwan,TW,12495,male,LIS,1991
+Taiwan,TW,10426,male,LIS,1995
+Taiwan,TW,9269,male,LIS,1997
+Taiwan,TW,8773,male,LIS,2000
+Taiwan,TW,7628,male,LIS,2005
+Taiwan,TW,7631,male,LIS,2007
+Taiwan,TW,7675,male,LIS,2010
+Taiwan,TW,7777,male,LIS,2013
+Taiwan,TW,7351,male,LIS,2016
+Taiwan,TW,11991,female,LIS,1991
+Taiwan,TW,10179,female,LIS,1995
+Taiwan,TW,9117,female,LIS,1997
+Taiwan,TW,8664,female,LIS,2000
+Taiwan,TW,7787,female,LIS,2005
+Taiwan,TW,7755,female,LIS,2007
+Taiwan,TW,7962,female,LIS,2010
+Taiwan,TW,8018,female,LIS,2013
+Taiwan,TW,7687,female,LIS,2016
+Suriname,SR,5004,male,IPUMS,2012
+Suriname,SR,5853,female,IPUMS,2012
+Tanzania,TZ,414168,male,IPUMS,2002
+Tanzania,TZ,496227,male,IPUMS,2012
+Tanzania,TZ,422535,female,IPUMS,2002
+Tanzania,TZ,495921,female,IPUMS,2012
+Timor-Leste,TL,2211,male,DHS,2009
+Timor-Leste,TL,2390,male,DHS,2016
+Timor-Leste,TL,7297,female,DHS,2009
+Timor-Leste,TL,7377,female,DHS,2016
+Togo,TG,30500,male,IPUMS,2010
+Togo,TG,35836,female,IPUMS,2010
+Tajikistan,TJ,6163,female,DHS,2012
+Tajikistan,TJ,7301,female,DHS,2017
+Thailand,TH,74259,male,IPUMS,1990
+Thailand,TH,94172,male,IPUMS,2000
+Thailand,TH,72585,female,IPUMS,1990
+Thailand,TH,95020,female,IPUMS,2000
+Uganda,UG,166559,male,IPUMS,1991
+Uganda,UG,303894,male,IPUMS,2002
+Uganda,UG,449236,male,IPUMS,2014
+Uganda,UG,148169,female,IPUMS,1991
+Uganda,UG,236590,female,IPUMS,2002
+Uganda,UG,366459,female,IPUMS,2014
+Trinidad and Tobago,TT,6775,male,IPUMS,1970
+Trinidad and Tobago,TT,13164,male,IPUMS,1980
+Trinidad and Tobago,TT,14930,male,IPUMS,2000
+Trinidad and Tobago,TT,14248,male,IPUMS,2011
+Trinidad and Tobago,TT,6408,female,IPUMS,1970
+Trinidad and Tobago,TT,12424,female,IPUMS,1980
+Trinidad and Tobago,TT,16086,female,IPUMS,2000
+Trinidad and Tobago,TT,16500,female,IPUMS,2011
+Turkey,TR,414339,male,IPUMS,1990
+Turkey,TR,540527,male,IPUMS,2000
+Turkey,TR,348102,female,IPUMS,1990
+Turkey,TR,470115,female,IPUMS,2000
+Tunisia,TN,202525,male,LFS,2004
+Tunisia,TN,283514,female,LFS,2004
+Uruguay,UY,37634,male,IPUMS,1963
+Uruguay,UY,41534,male,IPUMS,1975
+Uruguay,UY,43456,male,IPUMS,1985
+Uruguay,UY,39553,female,IPUMS,1963
+Uruguay,UY,43808,female,IPUMS,1975
+Uruguay,UY,46896,female,IPUMS,1985
+Slovenia,SI,1589,male,LIS,1997
+Slovenia,SI,2295,male,LIS,1999
+Slovenia,SI,2028,male,LIS,2004
+Slovenia,SI,1916,male,LIS,2007
+Slovenia,SI,2025,male,LIS,2010
+Slovenia,SI,1878,male,LIS,2012
+Slovenia,SI,1591,female,LIS,1997
+Slovenia,SI,2341,female,LIS,1999
+Slovenia,SI,2127,female,LIS,2004
+Slovenia,SI,2019,female,LIS,2007
+Slovenia,SI,2198,female,LIS,2010
+Slovenia,SI,2029,female,LIS,2012
+United Kingdom,GB,33570,male,LFS,2012
+United Kingdom,GB,33372,male,LFS,2013
+United Kingdom,GB,32766,male,LFS,2014
+United Kingdom,GB,31136,male,LFS,2015
+United Kingdom,GB,29443,male,LFS,2016
+United Kingdom,GB,28761,male,LFS,2017
+United Kingdom,GB,27492,male,LFS,2018
+United Kingdom,GB,27076,male,LFS,2019
+United Kingdom,GB,18875,male,LFS,2020
+United Kingdom,GB,43096,female,LFS,2012
+United Kingdom,GB,43012,female,LFS,2013
+United Kingdom,GB,42104,female,LFS,2014
+United Kingdom,GB,39667,female,LFS,2015
+United Kingdom,GB,37215,female,LFS,2016
+United Kingdom,GB,36691,female,LFS,2017
+United Kingdom,GB,35229,female,LFS,2018
+United Kingdom,GB,34131,female,LFS,2019
+United Kingdom,GB,23632,female,LFS,2020
+Zambia,ZM,85889,male,IPUMS,1990
+Zambia,ZM,121063,male,IPUMS,2000
+Zambia,ZM,60444,female,IPUMS,1990
+Zambia,ZM,85193,female,IPUMS,2000
+Zimbabwe,ZW,80396,male,IPUMS,2012
+Zimbabwe,ZW,86073,female,IPUMS,2012
+Venezuela,VE,172147,male,IPUMS,1981
+Venezuela,VE,208735,male,IPUMS,1990
+Venezuela,VE,294209,male,IPUMS,2001
+Venezuela,VE,160466,female,IPUMS,1981
+Venezuela,VE,193853,female,IPUMS,1990
+Venezuela,VE,313585,female,IPUMS,2001
+Vietnam,VN,387604,male,IPUMS,1989
+Vietnam,VN,392967,male,IPUMS,1999
+Vietnam,VN,2571374,male,IPUMS,2009
+Vietnam,VN,449555,female,IPUMS,1989
+Vietnam,VN,428650,female,IPUMS,1999
+Vietnam,VN,2701257,female,IPUMS,2009

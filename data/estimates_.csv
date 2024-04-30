@@ -1,0 +1,4481 @@
+name,confHigh,confLow,estimate,gender,t_es
+Africa,0.01,-0.0151,-0.0025,male,-5
+Africa,0.0119,-0.0104,0.0007,male,-4
+Africa,0.014,-0.0076,0.0032,male,-3
+Africa,0,0,0,male,-2
+Africa,0.018,-0.0032,0.0074,male,-1
+Africa,0.0245,0.006,0.0153,male,0
+Africa,0.0211,-0.001,0.0101,male,1
+Africa,0.0273,0.0089,0.0181,male,2
+Africa,0.0254,0.008,0.0167,male,3
+Africa,0.0172,-0.0022,0.0075,male,4
+Africa,0.0152,-0.0036,0.0058,male,5
+Africa,0.0109,-0.0097,0.0006,male,6
+Africa,0.013,-0.0056,0.0037,male,7
+Africa,0.0095,-0.0096,-0.0001,male,8
+Africa,0.008,-0.0114,-0.0017,male,9
+Africa,0.0107,-0.0074,0.0017,male,10
+Africa,0.0224,-0.047,-0.0123,female,-5
+Africa,0.0216,-0.0425,-0.0105,female,-4
+Africa,0.0149,-0.0463,-0.0157,female,-3
+Africa,0,0,0,female,-2
+Africa,0.0326,-0.0201,0.0062,female,-1
+Africa,-0.0992,-0.1486,-0.1239,female,0
+Africa,-0.0204,-0.0692,-0.0448,female,1
+Africa,-0.0398,-0.0871,-0.0634,female,2
+Africa,-0.051,-0.0964,-0.0737,female,3
+Africa,-0.0673,-0.1122,-0.0897,female,4
+Africa,-0.0575,-0.102,-0.0798,female,5
+Africa,-0.0496,-0.0931,-0.0714,female,6
+Africa,-0.0692,-0.1124,-0.0908,female,7
+Africa,-0.0762,-0.1185,-0.0973,female,8
+Africa,-0.0662,-0.1095,-0.0879,female,9
+Africa,-0.0796,-0.1208,-0.1002,female,10
+Asia,-0.0001,-0.0173,-0.0087,male,-5
+Asia,0.0076,-0.0088,-0.0006,male,-4
+Asia,0.0093,-0.0063,0.0015,male,-3
+Asia,0,0,0,male,-2
+Asia,0.012,-0.0028,0.0046,male,-1
+Asia,0.0092,-0.0052,0.002,male,0
+Asia,0.0123,-0.002,0.0052,male,1
+Asia,0.0124,-0.001,0.0057,male,2
+Asia,0.0078,-0.008,-0.0001,male,3
+Asia,0.0102,-0.003,0.0036,male,4
+Asia,0.0139,0.0011,0.0075,male,5
+Asia,0.0156,0.0024,0.009,male,6
+Asia,0.01,-0.0036,0.0032,male,7
+Asia,0.0093,-0.0055,0.0019,male,8
+Asia,0.0112,-0.0021,0.0046,male,9
+Asia,0.0094,-0.0054,0.002,male,10
+Asia,0.0369,-0.0418,-0.0025,female,-5
+Asia,0.0267,-0.0459,-0.0096,female,-4
+Asia,0.041,-0.03,0.0055,female,-3
+Asia,0,0,0,female,-2
+Asia,0.0301,-0.0392,-0.0046,female,-1
+Asia,-0.3437,-0.4041,-0.3739,female,0
+Asia,-0.2292,-0.294,-0.2616,female,1
+Asia,-0.1773,-0.2434,-0.2104,female,2
+Asia,-0.1583,-0.2292,-0.1937,female,3
+Asia,-0.1562,-0.221,-0.1886,female,4
+Asia,-0.1097,-0.1787,-0.1442,female,5
+Asia,-0.1255,-0.1902,-0.1579,female,6
+Asia,-0.1186,-0.1848,-0.1517,female,7
+Asia,-0.106,-0.1704,-0.1382,female,8
+Asia,-0.0724,-0.141,-0.1067,female,9
+Asia,-0.061,-0.1245,-0.0927,female,10
+Afghanistan,0.0307,-0.0414,-0.0054,male,-5
+Afghanistan,0.1141,-0.1467,-0.0163,female,-5
+Afghanistan,0.0296,-0.0342,-0.0023,male,-4
+Afghanistan,0.2299,-0.1201,0.0549,female,-4
+Afghanistan,0.026,-0.024,0.001,male,-3
+Afghanistan,0.0132,-0.2475,-0.1171,female,-3
+Afghanistan,0,0,0,male,-2
+Afghanistan,0,0,0,female,-2
+Afghanistan,0.0236,-0.0281,-0.0023,male,-1
+Afghanistan,0.2033,-0.1338,0.0348,female,-1
+Afghanistan,0.0582,-0.0695,-0.0057,male,0
+Afghanistan,-0.0313,-0.6789,-0.3551,female,0
+Afghanistan,0.0684,-0.0389,0.0148,male,1
+Afghanistan,0.0891,-0.6832,-0.297,female,1
+Afghanistan,0.0501,-0.061,-0.0055,male,2
+Afghanistan,0.11,-0.5286,-0.2093,female,2
+Afghanistan,0.0677,-0.0233,0.0222,male,3
+Afghanistan,-0.0735,-0.6649,-0.3692,female,3
+Afghanistan,0.0602,-0.0535,0.0034,male,4
+Afghanistan,0.2491,-0.5911,-0.171,female,4
+Afghanistan,0.0785,-0.0177,0.0304,male,5
+Afghanistan,0.6078,-0.5892,0.0093,female,5
+Afghanistan,0.086,0.0015,0.0438,male,6
+Afghanistan,0.4599,-0.6602,-0.1001,female,6
+Afghanistan,0.042,-0.0885,-0.0232,male,7
+Afghanistan,-0.0997,-0.7974,-0.4486,female,7
+Afghanistan,0.0828,-0.0167,0.033,male,8
+Afghanistan,-0.2874,-0.9123,-0.5998,female,8
+Afghanistan,0.0869,-0.0284,0.0293,male,9
+Afghanistan,-0.1514,-0.8589,-0.5052,female,9
+Afghanistan,0.0981,-0.0029,0.0476,male,10
+Afghanistan,0.0159,-0.7316,-0.3578,female,10
+Albania,0.0852,-0.272,-0.0934,male,-5
+Albania,0.1114,-0.3301,-0.1094,female,-5
+Albania,0.1138,-0.2345,-0.0603,male,-4
+Albania,0.1555,-0.2609,-0.0527,female,-4
+Albania,0.155,-0.1713,-0.0082,male,-3
+Albania,0.1114,-0.2626,-0.0756,female,-3
+Albania,0,0,0,male,-2
+Albania,0,0,0,female,-2
+Albania,0.1193,-0.1761,-0.0284,male,-1
+Albania,0.0586,-0.2572,-0.0993,female,-1
+Albania,0.1427,-0.2085,-0.0329,male,0
+Albania,-0.3345,-0.7028,-0.5187,female,0
+Albania,0.2034,-0.1049,0.0492,male,1
+Albania,-0.2213,-0.5874,-0.4043,female,1
+Albania,0.1825,-0.1138,0.0343,male,2
+Albania,0.0234,-0.3643,-0.1704,female,2
+Albania,0.1338,-0.1737,-0.02,male,3
+Albania,-0.1366,-0.4752,-0.3059,female,3
+Albania,0.1598,-0.1244,0.0177,male,4
+Albania,-0.1428,-0.4743,-0.3085,female,4
+Albania,0.0155,-0.3314,-0.1579,male,5
+Albania,-0.1577,-0.4788,-0.3182,female,5
+Albania,0.0663,-0.2446,-0.0891,male,6
+Albania,-0.2145,-0.5379,-0.3762,female,6
+Albania,0.1597,-0.1284,0.0156,male,7
+Albania,-0.1475,-0.4465,-0.297,female,7
+Albania,0.1676,-0.1197,0.024,male,8
+Albania,-0.2608,-0.556,-0.4084,female,8
+Albania,0.1508,-0.1441,0.0033,male,9
+Albania,-0.2747,-0.5614,-0.418,female,9
+Albania,0.1389,-0.1723,-0.0167,male,10
+Albania,-0.1525,-0.4513,-0.3019,female,10
+Algeria,0.0177,-0.0168,0.0004,male,-5
+Algeria,0.0287,-0.1897,-0.0805,female,-5
+Algeria,0.0137,-0.0192,-0.0027,male,-4
+Algeria,0.1055,-0.1068,-0.0006,female,-4
+Algeria,0.0186,-0.0136,0.0025,male,-3
+Algeria,0.0838,-0.1165,-0.0163,female,-3
+Algeria,0,0,0,male,-2
+Algeria,0,0,0,female,-2
+Algeria,0.007,-0.0238,-0.0084,male,-1
+Algeria,0.1311,-0.0542,0.0384,female,-1
+Algeria,0.0456,-0.0099,0.0178,male,0
+Algeria,-0.0383,-0.2684,-0.1533,female,0
+Algeria,0.046,-0.0098,0.0181,male,1
+Algeria,-0.2184,-0.4199,-0.3191,female,1
+Algeria,0.0683,0.015,0.0416,male,2
+Algeria,-0.2973,-0.4785,-0.3879,female,2
+Algeria,0.0748,0.0204,0.0476,male,3
+Algeria,-0.2715,-0.451,-0.3612,female,3
+Algeria,0.0638,0.007,0.0354,male,4
+Algeria,-0.3364,-0.5054,-0.4209,female,4
+Algeria,0.0644,0.0094,0.0369,male,5
+Algeria,-0.4168,-0.57,-0.4934,female,5
+Algeria,0.0729,0.0171,0.045,male,6
+Algeria,-0.4227,-0.5742,-0.4984,female,6
+Algeria,0.0725,0.0134,0.0429,male,7
+Algeria,-0.4562,-0.6071,-0.5317,female,7
+Algeria,0.0622,0.0011,0.0316,male,8
+Algeria,-0.4888,-0.6343,-0.5616,female,8
+Algeria,0.082,0.0215,0.0518,male,9
+Algeria,-0.5042,-0.6475,-0.5758,female,9
+Algeria,0.0668,0.0035,0.0352,male,10
+Algeria,-0.5426,-0.6816,-0.6121,female,10
+Angola,0.0416,-0.0816,-0.02,male,-5
+Angola,0.1873,-0.1112,0.0381,female,-5
+Angola,0.0319,-0.0783,-0.0232,male,-4
+Angola,0.1175,-0.1392,-0.0109,female,-4
+Angola,0.0207,-0.0794,-0.0294,male,-3
+Angola,0.1699,-0.0518,0.0591,female,-3
+Angola,0,0,0,male,-2
+Angola,0,0,0,female,-2
+Angola,-0.0301,-0.1177,-0.0739,male,-1
+Angola,0.0897,-0.0854,0.0021,female,-1
+Angola,0.0739,-0.0109,0.0315,male,0
+Angola,0.0084,-0.1525,-0.072,female,0
+Angola,0.0949,0.0205,0.0577,male,1
+Angola,0.1537,0.0078,0.0807,female,1
+Angola,0.06,-0.014,0.023,male,2
+Angola,0.153,0.0093,0.0812,female,2
+Angola,0.0629,-0.0088,0.027,male,3
+Angola,0.115,-0.0209,0.0471,female,3
+Angola,0.0562,-0.0135,0.0213,male,4
+Angola,0.0892,-0.0404,0.0244,female,4
+Angola,0.0231,-0.0453,-0.0111,male,5
+Angola,0.0446,-0.0804,-0.0179,female,5
+Angola,-0.0185,-0.0857,-0.0521,male,6
+Angola,0.0371,-0.0835,-0.0232,female,6
+Angola,-0.028,-0.0955,-0.0618,male,7
+Angola,-0.0328,-0.1504,-0.0916,female,7
+Angola,-0.0103,-0.0776,-0.0439,male,8
+Angola,0.016,-0.1024,-0.0432,female,8
+Angola,-0.0057,-0.0739,-0.0398,male,9
+Angola,0.0163,-0.1027,-0.0432,female,9
+Angola,-0.0328,-0.102,-0.0674,male,10
+Angola,0.006,-0.115,-0.0545,female,10
+Argentina,0.001,-0.0111,-0.0051,male,-5
+Argentina,0.0347,-0.0121,0.0113,female,-5
+Argentina,0.0061,-0.0052,0.0004,male,-4
+Argentina,0.0326,-0.0106,0.011,female,-4
+Argentina,0.0069,-0.0038,0.0015,male,-3
+Argentina,0.0215,-0.0185,0.0015,female,-3
+Argentina,0,0,0,male,-2
+Argentina,0,0,0,female,-2
+Argentina,0.0084,-0.0016,0.0034,male,-1
+Argentina,-0.0014,-0.0371,-0.0192,female,-1
+Argentina,0.0157,0.0059,0.0108,male,0
+Argentina,-0.3471,-0.3791,-0.3631,female,0
+Argentina,0.0152,0.0056,0.0104,male,1
+Argentina,-0.3587,-0.3904,-0.3746,female,1
+Argentina,0.0101,0.0007,0.0054,male,2
+Argentina,-0.3983,-0.428,-0.4132,female,2
+Argentina,0.0086,-0.0007,0.004,male,3
+Argentina,-0.4096,-0.4386,-0.4241,female,3
+Argentina,0.0071,-0.0022,0.0024,male,4
+Argentina,-0.4279,-0.4562,-0.4421,female,4
+Argentina,0.0055,-0.0038,0.0009,male,5
+Argentina,-0.44,-0.4678,-0.4539,female,5
+Argentina,0.0055,-0.0039,0.0008,male,6
+Argentina,-0.4485,-0.476,-0.4622,female,6
+Argentina,-0.0003,-0.01,-0.0051,male,7
+Argentina,-0.4452,-0.4726,-0.4589,female,7
+Argentina,-0.0044,-0.0142,-0.0093,male,8
+Argentina,-0.4574,-0.4844,-0.4709,female,8
+Argentina,-0.0009,-0.0105,-0.0057,male,9
+Argentina,-0.4507,-0.4774,-0.4641,female,9
+Argentina,-0.0054,-0.0153,-0.0103,male,10
+Argentina,-0.4571,-0.4834,-0.4702,female,10
+Armenia,0.0209,-0.145,-0.0621,male,-5
+Armenia,0.0227,-0.3231,-0.1502,female,-5
+Armenia,0.0451,-0.1085,-0.0317,male,-4
+Armenia,0.0974,-0.2359,-0.0693,female,-4
+Armenia,0.0639,-0.0813,-0.0087,male,-3
+Armenia,0.0714,-0.2353,-0.082,female,-3
+Armenia,0,0,0,male,-2
+Armenia,0,0,0,female,-2
+Armenia,0.0181,-0.1192,-0.0506,male,-1
+Armenia,0.1381,-0.139,-0.0005,female,-1
+Armenia,0.0791,-0.0529,0.0131,male,0
+Armenia,-0.2359,-0.4823,-0.3591,female,0
+Armenia,0.0823,-0.0424,0.0199,male,1
+Armenia,-0.1999,-0.4347,-0.3173,female,1
+Armenia,0.0661,-0.0552,0.0054,male,2
+Armenia,-0.127,-0.3531,-0.2401,female,2
+Armenia,0.0593,-0.0603,-0.0005,male,3
+Armenia,-0.1819,-0.3998,-0.2908,female,3
+Armenia,0.0402,-0.0783,-0.0191,male,4
+Armenia,-0.1995,-0.4109,-0.3052,female,4
+Armenia,0.045,-0.0734,-0.0142,male,5
+Armenia,-0.1947,-0.4025,-0.2986,female,5
+Armenia,0.0042,-0.1143,-0.055,male,6
+Armenia,-0.2315,-0.4325,-0.332,female,6
+Armenia,0.019,-0.0984,-0.0397,male,7
+Armenia,-0.1583,-0.3573,-0.2578,female,7
+Armenia,-0.018,-0.1359,-0.077,male,8
+Armenia,-0.1775,-0.3718,-0.2747,female,8
+Armenia,-0.0116,-0.1303,-0.0709,male,9
+Armenia,-0.1218,-0.3159,-0.2189,female,9
+Armenia,-0.0178,-0.1366,-0.0772,male,10
+Armenia,-0.1233,-0.3127,-0.218,female,10
+Australia,0.0864,0.0096,0.048,male,-5
+Australia,0.0891,0.0162,0.0527,female,-5
+Australia,0.0768,0.0055,0.0412,male,-4
+Australia,0.0649,-0.0006,0.0321,female,-4
+Australia,0.0413,-0.027,0.0071,male,-3
+Australia,0.049,-0.0105,0.0192,female,-3
+Australia,0,0,0,male,-2
+Australia,0,0,0,female,-2
+Australia,-0.0061,-0.0689,-0.0375,male,-1
+Australia,-0.0381,-0.0928,-0.0654,female,-1
+Australia,-0.0113,-0.0712,-0.0412,male,0
+Australia,-0.3912,-0.4503,-0.4207,female,0
+Australia,-0.0078,-0.0672,-0.0375,male,1
+Australia,-0.3842,-0.4419,-0.4131,female,1
+Australia,-0.017,-0.0763,-0.0466,male,2
+Australia,-0.3955,-0.4522,-0.4239,female,2
+Australia,-0.03,-0.0898,-0.0599,male,3
+Australia,-0.4082,-0.4645,-0.4364,female,3
+Australia,-0.0374,-0.0978,-0.0676,male,4
+Australia,-0.3935,-0.4491,-0.4213,female,4
+Australia,-0.0333,-0.0937,-0.0635,male,5
+Australia,-0.4069,-0.4621,-0.4345,female,5
+Australia,-0.0358,-0.0967,-0.0662,male,6
+Australia,-0.3928,-0.4476,-0.4202,female,6
+Australia,-0.0613,-0.1235,-0.0924,male,7
+Australia,-0.3778,-0.4322,-0.405,female,7
+Australia,-0.0496,-0.1119,-0.0807,male,8
+Australia,-0.3652,-0.4192,-0.3922,female,8
+Australia,-0.0454,-0.1084,-0.0769,male,9
+Australia,-0.3535,-0.4072,-0.3804,female,9
+Australia,-0.0599,-0.1243,-0.0921,male,10
+Australia,-0.3601,-0.4137,-0.3869,female,10
+Austria,-0.0521,-0.0586,-0.0554,male,-5
+Austria,-0.0803,-0.0877,-0.084,female,-5
+Austria,-0.034,-0.0396,-0.0368,male,-4
+Austria,-0.0519,-0.058,-0.0549,female,-4
+Austria,-0.0185,-0.0226,-0.0205,male,-3
+Austria,-0.0244,-0.0287,-0.0265,female,-3
+Austria,0,0,0,male,-2
+Austria,0,0,0,female,-2
+Austria,0.0202,0.0163,0.0183,male,-1
+Austria,0.0098,0.0057,0.0077,female,-1
+Austria,0.0261,0.0214,0.0238,male,0
+Austria,-0.6918,-0.6995,-0.6956,female,0
+Austria,0.0249,0.0197,0.0223,male,1
+Austria,-0.5047,-0.5136,-0.5092,female,1
+Austria,0.025,0.0195,0.0222,male,2
+Austria,-0.348,-0.3563,-0.3522,female,2
+Austria,0.0239,0.0181,0.021,male,3
+Austria,-0.3407,-0.3493,-0.345,female,3
+Austria,0.0223,0.0161,0.0192,male,4
+Austria,-0.3147,-0.3233,-0.319,female,4
+Austria,0.0211,0.0144,0.0178,male,5
+Austria,-0.2806,-0.29,-0.2853,female,5
+Austria,0.0197,0.0125,0.0161,male,6
+Austria,-0.261,-0.2707,-0.2658,female,6
+Austria,0.0174,0.0098,0.0136,male,7
+Austria,-0.2512,-0.2607,-0.2559,female,7
+Austria,0.0165,0.0086,0.0125,male,8
+Austria,-0.2378,-0.2475,-0.2426,female,8
+Austria,0.0172,0.0086,0.0129,male,9
+Austria,-0.2272,-0.2374,-0.2323,female,9
+Austria,0.0161,0.007,0.0115,male,10
+Austria,-0.2178,-0.2284,-0.2231,female,10
+Bangladesh,-0.0067,-0.0143,-0.0105,male,-5
+Bangladesh,0.0668,-0.0342,0.0163,female,-5
+Bangladesh,0.0003,-0.0069,-0.0033,male,-4
+Bangladesh,0.05,-0.0337,0.0081,female,-4
+Bangladesh,0.0021,-0.0048,-0.0014,male,-3
+Bangladesh,0.0545,-0.0276,0.0135,female,-3
+Bangladesh,0,0,0,male,-2
+Bangladesh,0,0,0,female,-2
+Bangladesh,0.0019,-0.0047,-0.0014,male,-1
+Bangladesh,0.0496,-0.0223,0.0137,female,-1
+Bangladesh,0.0311,0.0251,0.0281,male,0
+Bangladesh,-0.4947,-0.5492,-0.522,female,0
+Bangladesh,0.0363,0.0307,0.0335,male,1
+Bangladesh,-0.4897,-0.5436,-0.5166,female,1
+Bangladesh,0.0353,0.0298,0.0325,male,2
+Bangladesh,-0.518,-0.5688,-0.5434,female,2
+Bangladesh,0.0392,0.0338,0.0365,male,3
+Bangladesh,-0.537,-0.5857,-0.5614,female,3
+Bangladesh,0.0394,0.034,0.0367,male,4
+Bangladesh,-0.5432,-0.5907,-0.567,female,4
+Bangladesh,0.0384,0.0331,0.0358,male,5
+Bangladesh,-0.5578,-0.6037,-0.5808,female,5
+Bangladesh,0.0418,0.0365,0.0392,male,6
+Bangladesh,-0.5472,-0.5928,-0.57,female,6
+Bangladesh,0.0394,0.0341,0.0367,male,7
+Bangladesh,-0.5677,-0.6111,-0.5894,female,7
+Bangladesh,0.0402,0.0349,0.0375,male,8
+Bangladesh,-0.5788,-0.6214,-0.6001,female,8
+Bangladesh,0.0399,0.0345,0.0372,male,9
+Bangladesh,-0.5928,-0.6354,-0.6141,female,9
+Bangladesh,0.0424,0.0372,0.0398,male,10
+Bangladesh,-0.59,-0.6306,-0.6103,female,10
+Belarus,0.0228,-0.0187,0.0021,male,-5
+Belarus,0.0038,-0.0625,-0.0294,female,-5
+Belarus,0.0124,-0.0262,-0.0069,male,-4
+Belarus,0.0312,-0.0297,0.0008,female,-4
+Belarus,0.0125,-0.0233,-0.0054,male,-3
+Belarus,0.0147,-0.0411,-0.0132,female,-3
+Belarus,0,0,0,male,-2
+Belarus,0,0,0,female,-2
+Belarus,0.0157,-0.0167,-0.0005,male,-1
+Belarus,0.0112,-0.0352,-0.012,female,-1
+Belarus,0.0516,0.0215,0.0365,male,0
+Belarus,-0.5755,-0.6211,-0.5983,female,0
+Belarus,0.0428,0.013,0.0279,male,1
+Belarus,-0.5409,-0.5853,-0.5631,female,1
+Belarus,0.0431,0.0139,0.0285,male,2
+Belarus,-0.3312,-0.3751,-0.3532,female,2
+Belarus,0.0376,0.0081,0.0228,male,3
+Belarus,-0.0729,-0.1142,-0.0936,female,3
+Belarus,0.0453,0.0157,0.0305,male,4
+Belarus,-0.056,-0.0968,-0.0764,female,4
+Belarus,0.0448,0.0152,0.03,male,5
+Belarus,-0.0463,-0.0866,-0.0664,female,5
+Belarus,0.0507,0.0212,0.036,male,6
+Belarus,-0.0411,-0.0809,-0.061,female,6
+Belarus,0.049,0.0194,0.0342,male,7
+Belarus,-0.0461,-0.0856,-0.0659,female,7
+Belarus,0.0468,0.0172,0.032,male,8
+Belarus,-0.0326,-0.0714,-0.052,female,8
+Belarus,0.0456,0.0157,0.0306,male,9
+Belarus,-0.0176,-0.0556,-0.0366,female,9
+Belarus,0.0495,0.0197,0.0346,male,10
+Belarus,-0.0088,-0.0464,-0.0276,female,10
+Belgium,0.0242,-0.0431,-0.0094,male,-5
+Belgium,0.1013,0.0127,0.057,female,-5
+Belgium,0.0257,-0.0438,-0.0091,male,-4
+Belgium,0.0881,0.0084,0.0482,female,-4
+Belgium,0.0239,-0.0406,-0.0084,male,-3
+Belgium,0.0694,-0.0055,0.0319,female,-3
+Belgium,0,0,0,male,-2
+Belgium,0,0,0,female,-2
+Belgium,0.0235,-0.0379,-0.0072,male,-1
+Belgium,0.0309,-0.0427,-0.0059,female,-1
+Belgium,0.0522,-0.004,0.0241,male,0
+Belgium,-0.0852,-0.1624,-0.1238,female,0
+Belgium,0.0425,-0.014,0.0143,male,1
+Belgium,-0.1198,-0.1946,-0.1572,female,1
+Belgium,0.047,-0.0088,0.0191,male,2
+Belgium,-0.1185,-0.192,-0.1552,female,2
+Belgium,0.0517,-0.004,0.0239,male,3
+Belgium,-0.1532,-0.2269,-0.1901,female,3
+Belgium,0.0427,-0.0138,0.0145,male,4
+Belgium,-0.1719,-0.2449,-0.2084,female,4
+Belgium,0.0569,0.0016,0.0292,male,5
+Belgium,-0.192,-0.265,-0.2285,female,5
+Belgium,0.0382,-0.0211,0.0085,male,6
+Belgium,-0.2046,-0.2777,-0.2412,female,6
+Belgium,0.0422,-0.0166,0.0128,male,7
+Belgium,-0.1923,-0.2658,-0.229,female,7
+Belgium,0.0432,-0.0164,0.0134,male,8
+Belgium,-0.2006,-0.2747,-0.2377,female,8
+Belgium,0.0594,-0.0002,0.0296,male,9
+Belgium,-0.1991,-0.2731,-0.2361,female,9
+Belgium,0.0481,-0.0127,0.0177,male,10
+Belgium,-0.2121,-0.2861,-0.2491,female,10
+Benin,-0.0036,-0.0222,-0.0129,male,-5
+Benin,0.0199,-0.039,-0.0095,female,-5
+Benin,0.0042,-0.0134,-0.0046,male,-4
+Benin,0.0206,-0.0349,-0.0072,female,-4
+Benin,0.0108,-0.0062,0.0023,male,-3
+Benin,0.0383,-0.0159,0.0112,female,-3
+Benin,0,0,0,male,-2
+Benin,0,0,0,female,-2
+Benin,0.0213,0.0057,0.0135,male,-1
+Benin,0.0495,-0.0013,0.0241,female,-1
+Benin,0.0289,0.0143,0.0216,male,0
+Benin,0.0657,0.016,0.0408,female,0
+Benin,0.031,0.0162,0.0236,male,1
+Benin,0.0854,0.0325,0.0589,female,1
+Benin,0.0348,0.021,0.0279,male,2
+Benin,0.083,0.033,0.058,female,2
+Benin,0.0376,0.0243,0.031,male,3
+Benin,0.0719,0.0228,0.0474,female,3
+Benin,0.0402,0.0269,0.0336,male,4
+Benin,0.0623,0.0123,0.0373,female,4
+Benin,0.0387,0.0256,0.0321,male,5
+Benin,0.0706,0.022,0.0463,female,5
+Benin,0.0374,0.0242,0.0308,male,6
+Benin,0.0625,0.0128,0.0376,female,6
+Benin,0.0394,0.0262,0.0328,male,7
+Benin,0.0681,0.0177,0.0429,female,7
+Benin,0.0397,0.0264,0.0331,male,8
+Benin,0.0728,0.0226,0.0477,female,8
+Benin,0.0393,0.0257,0.0325,male,9
+Benin,0.0713,0.0197,0.0455,female,9
+Benin,0.0386,0.0251,0.0319,male,10
+Benin,0.0709,0.0209,0.0459,female,10
+Bolivia,-0.0041,-0.0369,-0.0205,male,-5
+Bolivia,0.0382,-0.0749,-0.0184,female,-5
+Bolivia,0.0049,-0.0252,-0.0101,male,-4
+Bolivia,0.0124,-0.0891,-0.0384,female,-4
+Bolivia,0.0112,-0.0174,-0.0031,male,-3
+Bolivia,0.069,-0.0259,0.0215,female,-3
+Bolivia,0,0,0,male,-2
+Bolivia,0,0,0,female,-2
+Bolivia,0.028,0.001,0.0145,male,-1
+Bolivia,0.0409,-0.0455,-0.0023,female,-1
+Bolivia,0.0397,0.0128,0.0263,male,0
+Bolivia,-0.1671,-0.2494,-0.2083,female,0
+Bolivia,0.0372,0.0095,0.0233,male,1
+Bolivia,-0.1394,-0.2211,-0.1802,female,1
+Bolivia,0.0528,0.0261,0.0394,male,2
+Bolivia,-0.1161,-0.1945,-0.1553,female,2
+Bolivia,0.0481,0.0211,0.0346,male,3
+Bolivia,-0.1432,-0.2189,-0.1811,female,3
+Bolivia,0.0452,0.0183,0.0317,male,4
+Bolivia,-0.1646,-0.2387,-0.2016,female,4
+Bolivia,0.0456,0.0186,0.0321,male,5
+Bolivia,-0.1553,-0.2278,-0.1916,female,5
+Bolivia,0.0412,0.0141,0.0276,male,6
+Bolivia,-0.1638,-0.2356,-0.1997,female,6
+Bolivia,0.0418,0.0145,0.0282,male,7
+Bolivia,-0.1754,-0.2461,-0.2108,female,7
+Bolivia,0.036,0.0082,0.0221,male,8
+Bolivia,-0.2097,-0.2796,-0.2446,female,8
+Bolivia,0.0383,0.0102,0.0243,male,9
+Bolivia,-0.1844,-0.2536,-0.219,female,9
+Bolivia,0.0399,0.012,0.0259,male,10
+Bolivia,-0.1803,-0.2481,-0.2142,female,10
+Botswana,0.06,-0.0304,0.0148,male,-5
+Botswana,0.0931,-0.0707,0.0112,female,-5
+Botswana,0.0847,0.0002,0.0424,male,-4
+Botswana,0.047,-0.1088,-0.0309,female,-4
+Botswana,0.0748,-0.0066,0.0341,male,-3
+Botswana,0.0707,-0.0729,-0.0011,female,-3
+Botswana,0,0,0,male,-2
+Botswana,0,0,0,female,-2
+Botswana,0.0665,-0.0111,0.0277,male,-1
+Botswana,0.0887,-0.0389,0.0249,female,-1
+Botswana,0.0735,-0.001,0.0363,male,0
+Botswana,-0.1989,-0.3221,-0.2605,female,0
+Botswana,0.0756,0.0005,0.0381,male,1
+Botswana,-0.231,-0.3579,-0.2945,female,1
+Botswana,0.07,-0.0033,0.0334,male,2
+Botswana,-0.1993,-0.3236,-0.2615,female,2
+Botswana,0.0644,-0.0103,0.0271,male,3
+Botswana,-0.2167,-0.3399,-0.2783,female,3
+Botswana,0.0373,-0.0394,-0.0011,male,4
+Botswana,-0.2059,-0.3282,-0.2671,female,4
+Botswana,0.0477,-0.0269,0.0104,male,5
+Botswana,-0.1677,-0.2862,-0.2269,female,5
+Botswana,0.0362,-0.0415,-0.0026,male,6
+Botswana,-0.1319,-0.2504,-0.1912,female,6
+Botswana,0.04,-0.0362,0.0019,male,7
+Botswana,-0.1575,-0.2757,-0.2166,female,7
+Botswana,0.0328,-0.0436,-0.0054,male,8
+Botswana,-0.182,-0.3009,-0.2415,female,8
+Botswana,0.0244,-0.0518,-0.0137,male,9
+Botswana,-0.1643,-0.2797,-0.222,female,9
+Botswana,0.0204,-0.0572,-0.0184,male,10
+Botswana,-0.1663,-0.2792,-0.2227,female,10
+Brazil,0.0058,0.0014,0.0036,male,-5
+Brazil,0.0692,0.0525,0.0608,female,-5
+Brazil,0.0053,0.0011,0.0032,male,-4
+Brazil,0.0415,0.0266,0.034,female,-4
+Brazil,0.0056,0.0016,0.0036,male,-3
+Brazil,0.0199,0.0063,0.0131,female,-3
+Brazil,0,0,0,male,-2
+Brazil,0,0,0,female,-2
+Brazil,0.0015,-0.0025,-0.0005,male,-1
+Brazil,-0.0148,-0.0268,-0.0208,female,-1
+Brazil,0.0068,0.0029,0.0049,male,0
+Brazil,-0.4191,-0.4305,-0.4248,female,0
+Brazil,0.005,0.001,0.003,male,1
+Brazil,-0.3604,-0.3715,-0.366,female,1
+Brazil,0.0012,-0.0028,-0.0008,male,2
+Brazil,-0.3401,-0.3509,-0.3455,female,2
+Brazil,-0.002,-0.0039,-0.002,male,3
+Brazil,-0.3348,-0.3454,-0.3401,female,3
+Brazil,-0.003,-0.0069,-0.0049,male,4
+Brazil,-0.3431,-0.3534,-0.3482,female,4
+Brazil,-0.0055,-0.0095,-0.0075,male,5
+Brazil,-0.3461,-0.3562,-0.3511,female,5
+Brazil,-0.0075,-0.0115,-0.0095,male,6
+Brazil,-0.3484,-0.3585,-0.3534,female,6
+Brazil,-0.0092,-0.0133,-0.0112,male,7
+Brazil,-0.3531,-0.3631,-0.3581,female,7
+Brazil,-0.0108,-0.015,-0.0129,male,8
+Brazil,-0.3523,-0.3623,-0.3573,female,8
+Brazil,-0.0127,-0.0169,-0.0148,male,9
+Brazil,-0.3497,-0.3595,-0.3546,female,9
+Brazil,-0.0137,-0.0179,-0.0158,male,10
+Brazil,-0.3448,-0.3545,-0.3496,female,10
+Bulgaria,0.1283,-0.0471,0.0406,male,-5
+Bulgaria,0.1831,-0.2323,-0.0246,female,-5
+Bulgaria,0.0666,-0.111,-0.0222,male,-4
+Bulgaria,0.2426,-0.0966,0.073,female,-4
+Bulgaria,0.0651,-0.089,-0.0119,male,-3
+Bulgaria,0.1173,-0.1706,-0.0266,female,-3
+Bulgaria,0,0,0,male,-2
+Bulgaria,0,0,0,female,-2
+Bulgaria,0.0502,-0.0766,-0.0132,male,-1
+Bulgaria,0.0445,-0.1509,-0.0532,female,-1
+Bulgaria,0.1592,0.0329,0.0961,male,0
+Bulgaria,-0.2076,-0.4283,-0.318,female,0
+Bulgaria,0.1243,0.0086,0.0665,male,1
+Bulgaria,-0.3606,-0.5442,-0.4524,female,1
+Bulgaria,0.0887,-0.0243,0.0322,male,2
+Bulgaria,-0.2362,-0.4059,-0.321,female,2
+Bulgaria,0.0606,-0.0578,0.0014,male,3
+Bulgaria,-0.1632,-0.3208,-0.242,female,3
+Bulgaria,0.0233,-0.0942,-0.0354,male,4
+Bulgaria,-0.1312,-0.2868,-0.209,female,4
+Bulgaria,0.0368,-0.0755,-0.0194,male,5
+Bulgaria,-0.1521,-0.3028,-0.2274,female,5
+Bulgaria,0.0256,-0.0846,-0.0295,male,6
+Bulgaria,-0.1218,-0.2658,-0.1938,female,6
+Bulgaria,0.022,-0.084,-0.031,male,7
+Bulgaria,-0.1403,-0.2841,-0.2122,female,7
+Bulgaria,-0.013,-0.122,-0.0675,male,8
+Bulgaria,-0.112,-0.2517,-0.1818,female,8
+Bulgaria,0.0016,-0.1025,-0.0504,male,9
+Bulgaria,-0.1338,-0.2693,-0.2015,female,9
+Bulgaria,-0.0153,-0.1227,-0.069,male,10
+Bulgaria,-0.1463,-0.2796,-0.213,female,10
+Burkina Faso,0.0042,-0.0056,-0.0007,male,-5
+Burkina Faso,0.0221,-0.027,-0.0025,female,-5
+Burkina Faso,0.0045,-0.0051,-0.0003,male,-4
+Burkina Faso,0.023,-0.0214,0.0008,female,-4
+Burkina Faso,0.0027,-0.0069,-0.0021,male,-3
+Burkina Faso,0.0085,-0.0328,-0.0121,female,-3
+Burkina Faso,0,0,0,male,-2
+Burkina Faso,0,0,0,female,-2
+Burkina Faso,0.0056,-0.0037,0.0009,male,-1
+Burkina Faso,0.0255,-0.0151,0.0052,female,-1
+Burkina Faso,0.0095,0.0005,0.005,male,0
+Burkina Faso,0.0504,0.0087,0.0295,female,0
+Burkina Faso,0.0106,0.001,0.0058,male,1
+Burkina Faso,0.033,-0.0134,0.0098,female,1
+Burkina Faso,0.0123,0.0034,0.0079,male,2
+Burkina Faso,0.044,0.022,0.022,female,2
+Burkina Faso,0.0149,0.006,0.0104,male,3
+Burkina Faso,0.0557,0.0109,0.0333,female,3
+Burkina Faso,0.0167,0.0075,0.0121,male,4
+Burkina Faso,0.0459,0.0009,0.0234,female,4
+Burkina Faso,0.0155,0.0061,0.0108,male,5
+Burkina Faso,0.0528,0.0088,0.0308,female,5
+Burkina Faso,0.0175,0.008,0.0128,male,6
+Burkina Faso,0.0179,-0.0279,-0.005,female,6
+Burkina Faso,0.0188,0.0095,0.0141,male,7
+Burkina Faso,0.0517,0.0075,0.0296,female,7
+Burkina Faso,0.0193,0.0095,0.0144,male,8
+Burkina Faso,0.0249,-0.0212,0.0018,female,8
+Burkina Faso,0.0202,0.0105,0.0154,male,9
+Burkina Faso,0.0484,0.0037,0.026,female,9
+Burkina Faso,0.0192,0.0094,0.0143,male,10
+Burkina Faso,0.0101,-0.0335,-0.0117,female,10
+Burundi,0.0025,-0.0206,-0.0091,male,-5
+Burundi,0.0411,-0.0922,-0.0255,female,-5
+Burundi,0.0045,-0.0117,-0.0036,male,-4
+Burundi,0.0048,-0.1142,-0.0547,female,-4
+Burundi,0.001,-0.0164,-0.0077,male,-3
+Burundi,0.0387,-0.0625,-0.0119,female,-3
+Burundi,0,0,0,male,-2
+Burundi,0,0,0,female,-2
+Burundi,0.0016,-0.0146,-0.0065,male,-1
+Burundi,0.0405,-0.0371,0.0017,female,-1
+Burundi,-0.0047,-0.0471,-0.0259,male,0
+Burundi,0.0731,-0.0418,0.0156,female,0
+Burundi,0.0047,-0.0204,-0.0079,male,1
+Burundi,0.1379,0.0277,0.0828,female,1
+Burundi,-0.0058,-0.0574,-0.0316,male,2
+Burundi,0.1137,-0.0116,0.051,female,2
+Burundi,0.0039,-0.0235,-0.0098,male,3
+Burundi,0.1047,-0.0247,0.04,female,3
+Burundi,-0.0022,-0.0372,-0.0197,male,4
+Burundi,0.1719,0.0423,0.1071,female,4
+Burundi,0.0055,-0.0287,-0.0116,male,5
+Burundi,0.1717,0.0391,0.1054,female,5
+Burundi,0.0025,-0.0297,-0.0136,male,6
+Burundi,0.2209,0.0861,0.1535,female,6
+Burundi,0.007,-0.0242,-0.0086,male,7
+Burundi,0.208,0.0704,0.1392,female,7
+Burundi,0.0053,-0.0367,-0.0157,male,8
+Burundi,0.1349,-0.0088,0.0631,female,8
+Burundi,0.0045,-0.0385,-0.017,male,9
+Burundi,0.1716,0.031,0.1013,female,9
+Burundi,0.0088,-0.0209,-0.0061,male,10
+Burundi,0.1754,0.0353,0.1054,female,10
+Cambodia,-0.0036,-0.0156,-0.0096,male,-5
+Cambodia,0.0041,-0.0288,-0.0124,female,-5
+Cambodia,-0.0051,-0.0163,-0.0107,male,-4
+Cambodia,0.0035,-0.0272,-0.0118,female,-4
+Cambodia,-0.0007,-0.0108,-0.0057,male,-3
+Cambodia,0.0147,-0.0148,-0.0001,female,-3
+Cambodia,0,0,0,male,-2
+Cambodia,0,0,0,female,-2
+Cambodia,0.0071,-0.0018,0.0027,male,-1
+Cambodia,0.0276,-0.0012,0.0132,female,-1
+Cambodia,0.0126,0.0043,0.0084,male,0
+Cambodia,-0.0456,-0.0766,-0.0611,female,0
+Cambodia,0.0139,0.0056,0.0097,male,1
+Cambodia,0.0083,-0.0215,-0.0066,female,1
+Cambodia,0.014,0.0055,0.0097,male,2
+Cambodia,0.0027,-0.0278,-0.0126,female,2
+Cambodia,0.0153,0.0071,0.0112,male,3
+Cambodia,0.0154,-0.0146,0.0004,female,3
+Cambodia,0.0154,0.0071,0.0113,male,4
+Cambodia,0.0354,0.0052,0.0203,female,4
+Cambodia,0.0138,0.0053,0.0096,male,5
+Cambodia,0.0403,0.0103,0.0253,female,5
+Cambodia,0.0172,0.0088,0.013,male,6
+Cambodia,0.0494,0.0188,0.0341,female,6
+Cambodia,0.018,0.0095,0.0137,male,7
+Cambodia,0.045,0.0139,0.0295,female,7
+Cambodia,0.0182,0.0095,0.0138,male,8
+Cambodia,0.0532,0.0216,0.0374,female,8
+Cambodia,0.018,0.0089,0.0134,male,9
+Cambodia,0.0662,0.0336,0.0499,female,9
+Cambodia,0.0191,0.0103,0.0147,male,10
+Cambodia,0.0707,0.0393,0.055,female,10
+Cameroon,0.0124,-0.0133,-0.0004,male,-5
+Cameroon,0.0354,-0.047,-0.0058,female,-5
+Cameroon,0.0138,-0.0111,0.0014,male,-4
+Cameroon,0.054,-0.0243,0.0148,female,-4
+Cameroon,0.0186,-0.0056,0.0065,male,-3
+Cameroon,0.0555,-0.0196,0.018,female,-3
+Cameroon,0,0,0,male,-2
+Cameroon,0,0,0,female,-2
+Cameroon,0.0188,-0.0048,0.007,male,-1
+Cameroon,0.0756,0.0045,0.0401,female,-1
+Cameroon,0.0369,0.0139,0.0254,male,0
+Cameroon,-0.0053,-0.0745,-0.0399,female,0
+Cameroon,0.0325,0.0084,0.0204,male,1
+Cameroon,0.025,-0.0471,-0.011,female,1
+Cameroon,0.026,0.0032,0.0146,male,2
+Cameroon,0.0109,-0.0565,-0.0228,female,2
+Cameroon,0.0261,0.0036,0.0148,male,3
+Cameroon,-0.0281,-0.093,-0.0605,female,3
+Cameroon,0.0201,-0.0026,0.0088,male,4
+Cameroon,-0.023,-0.0868,-0.0549,female,4
+Cameroon,0.0115,-0.0111,0.0002,male,5
+Cameroon,-0.0193,-0.0804,-0.0499,female,5
+Cameroon,0.012,-0.0108,0.0006,male,6
+Cameroon,-0.0134,-0.0745,-0.044,female,6
+Cameroon,0.017,-0.0055,0.0057,male,7
+Cameroon,-0.0338,-0.0932,-0.0635,female,7
+Cameroon,0.0098,-0.0128,-0.0015,male,8
+Cameroon,-0.0273,-0.0854,-0.0563,female,8
+Cameroon,0.0126,-0.0107,0.001,male,9
+Cameroon,-0.0249,-0.0842,-0.0546,female,9
+Cameroon,0.0166,-0.0056,0.0055,male,10
+Cameroon,-0.0578,-0.1126,-0.0852,female,10
+Canada,0.0286,-0.0092,0.0097,male,-5
+Canada,0.0426,-0.0031,0.0198,female,-5
+Canada,0.0337,-0.0031,0.0153,male,-4
+Canada,0.0371,-0.0067,0.0152,female,-4
+Canada,0.0269,-0.0096,0.0086,male,-3
+Canada,0.0146,-0.0287,-0.007,female,-3
+Canada,0,0,0,male,-2
+Canada,0,0,0,female,-2
+Canada,0.0134,-0.0226,-0.0046,male,-1
+Canada,0.0088,-0.0307,-0.0109,female,-1
+Canada,0.0212,-0.0139,0.0036,male,0
+Canada,-0.2579,-0.3046,-0.2812,female,0
+Canada,0.013,-0.0217,-0.0044,male,1
+Canada,-0.1987,-0.2437,-0.2212,female,1
+Canada,0.0227,-0.0116,0.0056,male,2
+Canada,-0.2056,-0.2492,-0.2274,female,2
+Canada,0.0281,-0.0053,0.0114,male,3
+Canada,-0.2147,-0.2577,-0.2362,female,3
+Canada,0.0086,-0.0269,-0.0092,male,4
+Canada,-0.2215,-0.2648,-0.2431,female,4
+Canada,0.0175,-0.0179,-0.0002,male,5
+Canada,-0.2163,-0.26,-0.2381,female,5
+Canada,0.0174,-0.0175,0,male,6
+Canada,-0.2121,-0.2549,-0.2335,female,6
+Canada,0.0104,-0.0256,-0.0076,male,7
+Canada,-0.2145,-0.258,-0.2362,female,7
+Canada,0.0102,-0.0266,-0.0082,male,8
+Canada,-0.2059,-0.2482,-0.2271,female,8
+Canada,0.0157,-0.0222,-0.0032,male,9
+Canada,-0.1926,-0.2349,-0.2138,female,9
+Canada,-0.0035,-0.0405,-0.022,male,10
+Canada,-0.2043,-0.2471,-0.2257,female,10
+Chad,0.1602,0.0161,0.0881,male,-5
+Chad,0.33,-0.031,0.1495,female,-5
+Chad,0.1233,-0.0395,0.0419,male,-4
+Chad,0.0557,-0.1637,-0.054,female,-4
+Chad,0.1598,0.0217,0.0907,male,-3
+Chad,0.0487,-0.1622,-0.0567,female,-3
+Chad,0,0,0,male,-2
+Chad,0,0,0,female,-2
+Chad,0.1286,-0.0148,0.0569,male,-1
+Chad,0.1653,-0.0469,0.0592,female,-1
+Chad,0.1239,-0.0503,0.0368,male,0
+Chad,0.1792,-0.1432,0.018,female,0
+Chad,0.1477,-0.022,0.0629,male,1
+Chad,0.3552,-0.0255,0.1649,female,1
+Chad,0.1786,0.0265,0.1025,male,2
+Chad,0.4352,0.0779,0.2565,female,2
+Chad,0.1428,-0.0141,0.0644,male,3
+Chad,0.4199,0.0854,0.2526,female,3
+Chad,0.1455,-0.0083,0.0686,male,4
+Chad,0.5504,0.1744,0.3624,female,4
+Chad,0.1077,-0.069,0.0194,male,5
+Chad,0.4357,0.0844,0.2601,female,5
+Chad,0.1746,0.0244,0.0995,male,6
+Chad,0.3091,-0.0234,0.1429,female,6
+Chad,0.1728,0.0138,0.0933,male,7
+Chad,0.3039,-0.0358,0.134,female,7
+Chad,0.1667,0.0105,0.0886,male,8
+Chad,0.3615,0.0334,0.1974,female,8
+Chad,0.156,-0.0029,0.0766,male,9
+Chad,0.3911,0.0246,0.2078,female,9
+Chad,0.1494,0.0001,0.0748,male,10
+Chad,0.3284,0.0063,0.1673,female,10
+Chile,0.0039,-0.006,-0.001,male,-5
+Chile,0.0266,-0.0015,0.0126,female,-5
+Chile,0.0031,-0.0063,-0.0016,male,-4
+Chile,0.0199,-0.0067,0.0066,female,-4
+Chile,0.0045,-0.0043,0.0001,male,-3
+Chile,0.0203,-0.0051,0.0076,female,-3
+Chile,0,0,0,male,-2
+Chile,0,0,0,female,-2
+Chile,0.0015,-0.007,-0.0028,male,-1
+Chile,0.0028,-0.0209,-0.0091,female,-1
+Chile,0.0186,0.0035,0.0111,male,0
+Chile,-0.2939,-0.3426,-0.3183,female,0
+Chile,0.0252,0.0121,0.0187,male,1
+Chile,-0.3279,-0.3724,-0.3502,female,1
+Chile,0.0276,0.0154,0.0215,male,2
+Chile,-0.3419,-0.3836,-0.3627,female,2
+Chile,0.0246,0.0128,0.0187,male,3
+Chile,-0.3313,-0.3703,-0.3508,female,3
+Chile,0.023,0.0114,0.0172,male,4
+Chile,-0.3331,-0.3706,-0.3519,female,4
+Chile,0.0183,0.0062,0.0123,male,5
+Chile,-0.3394,-0.3763,-0.3579,female,5
+Chile,0.0156,0.0034,0.0095,male,6
+Chile,-0.3465,-0.3823,-0.3644,female,6
+Chile,0.0217,0.0101,0.0159,male,7
+Chile,-0.3559,-0.3908,-0.3733,female,7
+Chile,0.0206,0.0088,0.0147,male,8
+Chile,-0.3372,-0.3719,-0.3545,female,8
+Chile,0.0215,0.0096,0.0156,male,9
+Chile,-0.3378,-0.3721,-0.355,female,9
+Chile,0.017,0.0049,0.0109,male,10
+Chile,-0.3425,-0.3758,-0.3591,female,10
+China,-0.0021,-0.0221,-0.0121,male,-5
+China,0.0082,-0.0422,-0.017,female,-5
+China,0.0047,-0.0141,-0.0047,male,-4
+China,0.0323,-0.0163,0.008,female,-4
+China,0.0063,-0.0119,-0.0028,male,-3
+China,0.0137,-0.0344,-0.0104,female,-3
+China,0,0,0,male,-2
+China,0,0,0,female,-2
+China,0.0089,-0.0087,0.0001,male,-1
+China,0.018,-0.0287,-0.0054,female,-1
+China,-0.0031,-0.0218,-0.0125,male,0
+China,-0.2479,-0.2981,-0.273,female,0
+China,0.0005,-0.0175,-0.0085,male,1
+China,-0.1181,-0.1658,-0.1419,female,1
+China,-0.0009,-0.0193,-0.0101,male,2
+China,-0.0282,-0.0741,-0.0512,female,2
+China,-0.0021,-0.0202,-0.0111,male,3
+China,-0.0309,-0.0755,-0.0532,female,3
+China,-0.002,-0.0198,-0.0109,male,4
+China,-0.0032,-0.0458,-0.0245,female,4
+China,0.0001,-0.0174,-0.0087,male,5
+China,0.0098,-0.032,-0.0111,female,5
+China,0.0043,-0.0131,-0.0044,male,6
+China,-0.0082,-0.0505,-0.0293,female,6
+China,0.0035,-0.0136,-0.005,male,7
+China,0.0204,-0.0206,-0.0001,female,7
+China,0.0004,-0.017,-0.0083,male,8
+China,0.024,-0.0171,0.0034,female,8
+China,0.0055,-0.0118,-0.0031,male,9
+China,0.0262,-0.0148,0.0057,female,9
+China,0.0045,-0.0128,-0.0042,male,10
+China,0.05,0.0094,0.0297,female,10
+Colombia,0.0046,-0.015,-0.0052,male,-5
+Colombia,0.103,0.0076,0.0553,female,-5
+Colombia,0.0031,-0.016,-0.0064,male,-4
+Colombia,0.0867,0.0018,0.0442,female,-4
+Colombia,0.016,-0.0017,0.0071,male,-3
+Colombia,0.068,-0.0082,0.0299,female,-3
+Colombia,0,0,0,male,-2
+Colombia,0,0,0,female,-2
+Colombia,0.0124,-0.0051,0.0037,male,-1
+Colombia,0.0437,-0.0221,0.0108,female,-1
+Colombia,0.0217,0.004,0.0128,male,0
+Colombia,-0.3097,-0.3695,-0.3396,female,0
+Colombia,0.0264,0.0093,0.0178,male,1
+Colombia,-0.2604,-0.3185,-0.2894,female,1
+Colombia,0.024,0.0071,0.0155,male,2
+Colombia,-0.2682,-0.3229,-0.2956,female,2
+Colombia,0.0236,0.0072,0.0154,male,3
+Colombia,-0.2922,-0.3446,-0.3184,female,3
+Colombia,0.0225,0.006,0.0143,male,4
+Colombia,-0.3019,-0.3527,-0.3273,female,4
+Colombia,0.0202,0.0035,0.0118,male,5
+Colombia,-0.3282,-0.3773,-0.3528,female,5
+Colombia,0.0216,0.0049,0.0133,male,6
+Colombia,-0.3381,-0.3867,-0.3624,female,6
+Colombia,0.0113,-0.006,0.0027,male,7
+Colombia,-0.3591,-0.4066,-0.3828,female,7
+Colombia,0.0192,0.0019,0.0106,male,8
+Colombia,-0.3322,-0.3793,-0.3558,female,8
+Colombia,0.0162,-0.0017,0.0072,male,9
+Colombia,-0.3405,-0.3871,-0.3638,female,9
+Colombia,0.0102,-0.0077,0.0012,male,10
+Colombia,-0.3626,-0.4082,-0.3854,female,10
+"Congo, Dem. Rep.",0.0516,-0.0972,-0.0228,male,-5
+"Congo, Dem. Rep.",-0.018,-0.1353,-0.0766,female,-5
+"Congo, Dem. Rep.",0.0634,-0.0813,-0.0089,male,-4
+"Congo, Dem. Rep.",0.0061,-0.1016,-0.0478,female,-4
+"Congo, Dem. Rep.",0.1199,-0.0169,0.0515,male,-3
+"Congo, Dem. Rep.",-0.0027,-0.1157,-0.0592,female,-3
+"Congo, Dem. Rep.",0,0,0,male,-2
+"Congo, Dem. Rep.",0,0,0,female,-2
+"Congo, Dem. Rep.",0.089,-0.029,0.03,male,-1
+"Congo, Dem. Rep.",0.0318,-0.067,-0.0176,female,-1
+"Congo, Dem. Rep.",0.1218,-0.014,0.0539,male,0
+"Congo, Dem. Rep.",-0.0313,-0.1999,-0.1156,female,0
+"Congo, Dem. Rep.",0.1405,0.0081,0.0743,male,1
+"Congo, Dem. Rep.",0.1873,0.0243,0.1058,female,1
+"Congo, Dem. Rep.",0.1542,0.0148,0.0845,male,2
+"Congo, Dem. Rep.",0.1522,-0.0157,0.0683,female,2
+"Congo, Dem. Rep.",0.128,0.064,0.064,male,3
+"Congo, Dem. Rep.",0.2293,0.0615,0.1454,female,3
+"Congo, Dem. Rep.",0.0836,-0.0867,-0.0015,male,4
+"Congo, Dem. Rep.",0.1801,0.0149,0.0975,female,4
+"Congo, Dem. Rep.",0.0861,-0.0571,0.0145,male,5
+"Congo, Dem. Rep.",0.1995,0.0335,0.1165,female,5
+"Congo, Dem. Rep.",0.1061,-0.0472,0.0294,male,6
+"Congo, Dem. Rep.",0.1509,-0.0214,0.0648,female,6
+"Congo, Dem. Rep.",0.0804,-0.0829,-0.0013,male,7
+"Congo, Dem. Rep.",0.1806,0.0087,0.0946,female,7
+"Congo, Dem. Rep.",0.096,-0.0598,0.0181,male,8
+"Congo, Dem. Rep.",0.2335,0.0621,0.1478,female,8
+"Congo, Dem. Rep.",0.0755,-0.083,-0.0038,male,9
+"Congo, Dem. Rep.",0.1892,0.0105,0.0999,female,9
+"Congo, Dem. Rep.",0.0991,-0.0371,0.031,male,10
+"Congo, Dem. Rep.",0.1632,-0.0119,0.0756,female,10
+"Congo, Rep.",0.1431,-0.1902,-0.0235,male,-5
+"Congo, Rep.",0.1102,-0.0943,0.0079,female,-5
+"Congo, Rep.",0.2041,-0.0196,0.0923,male,-4
+"Congo, Rep.",0.138,-0.0675,0.0352,female,-4
+"Congo, Rep.",0.1507,-0.1361,0.0073,male,-3
+"Congo, Rep.",0.0928,-0.1136,-0.0104,female,-3
+"Congo, Rep.",0,0,0,male,-2
+"Congo, Rep.",0,0,0,female,-2
+"Congo, Rep.",0.1321,-0.1557,-0.0118,male,-1
+"Congo, Rep.",0.1251,-0.066,0.0295,female,-1
+"Congo, Rep.",0.2498,0.0038,0.1268,male,0
+"Congo, Rep.",0.1386,-0.1127,0.0129,female,0
+"Congo, Rep.",0.2685,0.0203,0.1444,male,1
+"Congo, Rep.",0.0994,-0.1586,-0.0296,female,1
+"Congo, Rep.",0.2992,0.03,0.1646,male,2
+"Congo, Rep.",0.1352,-0.1104,0.0124,female,2
+"Congo, Rep.",0.296,0.0465,0.1712,male,3
+"Congo, Rep.",0.2778,0.0602,0.169,female,3
+"Congo, Rep.",0.2915,0.0826,0.187,male,4
+"Congo, Rep.",0.151,-0.0867,0.0321,female,4
+"Congo, Rep.",0.2949,0.0799,0.1874,male,5
+"Congo, Rep.",0.1606,-0.0767,0.0419,female,5
+"Congo, Rep.",0.2579,0.033,0.1454,male,6
+"Congo, Rep.",0.2878,0.0553,0.1716,female,6
+"Congo, Rep.",0.2823,0.0811,0.1817,male,7
+"Congo, Rep.",0.2196,-0.0408,0.0894,female,7
+"Congo, Rep.",0.2503,0.0365,0.1434,male,8
+"Congo, Rep.",0.1772,-0.0919,0.0427,female,8
+"Congo, Rep.",0.258,-0.0044,0.1268,male,9
+"Congo, Rep.",0.2457,0.0153,0.1305,female,9
+"Congo, Rep.",0.2445,0.0191,0.1318,male,10
+"Congo, Rep.",0.2521,0.0195,0.1358,female,10
+Costa Rica,0.0019,-0.0295,-0.0138,male,-5
+Costa Rica,0.1665,-0.0109,0.0778,female,-5
+Costa Rica,0.011,-0.0184,-0.0037,male,-4
+Costa Rica,0.1236,-0.0271,0.0483,female,-4
+Costa Rica,0.0098,-0.0183,-0.0042,male,-3
+Costa Rica,0.088,-0.0435,0.0223,female,-3
+Costa Rica,0,0,0,male,-2
+Costa Rica,0,0,0,female,-2
+Costa Rica,0.0119,-0.0145,-0.0013,male,-1
+Costa Rica,0.0276,-0.0797,-0.026,female,-1
+Costa Rica,0.0141,-0.012,0.0011,male,0
+Costa Rica,-0.3616,-0.4568,-0.4092,female,0
+Costa Rica,0.0215,-0.0044,0.0085,male,1
+Costa Rica,-0.3411,-0.4318,-0.3865,female,1
+Costa Rica,0.0135,-0.0122,0.0006,male,2
+Costa Rica,-0.3587,-0.4443,-0.4015,female,2
+Costa Rica,0.016,-0.0095,0.0033,male,3
+Costa Rica,-0.4066,-0.4873,-0.447,female,3
+Costa Rica,0.0081,-0.0177,-0.0048,male,4
+Costa Rica,-0.3873,-0.4656,-0.4264,female,4
+Costa Rica,0.0148,-0.0109,0.002,male,5
+Costa Rica,-0.4292,-0.5051,-0.4671,female,5
+Costa Rica,0.0103,-0.0159,-0.0028,male,6
+Costa Rica,-0.4352,-0.5098,-0.4725,female,6
+Costa Rica,0.0041,-0.0226,-0.0092,male,7
+Costa Rica,-0.4396,-0.5126,-0.4761,female,7
+Costa Rica,0.0114,-0.015,-0.0018,male,8
+Costa Rica,-0.4561,-0.5278,-0.492,female,8
+Costa Rica,0.0072,-0.0195,-0.0061,male,9
+Costa Rica,-0.4743,-0.5449,-0.5096,female,9
+Costa Rica,0.0013,-0.0263,-0.0125,male,10
+Costa Rica,-0.4649,-0.5342,-0.4996,female,10
+Cote d'Ivoire,0.0086,-0.0175,-0.0044,male,-5
+Cote d'Ivoire,0.0345,-0.0424,-0.004,female,-5
+Cote d'Ivoire,-0.0037,-0.031,-0.0173,male,-4
+Cote d'Ivoire,0.0359,-0.0406,-0.0023,female,-4
+Cote d'Ivoire,0.0138,-0.01,0.0019,male,-3
+Cote d'Ivoire,0.0443,-0.0289,0.0077,female,-3
+Cote d'Ivoire,0,0,0,male,-2
+Cote d'Ivoire,0,0,0,female,-2
+Cote d'Ivoire,0.0034,-0.0171,-0.0069,male,-1
+Cote d'Ivoire,0.0532,-0.0182,0.0175,female,-1
+Cote d'Ivoire,0.0301,-0.0122,0.009,male,0
+Cote d'Ivoire,-0.0573,-0.2198,-0.1386,female,0
+Cote d'Ivoire,0.0192,-0.0292,-0.005,male,1
+Cote d'Ivoire,0.1138,-0.0515,0.0312,female,1
+Cote d'Ivoire,0.03,-0.0116,0.0092,male,2
+Cote d'Ivoire,0.1099,-0.0357,0.0371,female,2
+Cote d'Ivoire,0.0337,-0.0078,0.0129,male,3
+Cote d'Ivoire,0.0243,-0.126,-0.0509,female,3
+Cote d'Ivoire,0.0259,-0.0152,0.0054,male,4
+Cote d'Ivoire,0.061,-0.0791,-0.009,female,4
+Cote d'Ivoire,0.0385,-0.0065,0.016,male,5
+Cote d'Ivoire,0.0377,-0.1214,-0.0419,female,5
+Cote d'Ivoire,0.0254,-0.0163,0.0045,male,6
+Cote d'Ivoire,0.0685,-0.0806,-0.006,female,6
+Cote d'Ivoire,0.0369,-0.0025,0.0172,male,7
+Cote d'Ivoire,0.0687,-0.0779,-0.0046,female,7
+Cote d'Ivoire,0.04,-0.0016,0.0192,male,8
+Cote d'Ivoire,0.0855,-0.0596,0.013,female,8
+Cote d'Ivoire,0.0449,-0.0019,0.0215,male,9
+Cote d'Ivoire,0.1149,-0.0332,0.0409,female,9
+Cote d'Ivoire,0.0441,0.0035,0.0238,male,10
+Cote d'Ivoire,0.0629,-0.0757,-0.0064,female,10
+Croatia,0.1871,-0.0432,0.072,male,-5
+Croatia,0.1822,-0.1019,0.0401,female,-5
+Croatia,0.1383,-0.0597,0.0393,male,-4
+Croatia,0.0711,-0.2179,-0.0734,female,-4
+Croatia,0.1209,-0.0527,0.0341,male,-3
+Croatia,0.089,-0.1624,-0.0367,female,-3
+Croatia,0,0,0,male,-2
+Croatia,0,0,0,female,-2
+Croatia,0.0808,-0.0769,0.0019,male,-1
+Croatia,0.0563,-0.1584,-0.0511,female,-1
+Croatia,0.1566,-0.0121,0.0722,male,0
+Croatia,0.0334,-0.1843,-0.0754,female,0
+Croatia,0.1709,0.0263,0.0986,male,1
+Croatia,0.0004,-0.1891,-0.0944,female,1
+Croatia,0.1522,0.0101,0.0811,male,2
+Croatia,-0.0463,-0.2252,-0.1357,female,2
+Croatia,0.1544,0.0137,0.084,male,3
+Croatia,-0.0533,-0.231,-0.1421,female,3
+Croatia,0.1574,0.0195,0.0885,male,4
+Croatia,-0.0594,-0.2262,-0.1428,female,4
+Croatia,0.1553,0.0157,0.0855,male,5
+Croatia,-0.0663,-0.2283,-0.1473,female,5
+Croatia,0.1617,0.0243,0.093,male,6
+Croatia,-0.0521,-0.2099,-0.131,female,6
+Croatia,0.1312,-0.0121,0.0596,male,7
+Croatia,-0.0593,-0.2116,-0.1355,female,7
+Croatia,0.1357,-0.0074,0.0642,male,8
+Croatia,-0.1015,-0.253,-0.1772,female,8
+Croatia,0.1608,0.018,0.0894,male,9
+Croatia,-0.0868,-0.2383,-0.1625,female,9
+Croatia,0.1553,0.0069,0.0811,male,10
+Croatia,-0.1344,-0.2871,-0.2107,female,10
+Cuba,0.0137,-0.0338,-0.01,male,-5
+Cuba,0.094,-0.0246,0.0347,female,-5
+Cuba,0.0267,-0.0183,0.0042,male,-4
+Cuba,0.0283,-0.078,-0.0249,female,-4
+Cuba,0.0033,-0.0405,-0.0186,male,-3
+Cuba,0.0578,-0.0398,0.009,female,-3
+Cuba,0,0,0,male,-2
+Cuba,0,0,0,female,-2
+Cuba,0.0075,-0.0339,-0.0132,male,-1
+Cuba,0.0034,-0.0824,-0.0395,female,-1
+Cuba,0.0388,-0.0011,0.0189,male,0
+Cuba,-0.5203,-0.5956,-0.5579,female,0
+Cuba,0.0195,-0.0195,0,male,1
+Cuba,-0.1846,-0.2614,-0.223,female,1
+Cuba,0.0285,-0.0091,0.0097,male,2
+Cuba,-0.1335,-0.2068,-0.1701,female,2
+Cuba,0.021,-0.0161,0.0025,male,3
+Cuba,-0.1612,-0.2322,-0.1967,female,3
+Cuba,0.0207,-0.0161,0.0023,male,4
+Cuba,-0.1386,-0.2083,-0.1734,female,4
+Cuba,0.0177,-0.0192,-0.0008,male,5
+Cuba,-0.1626,-0.231,-0.1968,female,5
+Cuba,0.0358,-0.0002,0.0178,male,6
+Cuba,-0.1675,-0.2341,-0.2008,female,6
+Cuba,0.0217,-0.0142,0.0038,male,7
+Cuba,-0.1751,-0.2397,-0.2074,female,7
+Cuba,0.0223,-0.0132,0.0045,male,8
+Cuba,-0.1855,-0.2481,-0.2168,female,8
+Cuba,0.0188,-0.016,0.0014,male,9
+Cuba,-0.167,-0.2281,-0.1976,female,9
+Cuba,0.0089,-0.026,-0.0086,male,10
+Cuba,-0.1542,-0.214,-0.1841,female,10
+Cyprus,0.0751,-0.0548,0.0101,male,-5
+Cyprus,0.2047,0.0201,0.1124,female,-5
+Cyprus,0.0711,-0.0562,0.0074,male,-4
+Cyprus,0.1297,-0.0354,0.0471,female,-4
+Cyprus,0.0258,-0.0863,-0.0303,male,-3
+Cyprus,0.1662,0.0273,0.0967,female,-3
+Cyprus,0,0,0,male,-2
+Cyprus,0,0,0,female,-2
+Cyprus,-0.0067,-0.102,-0.0543,male,-1
+Cyprus,0.0911,-0.0128,0.0391,female,-1
+Cyprus,0.0763,-0.0227,0.0268,male,0
+Cyprus,-0.108,-0.2465,-0.1773,female,0
+Cyprus,0.0661,-0.0249,0.0206,male,1
+Cyprus,-0.0785,-0.2021,-0.1403,female,1
+Cyprus,0.0522,-0.04,0.0061,male,2
+Cyprus,-0.0971,-0.2209,-0.159,female,2
+Cyprus,0.0922,0.0112,0.0517,male,3
+Cyprus,-0.1403,-0.2682,-0.2042,female,3
+Cyprus,0.095,0.0141,0.0546,male,4
+Cyprus,-0.1532,-0.2769,-0.215,female,4
+Cyprus,0.0588,-0.0317,0.0135,male,5
+Cyprus,-0.1035,-0.221,-0.1622,female,5
+Cyprus,0.0386,-0.0537,-0.0076,male,6
+Cyprus,-0.141,-0.262,-0.2015,female,6
+Cyprus,0.053,-0.0315,0.0107,male,7
+Cyprus,-0.1044,-0.2201,-0.1622,female,7
+Cyprus,0.0273,-0.063,-0.0179,male,8
+Cyprus,-0.1505,-0.2743,-0.2124,female,8
+Cyprus,0.0628,-0.0208,0.021,male,9
+Cyprus,-0.1308,-0.2496,-0.1902,female,9
+Cyprus,0.0413,-0.0467,-0.0027,male,10
+Cyprus,-0.1478,-0.2732,-0.2105,female,10
+Czech Republic,0.0052,-0.027,-0.0109,male,-5
+Czech Republic,0.0141,-0.0547,-0.0203,female,-5
+Czech Republic,0.0029,-0.0312,-0.0142,male,-4
+Czech Republic,0.0084,-0.0579,-0.0248,female,-4
+Czech Republic,0.0122,-0.016,-0.0019,male,-3
+Czech Republic,0.039,-0.0167,0.0112,female,-3
+Czech Republic,0,0,0,male,-2
+Czech Republic,0,0,0,female,-2
+Czech Republic,0.0112,-0.0164,-0.0026,male,-1
+Czech Republic,0.021,-0.0321,-0.0056,female,-1
+Czech Republic,0.0277,-0.0097,0.009,male,0
+Czech Republic,-0.554,-0.651,-0.6025,female,0
+Czech Republic,0.016,-0.0249,-0.0044,male,1
+Czech Republic,-0.9073,-0.9643,-0.9358,female,1
+Czech Republic,0.0288,-0.0045,0.0122,male,2
+Czech Republic,-0.7911,-0.8625,-0.8268,female,2
+Czech Republic,0.0301,-0.0029,0.0136,male,3
+Czech Republic,-0.625,-0.7099,-0.6675,female,3
+Czech Republic,0.022,-0.0156,0.0032,male,4
+Czech Republic,-0.4335,-0.5247,-0.4791,female,4
+Czech Republic,0.0295,-0.003,0.0133,male,5
+Czech Republic,-0.4024,-0.4901,-0.4462,female,5
+Czech Republic,0.0324,0.0011,0.0167,male,6
+Czech Republic,-0.3326,-0.4196,-0.3761,female,6
+Czech Republic,0.0146,-0.0245,-0.005,male,7
+Czech Republic,-0.2701,-0.355,-0.3126,female,7
+Czech Republic,0.016,-0.0243,-0.0041,male,8
+Czech Republic,-0.2598,-0.3442,-0.302,female,8
+Czech Republic,0.0292,-0.0065,0.0114,male,9
+Czech Republic,-0.2186,-0.2998,-0.2592,female,9
+Czech Republic,0.0228,-0.0149,0.004,male,10
+Czech Republic,-0.174,-0.2508,-0.2124,female,10
+Denmark,0.0007,-0.0025,-0.0009,male,-5
+Denmark,0.0183,0.015,0.0166,female,-5
+Denmark,0.0021,-0.001,0.0005,male,-4
+Denmark,0.0157,0.0125,0.0141,female,-4
+Denmark,0.0007,-0.0023,-0.0008,male,-3
+Denmark,0.0096,0.0066,0.0081,female,-3
+Denmark,0,0,0,male,-2
+Denmark,0,0,0,female,-2
+Denmark,0.0032,0.0003,0.0017,male,-1
+Denmark,-0.021,-0.0238,-0.0224,female,-1
+Denmark,0.0009,-0.0017,-0.0004,male,0
+Denmark,-0.1338,-0.1366,-0.1352,female,0
+Denmark,-0.0062,-0.0088,-0.0075,male,1
+Denmark,-0.1562,-0.159,-0.1576,female,1
+Denmark,-0.0073,-0.01,-0.0087,male,2
+Denmark,-0.1382,-0.141,-0.1396,female,2
+Denmark,-0.0094,-0.0121,-0.0108,male,3
+Denmark,-0.1461,-0.1489,-0.1475,female,3
+Denmark,-0.012,-0.0148,-0.0134,male,4
+Denmark,-0.1505,-0.1532,-0.1518,female,4
+Denmark,-0.0138,-0.0167,-0.0152,male,5
+Denmark,-0.151,-0.1537,-0.1524,female,5
+Denmark,-0.0155,-0.0184,-0.017,male,6
+Denmark,-0.1528,-0.1556,-0.1542,female,6
+Denmark,-0.0172,-0.0201,-0.0187,male,7
+Denmark,-0.1554,-0.1582,-0.1568,female,7
+Denmark,-0.019,-0.022,-0.0205,male,8
+Denmark,-0.1584,-0.1611,-0.1598,female,8
+Denmark,-0.0199,-0.023,-0.0215,male,9
+Denmark,-0.1597,-0.1625,-0.1611,female,9
+Denmark,-0.0209,-0.024,-0.0224,male,10
+Denmark,-0.1599,-0.1627,-0.1613,female,10
+Dominican Republic,0.0298,-0.006,0.0119,male,-5
+Dominican Republic,0.0397,-0.0534,-0.0069,female,-5
+Dominican Republic,0.0398,0.006,0.0229,male,-4
+Dominican Republic,0.0373,-0.0465,-0.0046,female,-4
+Dominican Republic,0.033,-0.0001,0.0165,male,-3
+Dominican Republic,0.0618,-0.0152,0.0233,female,-3
+Dominican Republic,0,0,0,male,-2
+Dominican Republic,0,0,0,female,-2
+Dominican Republic,0.0286,-0.0039,0.0123,male,-1
+Dominican Republic,0.0154,-0.0546,-0.0196,female,-1
+Dominican Republic,0.0458,0.014,0.0299,male,0
+Dominican Republic,-0.122,-0.1888,-0.1554,female,0
+Dominican Republic,0.0379,0.0062,0.0221,male,1
+Dominican Republic,-0.0721,-0.1398,-0.106,female,1
+Dominican Republic,0.0339,0.0019,0.0179,male,2
+Dominican Republic,-0.0775,-0.1419,-0.1097,female,2
+Dominican Republic,0.0374,0.0051,0.0213,male,3
+Dominican Republic,-0.1323,-0.1958,-0.1641,female,3
+Dominican Republic,0.0205,-0.0125,0.004,male,4
+Dominican Republic,-0.1151,-0.1771,-0.1461,female,4
+Dominican Republic,0.0246,-0.0086,0.008,male,5
+Dominican Republic,-0.1348,-0.1953,-0.1651,female,5
+Dominican Republic,0.03,-0.0032,0.0134,male,6
+Dominican Republic,-0.1675,-0.227,-0.1972,female,6
+Dominican Republic,0.0223,-0.0111,0.0056,male,7
+Dominican Republic,-0.1351,-0.194,-0.1645,female,7
+Dominican Republic,0.027,-0.0068,0.0101,male,8
+Dominican Republic,-0.1776,-0.2358,-0.2067,female,8
+Dominican Republic,0.0247,-0.0094,0.0076,male,9
+Dominican Republic,-0.1585,-0.2162,-0.1874,female,9
+Dominican Republic,0.022,-0.0119,0.005,male,10
+Dominican Republic,-0.1548,-0.2114,-0.1831,female,10
+Ecuador,0.0027,-0.0161,-0.0067,male,-5
+Ecuador,0.0577,-0.0309,0.0134,female,-5
+Ecuador,0.0016,-0.0165,-0.0074,male,-4
+Ecuador,0.0802,0.0003,0.0403,female,-4
+Ecuador,0.0122,-0.0049,0.0037,male,-3
+Ecuador,0.0401,-0.0311,0.0045,female,-3
+Ecuador,0,0,0,male,-2
+Ecuador,0,0,0,female,-2
+Ecuador,0.0072,-0.0095,-0.0012,male,-1
+Ecuador,0.0389,-0.0239,0.0075,female,-1
+Ecuador,0.0317,0.0158,0.0238,male,0
+Ecuador,-0.2944,-0.3519,-0.3232,female,0
+Ecuador,0.0345,0.0192,0.0269,male,1
+Ecuador,-0.235,-0.2892,-0.2621,female,1
+Ecuador,0.0336,0.0185,0.026,male,2
+Ecuador,-0.2335,-0.2855,-0.2595,female,2
+Ecuador,0.0321,0.017,0.0245,male,3
+Ecuador,-0.2376,-0.2881,-0.2629,female,3
+Ecuador,0.0332,0.0181,0.0256,male,4
+Ecuador,-0.2597,-0.3089,-0.2843,female,4
+Ecuador,0.0297,0.0146,0.0221,male,5
+Ecuador,-0.2636,-0.312,-0.2878,female,5
+Ecuador,0.0307,0.0155,0.0231,male,6
+Ecuador,-0.2648,-0.3124,-0.2886,female,6
+Ecuador,0.028,0.0127,0.0203,male,7
+Ecuador,-0.2719,-0.3185,-0.2952,female,7
+Ecuador,0.0336,0.0184,0.026,male,8
+Ecuador,-0.2784,-0.324,-0.3012,female,8
+Ecuador,0.0296,0.0142,0.0219,male,9
+Ecuador,-0.2811,-0.3265,-0.3038,female,9
+Ecuador,0.0298,0.0145,0.0222,male,10
+Ecuador,-0.2918,-0.3363,-0.3141,female,10
+Egypt,0.0005,-0.0098,-0.0046,male,-5
+Egypt,0.1183,-0.051,0.0337,female,-5
+Egypt,0.0014,-0.0085,-0.0035,male,-4
+Egypt,0.1218,-0.0197,0.0511,female,-4
+Egypt,0.0032,-0.0064,-0.0016,male,-3
+Egypt,0.1189,-0.0016,0.0587,female,-3
+Egypt,0,0,0,male,-2
+Egypt,0,0,0,female,-2
+Egypt,0.0049,-0.0042,0.0004,male,-1
+Egypt,0.0239,-0.0632,-0.0197,female,-1
+Egypt,0.0163,0.0079,0.0121,male,0
+Egypt,-0.02,-0.0983,-0.0592,female,0
+Egypt,0.0079,0.0005,0.0042,male,1
+Egypt,-0.0969,-0.1583,-0.1276,female,1
+Egypt,0.0093,0.0021,0.0057,male,2
+Egypt,-0.1625,-0.2181,-0.1903,female,2
+Egypt,0.0101,0.003,0.0066,male,3
+Egypt,-0.2119,-0.2621,-0.237,female,3
+Egypt,0.0093,0.0022,0.0058,male,4
+Egypt,-0.2361,-0.2832,-0.2596,female,4
+Egypt,0.0091,0.0022,0.0056,male,5
+Egypt,-0.3321,-0.3738,-0.353,female,5
+Egypt,0.0058,-0.0015,0.0022,male,6
+Egypt,-0.1909,-0.2367,-0.2138,female,6
+Egypt,0.0045,-0.0026,0.0009,male,7
+Egypt,-0.2155,-0.2578,-0.2367,female,7
+Egypt,0.0009,-0.0062,-0.0027,male,8
+Egypt,-0.252,-0.2917,-0.2719,female,8
+Egypt,-0.0037,-0.0107,-0.0072,male,9
+Egypt,-0.2629,-0.3004,-0.2817,female,9
+Egypt,-0.0068,-0.0139,-0.0104,male,10
+Egypt,-0.2736,-0.31,-0.2918,female,10
+El Salvador,0.0285,-0.0091,0.0097,male,-5
+El Salvador,0.2502,0.055,0.1526,female,-5
+El Salvador,0.0238,-0.012,0.0059,male,-4
+El Salvador,0.102,-0.0677,0.0171,female,-4
+El Salvador,0.0098,-0.0259,-0.0081,male,-3
+El Salvador,0.0897,-0.0597,0.015,female,-3
+El Salvador,0,0,0,male,-2
+El Salvador,0,0,0,female,-2
+El Salvador,0.0248,-0.0092,0.0078,male,-1
+El Salvador,0.0942,-0.0336,0.0303,female,-1
+El Salvador,0.0378,0.0049,0.0214,male,0
+El Salvador,-0.2111,-0.3283,-0.2697,female,0
+El Salvador,0.0447,0.0126,0.0287,male,1
+El Salvador,-0.1745,-0.2872,-0.2309,female,1
+El Salvador,0.0447,0.0134,0.029,male,2
+El Salvador,-0.251,-0.3571,-0.3041,female,2
+El Salvador,0.0359,0.0041,0.02,male,3
+El Salvador,-0.232,-0.3345,-0.2833,female,3
+El Salvador,0.0328,0.0006,0.0167,male,4
+El Salvador,-0.2735,-0.3722,-0.3228,female,4
+El Salvador,0.0451,0.0127,0.0289,male,5
+El Salvador,-0.2527,-0.3502,-0.3014,female,5
+El Salvador,0.0438,0.0112,0.0275,male,6
+El Salvador,-0.2795,-0.3742,-0.3269,female,6
+El Salvador,0.0545,0.0221,0.0383,male,7
+El Salvador,-0.288,-0.3788,-0.3334,female,7
+El Salvador,0.0477,0.0144,0.031,male,8
+El Salvador,-0.3304,-0.4196,-0.375,female,8
+El Salvador,0.0447,0.0107,0.0277,male,9
+El Salvador,-0.3016,-0.3905,-0.346,female,9
+El Salvador,0.0414,0.0075,0.0245,male,10
+El Salvador,-0.2975,-0.3847,-0.3411,female,10
+Estonia,0.0806,-0.0519,0.0143,male,-5
+Estonia,0.1367,-0.0827,0.027,female,-5
+Estonia,0.0614,-0.0687,-0.0037,male,-4
+Estonia,0.1582,-0.0337,0.0622,female,-4
+Estonia,0.0501,-0.0793,-0.0146,male,-3
+Estonia,0.1156,-0.0961,0.0097,female,-3
+Estonia,0,0,0,male,-2
+Estonia,0,0,0,female,-2
+Estonia,0.0678,-0.0289,0.0194,male,-1
+Estonia,0.0713,-0.0542,0.0086,female,-1
+Estonia,0.1314,0.0231,0.0773,male,0
+Estonia,-0.8585,-0.9721,-0.9153,female,0
+Estonia,0.116,0.024,0.07,male,1
+Estonia,-0.7191,-0.8319,-0.7755,female,1
+Estonia,0.1338,0.0539,0.0939,male,2
+Estonia,-0.3914,-0.5202,-0.4558,female,2
+Estonia,0.1115,0.0298,0.0706,male,3
+Estonia,-0.3198,-0.4445,-0.3821,female,3
+Estonia,0.1023,0.0251,0.0637,male,4
+Estonia,-0.215,-0.3325,-0.2737,female,4
+Estonia,0.0865,0.0008,0.0436,male,5
+Estonia,-0.1567,-0.2752,-0.216,female,5
+Estonia,0.0713,-0.0191,0.0261,male,6
+Estonia,-0.1182,-0.2304,-0.1743,female,6
+Estonia,0.0991,0.0187,0.0589,male,7
+Estonia,-0.1534,-0.2689,-0.2112,female,7
+Estonia,0.0769,-0.0095,0.0337,male,8
+Estonia,-0.2012,-0.3218,-0.2615,female,8
+Estonia,0.0775,-0.0107,0.0334,male,9
+Estonia,-0.1787,-0.2953,-0.237,female,9
+Estonia,0.0792,-0.0035,0.0378,male,10
+Estonia,-0.2034,-0.3197,-0.2616,female,10
+Ethiopia,0.0344,-0.0169,0.0087,male,-5
+Ethiopia,0.1139,-0.0378,0.038,female,-5
+Ethiopia,0.0386,-0.0067,0.016,male,-4
+Ethiopia,0.0753,-0.0786,-0.0016,female,-4
+Ethiopia,0.0168,-0.0287,-0.006,male,-3
+Ethiopia,0.0968,-0.0332,0.0318,female,-3
+Ethiopia,0,0,0,male,-2
+Ethiopia,0,0,0,female,-2
+Ethiopia,0.0274,-0.019,0.0042,male,-1
+Ethiopia,0.0124,-0.0938,-0.0407,female,-1
+Ethiopia,0.018,-0.0486,-0.0153,male,0
+Ethiopia,-0.2736,-0.4487,-0.3612,female,0
+Ethiopia,0.0098,-0.0624,-0.0263,male,1
+Ethiopia,0.0269,-0.1886,-0.0809,female,1
+Ethiopia,0.0434,-0.0167,0.0134,male,2
+Ethiopia,-0.0532,-0.26,-0.1566,female,2
+Ethiopia,0.0442,-0.0139,0.0151,male,3
+Ethiopia,-0.0844,-0.2839,-0.1842,female,3
+Ethiopia,0.0343,-0.0302,0.0021,male,4
+Ethiopia,-0.0846,-0.287,-0.1858,female,4
+Ethiopia,0.0433,-0.0256,0.0089,male,5
+Ethiopia,0.0145,-0.1977,-0.0916,female,5
+Ethiopia,0.0172,-0.0522,-0.0175,male,6
+Ethiopia,-0.0118,-0.2228,-0.1173,female,6
+Ethiopia,0.0278,-0.0316,-0.0019,male,7
+Ethiopia,-0.0137,-0.2193,-0.1165,female,7
+Ethiopia,0.0223,-0.0432,-0.0104,male,8
+Ethiopia,-0.1243,-0.3267,-0.2255,female,8
+Ethiopia,0.0086,-0.0698,-0.0306,male,9
+Ethiopia,0.0393,-0.1734,-0.0671,female,9
+Ethiopia,0.0318,-0.0294,0.0012,male,10
+Ethiopia,-0.0128,-0.2082,-0.1105,female,10
+Fiji,0.027,-0.0253,0.0009,male,-5
+Fiji,0.073,-0.2075,-0.0673,female,-5
+Fiji,0.0346,-0.0145,0.0101,male,-4
+Fiji,0.1331,-0.1313,0.0009,female,-4
+Fiji,0.0217,-0.0267,-0.0025,male,-3
+Fiji,0.0981,-0.1492,-0.0255,female,-3
+Fiji,0,0,0,male,-2
+Fiji,0,0,0,female,-2
+Fiji,0.0239,-0.0219,0.001,male,-1
+Fiji,0.0632,-0.1578,-0.0473,female,-1
+Fiji,0.027,-0.0184,0.0043,male,0
+Fiji,-0.1829,-0.3858,-0.2844,female,0
+Fiji,0.0376,-0.0054,0.0161,male,1
+Fiji,-0.2161,-0.4032,-0.3097,female,1
+Fiji,0.0283,-0.0152,0.0066,male,2
+Fiji,-0.2761,-0.4557,-0.3659,female,2
+Fiji,0.0385,-0.0032,0.0176,male,3
+Fiji,-0.2816,-0.4526,-0.3671,female,3
+Fiji,0.0277,-0.0149,0.0064,male,4
+Fiji,-0.2995,-0.4658,-0.3827,female,4
+Fiji,0.0338,-0.0088,0.0125,male,5
+Fiji,-0.3096,-0.4706,-0.3901,female,5
+Fiji,0.0284,-0.0145,0.007,male,6
+Fiji,-0.294,-0.4524,-0.3732,female,6
+Fiji,0.0394,-0.0037,0.0179,male,7
+Fiji,-0.3094,-0.469,-0.3892,female,7
+Fiji,0.0515,0.0092,0.0303,male,8
+Fiji,-0.3462,-0.5045,-0.4254,female,8
+Fiji,0.0424,-0.001,0.0207,male,9
+Fiji,-0.2987,-0.4529,-0.3758,female,9
+Fiji,0.0396,-0.0041,0.0178,male,10
+Latin America,-0.0034,-0.0068,-0.0034,male,-5
+Latin America,0.0003,-0.0058,-0.0027,male,-4
+Latin America,0.0039,-0.0019,0.001,male,-3
+Latin America,0,0,0,male,-2
+Latin America,0.0036,-0.0012,0.0012,male,-1
+Latin America,0.0159,0.0112,0.0135,male,0
+Latin America,0.0143,0.0096,0.0119,male,1
+Latin America,0.0132,0.0087,0.011,male,2
+Latin America,0.0094,0.0049,0.0072,male,3
+Latin America,0.006,0.0013,0.0037,male,4
+Latin America,0.0042,-0.0004,0.0019,male,5
+Latin America,0.0032,-0.0015,0.0009,male,6
+Latin America,0.0009,-0.0038,-0.0015,male,7
+Latin America,-0.0002,-0.0048,-0.0025,male,8
+Latin America,-0.0015,-0.0061,-0.0038,male,9
+Latin America,-0.0039,-0.0085,-0.0062,male,10
+Latin America,0.052,0.0274,0.0397,female,-5
+Latin America,0.0438,0.0215,0.0327,female,-4
+Latin America,0.0294,0.0097,0.0196,female,-3
+Latin America,0,0,0,female,-2
+Latin America,-0.0071,-0.0243,-0.0157,female,-1
+Latin America,-0.3761,-0.3909,-0.3835,female,0
+Latin America,-0.3254,-0.3401,-0.3327,female,1
+Latin America,-0.3186,-0.3325,-0.3256,female,2
+Latin America,-0.3251,-0.3385,-0.3318,female,3
+Latin America,-0.3427,-0.3555,-0.3491,female,4
+Latin America,-0.3536,-0.3658,-0.3597,female,5
+Latin America,-0.3594,-0.3712,-0.3653,female,6
+Latin America,-0.363,-0.3749,-0.369,female,7
+Latin America,-0.3669,-0.3783,-0.3726,female,8
+Latin America,-0.3646,-0.3758,-0.3702,female,9
+Latin America,-0.3653,-0.3763,-0.3708,female,10
+Europe,0.0246,-0.0099,0.0074,male,-5
+Europe,0.0178,-0.0135,0.0022,male,-4
+Europe,0.0146,-0.0156,-0.0005,male,-3
+Europe,0,0,0,male,-2
+Europe,0.0194,-0.0081,0.0056,male,-1
+Europe,0.0328,0.008,0.0204,male,0
+Europe,0.0234,-0.0019,0.0108,male,1
+Europe,0.0087,-0.0173,-0.0043,male,2
+Europe,0.0091,-0.016,-0.0034,male,3
+Europe,0.014,-0.0107,0.0017,male,4
+Europe,0.0173,-0.0074,0.0049,male,5
+Europe,0.0088,-0.0164,-0.0038,male,6
+Europe,0.0028,-0.0226,-0.0099,male,7
+Europe,0.0038,-0.0217,-0.0089,male,8
+Europe,0.0023,-0.0234,-0.0106,male,9
+Europe,0.0024,-0.0233,-0.0105,male,10
+Europe,0.0358,-0.0025,0.0167,female,-5
+Europe,0.0218,-0.0136,0.0041,female,-4
+Europe,0.0181,-0.0145,0.0018,female,-3
+Europe,0,0,0,female,-2
+Europe,-0.0075,-0.0368,-0.0222,female,-1
+Europe,-0.3028,-0.3299,-0.3163,female,0
+Europe,-0.3083,-0.3351,-0.3217,female,1
+Europe,-0.2679,-0.2942,-0.281,female,2
+Europe,-0.2461,-0.272,-0.2591,female,3
+Europe,-0.23,-0.2553,-0.2426,female,4
+Europe,-0.2393,-0.2644,-0.2519,female,5
+Europe,-0.2398,-0.265,-0.2524,female,6
+Europe,-0.2449,-0.2699,-0.2574,female,7
+Europe,-0.2436,-0.2686,-0.2561,female,8
+Europe,-0.2468,-0.2718,-0.2593,female,9
+Europe,-0.2405,-0.2654,-0.2529,female,10
+North America,0.013,0.0044,0.0087,male,-5
+North America,0.0068,-0.0003,0.0032,male,-4
+North America,0.0059,-0.0006,0.0026,male,-3
+North America,0,0,0,male,-2
+North America,0.0054,-0.0022,0.0016,male,-1
+North America,0.0245,0.013,0.0187,male,0
+North America,0.0216,0.0091,0.0154,male,1
+North America,0.0243,0.0103,0.0173,male,2
+North America,0.0266,0.0125,0.0196,male,3
+North America,0.0266,0.0095,0.018,male,4
+North America,0.0243,0.0093,0.0168,male,5
+North America,0.0244,0.0075,0.0159,male,6
+North America,0.0251,0.0097,0.0174,male,7
+North America,0.0234,0.0053,0.0144,male,8
+North America,0.0239,0.0083,0.0161,male,9
+North America,0.024,0.0078,0.0159,male,10
+North America,0.0283,0.0141,0.0212,female,-5
+North America,0.0206,0.0102,0.0154,female,-4
+North America,0.0139,0.0027,0.0083,female,-3
+North America,0,0,0,female,-2
+North America,-0.0015,-0.0145,-0.008,female,-1
+North America,-0.211,-0.2514,-0.2312,female,0
+North America,-0.2003,-0.2309,-0.2156,female,1
+North America,-0.2108,-0.2446,-0.2277,female,2
+North America,-0.22,-0.253,-0.2365,female,3
+North America,-0.2281,-0.2568,-0.2424,female,4
+North America,-0.2273,-0.2568,-0.242,female,5
+North America,-0.2205,-0.2522,-0.2363,female,6
+North America,-0.22,-0.2519,-0.236,female,7
+North America,-0.2136,-0.241,-0.2273,female,8
+North America,-0.2023,-0.2296,-0.2159,female,9
+North America,-0.195,-0.223,-0.209,female,10
+Oceania,0.0687,0.0054,0.037,male,-5
+Oceania,0.0635,0.0048,0.0341,male,-4
+Oceania,0.0334,-0.0228,0.0053,male,-3
+Oceania,0,0,0,male,-2
+Oceania,-0.0047,-0.0565,-0.0306,male,-1
+Oceania,-0.0076,-0.057,-0.0323,male,0
+Oceania,-0.0055,-0.0545,-0.03,male,1
+Oceania,-0.0125,-0.0614,-0.0369,male,2
+Oceania,-0.0236,-0.0729,-0.0482,male,3
+Oceania,-0.0291,-0.0789,-0.054,male,4
+Oceania,-0.024,-0.0738,-0.0489,male,5
+Oceania,-0.0274,-0.0776,-0.0525,male,6
+Oceania,-0.0475,-0.0987,-0.0731,male,7
+Oceania,-0.0384,-0.0898,-0.0641,male,8
+Oceania,-0.0342,-0.086,-0.0601,male,9
+Oceania,-0.0457,-0.0988,-0.0723,male,10
+Oceania,0.0738,0.0128,0.0433,female,-5
+Oceania,0.0555,0.0005,0.028,female,-4
+Oceania,0.0458,-0.0042,0.0208,female,-3
+Oceania,0,0,0,female,-2
+Oceania,-0.0285,-0.0745,-0.0515,female,-1
+Oceania,-0.3338,-0.3833,-0.3585,female,0
+Oceania,-0.3274,-0.3758,-0.3516,female,1
+Oceania,-0.3376,-0.3852,-0.3614,female,2
+Oceania,-0.3477,-0.3948,-0.3712,female,3
+Oceania,-0.3369,-0.3835,-0.3602,female,4
+Oceania,-0.3466,-0.3928,-0.3697,female,5
+Oceania,-0.3354,-0.3813,-0.3583,female,6
+Oceania,-0.3244,-0.37,-0.3472,female,7
+Oceania,-0.3146,-0.3599,-0.3373,female,8
+Oceania,-0.3024,-0.3474,-0.3249,female,9
+Oceania,-0.3066,-0.3515,-0.329,female,10
+Fiji,-0.3098,-0.4631,-0.3865,female,10
+Finland,0.0085,-0.1228,-0.0571,male,-5
+Finland,0.0743,-0.0973,-0.0115,female,-5
+Finland,0.0112,-0.1007,-0.0448,male,-4
+Finland,0.1098,-0.0421,0.0338,female,-4
+Finland,0.0127,-0.0875,-0.0374,male,-3
+Finland,0.1017,-0.0204,0.0406,female,-3
+Finland,0,0,0,male,-2
+Finland,0,0,0,female,-2
+Finland,0.0159,-0.0655,-0.0248,male,-1
+Finland,0.0369,-0.0428,-0.0029,female,-1
+Finland,0.1391,0.0437,0.0914,male,0
+Finland,-0.5949,-0.704,-0.6494,female,0
+Finland,0.1539,0.0764,0.1152,male,1
+Finland,-0.5533,-0.6509,-0.6021,female,1
+Finland,0.1154,0.041,0.0782,male,2
+Finland,-0.3197,-0.4148,-0.3673,female,2
+Finland,0.1148,0.041,0.0779,male,3
+Finland,-0.3251,-0.4199,-0.3725,female,3
+Finland,0.112,0.0369,0.0745,male,4
+Finland,-0.2582,-0.3508,-0.3045,female,4
+Finland,0.1441,0.0786,0.1114,male,5
+Finland,-0.171,-0.26,-0.2155,female,5
+Finland,0.1464,0.0833,0.1148,male,6
+Finland,-0.1251,-0.2132,-0.1691,female,6
+Finland,0.1022,0.0257,0.064,male,7
+Finland,-0.1298,-0.2183,-0.174,female,7
+Finland,0.1152,0.0394,0.0773,male,8
+Finland,-0.1051,-0.1918,-0.1484,female,8
+Finland,0.123,0.0542,0.0886,male,9
+Finland,-0.0606,-0.1449,-0.1027,female,9
+Finland,0.14,0.0718,0.1059,male,10
+Finland,-0.0445,-0.1237,-0.0841,female,10
+France,0.0003,-0.0159,-0.0078,male,-5
+France,0.0458,0.0272,0.0365,female,-5
+France,0.0086,-0.0066,0.001,male,-4
+France,0.0532,0.0356,0.0444,female,-4
+France,0.0061,-0.0089,-0.0014,male,-3
+France,0.0498,0.0325,0.0412,female,-3
+France,0.0106,-0.0037,0.0035,male,-2
+France,0.0491,0.0325,0.0408,female,-2
+France,0,0,0,male,-1
+France,0,0,0,female,-1
+France,0.008,-0.0052,0.0014,male,0
+France,-0.2965,-0.3134,-0.305,female,0
+France,0.0253,0.0131,0.0192,male,1
+France,-0.1196,-0.1355,-0.1275,female,1
+France,0.0167,0.0042,0.0104,male,2
+France,-0.1858,-0.2019,-0.1939,female,2
+France,0.0121,-0.0005,0.0058,male,3
+France,-0.2153,-0.2314,-0.2234,female,3
+France,0.0207,0.0084,0.0145,male,4
+France,-0.2306,-0.2468,-0.2387,female,4
+France,0.0234,0.0109,0.0172,male,5
+France,-0.2233,-0.2394,-0.2313,female,5
+France,0.0213,0.0087,0.015,male,6
+France,-0.2105,-0.2266,-0.2186,female,6
+France,0.0144,0.0015,0.0079,male,7
+France,-0.2089,-0.2251,-0.217,female,7
+France,0.0239,0.0113,0.0176,male,8
+France,-0.2059,-0.2221,-0.214,female,8
+France,0.0281,0.0155,0.0218,male,9
+France,-0.2034,-0.2195,-0.2115,female,9
+France,0.0297,0.017,0.0233,male,10
+France,-0.1951,-0.2112,-0.2032,female,10
+Gabon,0.0606,-0.1975,-0.0684,male,-5
+Gabon,0.4125,-0.6026,-0.095,female,-5
+Gabon,0.1117,-0.1374,-0.0129,male,-4
+Gabon,0.4221,-0.4379,-0.0079,female,-4
+Gabon,0.0565,-0.1883,-0.0659,male,-3
+Gabon,0.283,-0.3347,-0.0258,female,-3
+Gabon,0,0,0,male,-2
+Gabon,0,0,0,female,-2
+Gabon,0.0562,-0.1194,-0.0316,male,-1
+Gabon,0.2322,-0.2214,0.0054,female,-1
+Gabon,0.0918,-0.1028,-0.0055,male,0
+Gabon,-0.0339,-0.3995,-0.2167,female,0
+Gabon,0.0576,-0.2392,-0.0908,male,1
+Gabon,0.0151,-0.3797,-0.1823,female,1
+Gabon,0.1344,0.0077,0.0711,male,2
+Gabon,0.053,-0.3004,-0.1237,female,2
+Gabon,0.1248,-0.0158,0.0545,male,3
+Gabon,0.1305,-0.1921,-0.0308,female,3
+Gabon,0.1108,-0.1177,-0.0034,male,4
+Gabon,0.1989,-0.153,0.023,female,4
+Gabon,0.1186,-0.0088,0.0549,male,5
+Gabon,0.0401,-0.3125,-0.1362,female,5
+Gabon,0.0829,-0.1204,-0.0188,male,6
+Gabon,0.0412,-0.2823,-0.1205,female,6
+Gabon,0.0945,-0.0921,0.0012,male,7
+Gabon,0.12,-0.1887,-0.0343,female,7
+Gabon,0.096,-0.103,-0.0035,male,8
+Gabon,0.0784,-0.2384,-0.08,female,8
+Gabon,0.0685,-0.1241,-0.0278,male,9
+Gabon,0.1812,-0.0779,0.0516,female,9
+Gabon,0.13,-0.0252,0.0524,male,10
+Gabon,-0.0515,-0.3445,-0.198,female,10
+Gambia,0.1398,-0.1152,0.0123,male,-5
+Gambia,0.5921,-0.4047,0.0937,female,-5
+Gambia,0.1383,-0.0682,0.0351,male,-4
+Gambia,0.4031,-0.3923,0.0054,female,-4
+Gambia,0.1471,-0.0239,0.0616,male,-3
+Gambia,0.7463,-0.1323,0.307,female,-3
+Gambia,0,0,0,male,-2
+Gambia,0,0,0,female,-2
+Gambia,0.1122,-0.0716,0.0203,male,-1
+Gambia,1.0044,0.1072,0.5558,female,-1
+Gambia,0.1928,-0.1198,0.0365,male,0
+Gambia,0.602,-0.3577,0.1221,female,0
+Gambia,0.1874,-0.0136,0.0869,male,1
+Gambia,0.2758,-0.5072,-0.1157,female,1
+Gambia,0.1845,0.0043,0.0944,male,2
+Gambia,0.2029,-0.5053,-0.1512,female,2
+Gambia,0.1618,-0.0193,0.0713,male,3
+Gambia,0.319,-0.4816,-0.0813,female,3
+Gambia,0.1746,0.0128,0.0937,male,4
+Gambia,0.2598,-0.5245,-0.1323,female,4
+Gambia,0.1495,-0.04,0.0548,male,5
+Gambia,0.2235,-0.5336,-0.155,female,5
+Gambia,0.1332,-0.0833,0.0249,male,6
+Gambia,0.3249,-0.4252,-0.0502,female,6
+Gambia,0.1106,-0.0728,0.0189,male,7
+Gambia,0.1195,-0.5639,-0.2222,female,7
+Gambia,0.1452,-0.0144,0.0654,male,8
+Gambia,0.5381,-0.2059,0.1661,female,8
+Gambia,0.0755,-0.1349,-0.0297,male,9
+Gambia,0.3811,-0.343,0.0191,female,9
+Gambia,0.0952,-0.0975,-0.0011,male,10
+Gambia,0.5042,-0.2175,0.1433,female,10
+Georgia,0.5459,0.0155,0.2807,male,-5
+Georgia,0.4946,-0.0685,0.213,female,-5
+Georgia,0.4666,-0.1587,0.154,male,-4
+Georgia,0.3911,-0.2969,0.0471,female,-4
+Georgia,0.4367,-0.2154,0.1107,male,-3
+Georgia,0.3134,-0.2863,0.0135,female,-3
+Georgia,0,0,0,male,-2
+Georgia,0,0,0,female,-2
+Georgia,0.3714,-0.1367,0.1173,male,-1
+Georgia,0.3075,-0.1888,0.0594,female,-1
+Georgia,0.6702,0.0923,0.3812,male,0
+Georgia,-0.0729,-0.6778,-0.3754,female,0
+Georgia,0.6153,0.0599,0.3376,male,1
+Georgia,0.115,-0.4853,-0.1852,female,1
+Georgia,0.4479,-0.097,0.1754,male,2
+Georgia,-0.1072,-0.6727,-0.39,female,2
+Georgia,0.3671,-0.2302,0.0685,male,3
+Georgia,-0.2289,-0.736,-0.4825,female,3
+Georgia,0.3627,-0.1305,0.1161,male,4
+Georgia,-0.2343,-0.7169,-0.4756,female,4
+Georgia,0.4925,0.0453,0.2689,male,5
+Georgia,-0.2446,-0.7156,-0.4801,female,5
+Georgia,0.4634,0.0214,0.2424,male,6
+Georgia,-0.2515,-0.6938,-0.4726,female,6
+Georgia,0.3734,-0.0811,0.1462,male,7
+Georgia,-0.2481,-0.6898,-0.4689,female,7
+Georgia,0.3631,-0.0628,0.1502,male,8
+Georgia,-0.0794,-0.5228,-0.3011,female,8
+Georgia,0.3058,-0.1195,0.0932,male,9
+Georgia,-0.2356,-0.6521,-0.4438,female,9
+Georgia,0.3302,-0.0877,0.1213,male,10
+Georgia,-0.184,-0.6017,-0.3929,female,10
+Germany,0.0205,-0.0052,0.0076,male,-5
+Germany,0.0042,-0.0271,-0.0115,female,-5
+Germany,0.0138,-0.0111,0.0014,male,-4
+Germany,0.0187,-0.0107,0.004,female,-4
+Germany,0.0056,-0.0187,-0.0065,male,-3
+Germany,0.0174,-0.0108,0.0033,female,-3
+Germany,0,0,0,male,-2
+Germany,0,0,0,female,-2
+Germany,0.0072,-0.015,-0.0039,male,-1
+Germany,0.0117,-0.0146,-0.0014,female,-1
+Germany,-0.0012,-0.0297,-0.0155,male,0
+Germany,-0.8191,-0.8517,-0.8354,female,0
+Germany,-0.003,-0.0298,-0.0164,male,1
+Germany,-0.5239,-0.5624,-0.5431,female,1
+Germany,-0.0035,-0.0294,-0.0165,male,2
+Germany,-0.4511,-0.4887,-0.4699,female,2
+Germany,-0.0045,-0.0292,-0.0169,male,3
+Germany,-0.4513,-0.4876,-0.4695,female,3
+Germany,-0.0137,-0.0383,-0.026,male,4
+Germany,-0.4081,-0.4436,-0.4259,female,4
+Germany,-0.0182,-0.0426,-0.0304,male,5
+Germany,-0.3553,-0.3898,-0.3725,female,5
+Germany,-0.0141,-0.0379,-0.026,male,6
+Germany,-0.3376,-0.3714,-0.3545,female,6
+Germany,-0.015,-0.0387,-0.0268,male,7
+Germany,-0.3211,-0.3544,-0.3377,female,7
+Germany,-0.0204,-0.0445,-0.0325,male,8
+Germany,-0.3169,-0.3499,-0.3334,female,8
+Germany,-0.0259,-0.0502,-0.038,male,9
+Germany,-0.2997,-0.3322,-0.3159,female,9
+Germany,-0.028,-0.0525,-0.0402,male,10
+Germany,-0.2933,-0.3256,-0.3095,female,10
+Ghana,0.0087,-0.0167,-0.004,male,-5
+Ghana,0.0118,-0.0287,-0.0084,female,-5
+Ghana,0.0092,-0.0153,-0.0031,male,-4
+Ghana,0.0146,-0.0239,-0.0047,female,-4
+Ghana,0.0189,-0.0045,0.0072,male,-3
+Ghana,0.009,-0.0275,-0.0093,female,-3
+Ghana,0,0,0,male,-2
+Ghana,0,0,0,female,-2
+Ghana,0.0162,-0.0062,0.005,male,-1
+Ghana,0.0018,-0.0321,-0.0151,female,-1
+Ghana,0.0398,0.0185,0.0291,male,0
+Ghana,-0.1599,-0.194,-0.1769,female,0
+Ghana,0.0436,0.0229,0.0333,male,1
+Ghana,-0.0444,-0.0771,-0.0607,female,1
+Ghana,0.0419,0.0215,0.0317,male,2
+Ghana,-0.0286,-0.0604,-0.0445,female,2
+Ghana,0.0448,0.0249,0.0348,male,3
+Ghana,-0.0233,-0.0546,-0.0389,female,3
+Ghana,0.0363,0.0163,0.0263,male,4
+Ghana,-0.032,-0.0628,-0.0474,female,4
+Ghana,0.0339,0.0139,0.0239,male,5
+Ghana,-0.0386,-0.0693,-0.0539,female,5
+Ghana,0.0281,0.0079,0.018,male,6
+Ghana,-0.0407,-0.0713,-0.056,female,6
+Ghana,0.0208,0.0005,0.0106,male,7
+Ghana,-0.0522,-0.0829,-0.0676,female,7
+Ghana,0.0282,0.0081,0.0181,male,8
+Ghana,-0.0466,-0.0772,-0.0619,female,8
+Ghana,0.0199,-0.0006,0.0096,male,9
+Ghana,-0.0414,-0.0719,-0.0566,female,9
+Ghana,0.0235,0.004,0.0138,male,10
+Ghana,-0.0422,-0.0712,-0.0567,female,10
+Greece,0.0093,-0.0074,0.001,male,-5
+Greece,0.0422,-0.0253,0.0084,female,-5
+Greece,0.0106,-0.005,0.0028,male,-4
+Greece,0.0518,-0.0096,0.0211,female,-4
+Greece,0.0128,-0.002,0.0054,male,-3
+Greece,0.047,-0.0098,0.0186,female,-3
+Greece,0,0,0,male,-2
+Greece,0,0,0,female,-2
+Greece,0.0056,-0.0082,-0.0013,male,-1
+Greece,0.0064,-0.0438,-0.0187,female,-1
+Greece,0.0253,0.0129,0.0191,male,0
+Greece,-0.2359,-0.2825,-0.2592,female,0
+Greece,0.015,0.0024,0.0087,male,1
+Greece,-0.2765,-0.3222,-0.2993,female,1
+Greece,0.0186,0.0065,0.0126,male,2
+Greece,-0.2894,-0.3331,-0.3113,female,2
+Greece,0.0144,0.0021,0.0082,male,3
+Greece,-0.306,-0.3489,-0.3274,female,3
+Greece,0.0101,-0.0022,0.0039,male,4
+Greece,-0.3231,-0.3644,-0.3438,female,4
+Greece,0.014,0.0019,0.0079,male,5
+Greece,-0.3626,-0.4028,-0.3827,female,5
+Greece,0.0114,-0.0008,0.0053,male,6
+Greece,-0.3792,-0.4187,-0.3989,female,6
+Greece,0.0083,-0.0041,0.0021,male,7
+Greece,-0.3915,-0.4304,-0.4109,female,7
+Greece,0.0092,-0.0033,0.0029,male,8
+Greece,-0.4146,-0.4528,-0.4337,female,8
+Greece,0.0078,-0.0049,0.0014,male,9
+Greece,-0.4173,-0.4551,-0.4362,female,9
+Greece,0.0101,-0.0025,0.0038,male,10
+Greece,-0.4179,-0.4553,-0.4366,female,10
+Guatemala,0.0088,-0.0129,-0.002,male,-5
+Guatemala,0.1019,-0.1125,-0.0053,female,-5
+Guatemala,0.0127,-0.0075,0.0026,male,-4
+Guatemala,0.1286,-0.0563,0.0362,female,-4
+Guatemala,0.0055,-0.014,-0.0042,male,-3
+Guatemala,0.0683,-0.0937,-0.0127,female,-3
+Guatemala,0,0,0,male,-2
+Guatemala,0,0,0,female,-2
+Guatemala,0.005,-0.0135,-0.0043,male,-1
+Guatemala,0.0182,-0.1114,-0.0466,female,-1
+Guatemala,0.0134,-0.0047,0.0043,male,0
+Guatemala,-0.2685,-0.3821,-0.3253,female,0
+Guatemala,0.0122,-0.0061,0.0031,male,1
+Guatemala,-0.2851,-0.3944,-0.3398,female,1
+Guatemala,0.0133,-0.0047,0.0043,male,2
+Guatemala,-0.2839,-0.3888,-0.3363,female,2
+Guatemala,0.0027,-0.0156,-0.0064,male,3
+Guatemala,-0.2914,-0.3934,-0.3424,female,3
+Guatemala,-0.0016,-0.0199,-0.0108,male,4
+Guatemala,-0.3449,-0.4431,-0.394,female,4
+Guatemala,-0.004,-0.0225,-0.0132,male,5
+Guatemala,-0.351,-0.4477,-0.3993,female,5
+Guatemala,-0.0055,-0.0241,-0.0148,male,6
+Guatemala,-0.3498,-0.4438,-0.3968,female,6
+Guatemala,-0.0114,-0.0305,-0.021,male,7
+Guatemala,-0.3332,-0.4257,-0.3795,female,7
+Guatemala,-0.0176,-0.0367,-0.0272,male,8
+Guatemala,-0.374,-0.4642,-0.4191,female,8
+Guatemala,-0.0199,-0.0394,-0.0297,male,9
+Guatemala,-0.3427,-0.4325,-0.3876,female,9
+Guatemala,-0.0201,-0.0392,-0.0296,male,10
+Guatemala,-0.3755,-0.463,-0.4193,female,10
+Guinea,0.0067,-0.0171,-0.0052,male,-5
+Guinea,-0.0152,-0.0895,-0.0523,female,-5
+Guinea,0.0045,-0.0196,-0.0076,male,-4
+Guinea,0.0174,-0.0558,-0.0192,female,-4
+Guinea,0.0063,-0.0171,-0.0054,male,-3
+Guinea,0.0054,-0.0664,-0.0305,female,-3
+Guinea,0,0,0,male,-2
+Guinea,0,0,0,female,-2
+Guinea,0.0177,-0.0048,0.0065,male,-1
+Guinea,0.008,-0.0633,-0.0277,female,-1
+Guinea,0.0311,0.0102,0.0206,male,0
+Guinea,-0.0176,-0.0849,-0.0512,female,0
+Guinea,0.0298,0.0085,0.0192,male,1
+Guinea,-0.0047,-0.0776,-0.0412,female,1
+Guinea,0.0374,0.0177,0.0276,male,2
+Guinea,-0.0101,-0.0765,-0.0433,female,2
+Guinea,0.0381,0.019,0.0286,male,3
+Guinea,-0.0164,-0.0785,-0.0474,female,3
+Guinea,0.0399,0.0209,0.0304,male,4
+Guinea,-0.0204,-0.082,-0.0512,female,4
+Guinea,0.0415,0.0228,0.0322,male,5
+Guinea,0.0036,-0.055,-0.0257,female,5
+Guinea,0.0397,0.0207,0.0302,male,6
+Guinea,-0.0107,-0.0718,-0.0412,female,6
+Guinea,0.0394,0.0206,0.03,male,7
+Guinea,-0.0126,-0.072,-0.0423,female,7
+Guinea,0.0416,0.0225,0.0321,male,8
+Guinea,-0.0143,-0.0742,-0.0442,female,8
+Guinea,0.0419,0.0225,0.0322,male,9
+Guinea,-0.0016,-0.0634,-0.0325,female,9
+Guinea,0.0388,0.0196,0.0292,male,10
+Guinea,-0.0129,-0.0713,-0.0421,female,10
+Guyana,0.232,-0.1034,0.0643,male,-5
+Guyana,0.2808,-0.2733,0.0037,female,-5
+Guyana,0.3302,0.0131,0.1717,male,-4
+Guyana,0.1105,-0.3708,-0.1301,female,-4
+Guyana,0.3516,0.0385,0.1951,male,-3
+Guyana,0.4165,-0.0688,0.1738,female,-3
+Guyana,0,0,0,male,-2
+Guyana,0,0,0,female,-2
+Guyana,0.3219,0.0148,0.1684,male,-1
+Guyana,0.2398,-0.2126,0.0136,female,-1
+Guyana,0.34,-0.0193,0.1603,male,0
+Guyana,-0.3531,-0.8003,-0.5767,female,0
+Guyana,0.3162,0.0058,0.161,male,1
+Guyana,0.0858,-0.3893,-0.1517,female,1
+Guyana,0.197,-0.1333,0.0319,male,2
+Guyana,-0.0474,-0.4994,-0.2734,female,2
+Guyana,0.2484,-0.0644,0.092,male,3
+Guyana,0.1528,-0.2839,-0.0656,female,3
+Guyana,0.3275,0.0153,0.1714,male,4
+Guyana,-0.1087,-0.5269,-0.3178,female,4
+Guyana,0.2923,-0.0225,0.1349,male,5
+Guyana,-0.1275,-0.5237,-0.3256,female,5
+Guyana,0.1984,-0.1502,0.0241,male,6
+Guyana,-0.0463,-0.4933,-0.2698,female,6
+Guyana,0.2922,-0.0244,0.1339,male,7
+Guyana,0.069,-0.353,-0.142,female,7
+Guyana,0.3097,-0.0217,0.144,male,8
+Guyana,0.2213,-0.2067,0.0073,female,8
+Guyana,0.1403,-0.1971,-0.0284,male,9
+Guyana,0.0162,-0.4112,-0.1975,female,9
+Guyana,0.2335,-0.0982,0.0676,male,10
+Guyana,-0.2554,-0.6425,-0.4489,female,10
+Haiti,0.013,-0.0293,-0.0082,male,-5
+Haiti,0.0433,-0.0481,-0.0024,female,-5
+Haiti,0.0172,-0.0243,-0.0035,male,-4
+Haiti,0.0508,-0.0386,0.0061,female,-4
+Haiti,0.0229,-0.0175,0.0027,male,-3
+Haiti,0.0298,-0.0545,-0.0123,female,-3
+Haiti,0,0,0,male,-2
+Haiti,0,0,0,female,-2
+Haiti,0.0013,-0.0391,-0.0189,male,-1
+Haiti,0.0347,-0.0449,-0.0051,female,-1
+Haiti,0.0156,-0.0238,-0.0041,male,0
+Haiti,-0.1308,-0.2082,-0.1695,female,0
+Haiti,0.034,-0.0197,0.0071,male,1
+Haiti,-0.0511,-0.1547,-0.1029,female,1
+Haiti,0.0519,0.0116,0.0317,male,2
+Haiti,-0.0359,-0.1175,-0.0767,female,2
+Haiti,0.0154,-0.0263,-0.0055,male,3
+Haiti,-0.0303,-0.112,-0.0711,female,3
+Haiti,0.0462,0.0046,0.0254,male,4
+Haiti,-0.0018,-0.084,-0.0429,female,4
+Haiti,0.0352,-0.0075,0.0138,male,5
+Haiti,-0.0119,-0.0957,-0.0538,female,5
+Haiti,0.0376,-0.0043,0.0167,male,6
+Haiti,0.0284,-0.0525,-0.012,female,6
+Haiti,0.0476,0.0073,0.0275,male,7
+Haiti,0.0012,-0.0778,-0.0383,female,7
+Haiti,0.042,0.0011,0.0215,male,8
+Haiti,0.0155,-0.0636,-0.024,female,8
+Haiti,0.0476,0.0028,0.0252,male,9
+Haiti,-0.0016,-0.0867,-0.0442,female,9
+Haiti,0.0517,0.0109,0.0313,male,10
+Haiti,-0.0014,-0.0789,-0.0402,female,10
+Honduras,0.018,-0.0171,0.0005,male,-5
+Honduras,0.1926,-0.145,0.0238,female,-5
+Honduras,0.0196,-0.0144,0.0026,male,-4
+Honduras,0.1231,-0.1369,-0.0069,female,-4
+Honduras,0.0252,-0.0072,0.009,male,-3
+Honduras,0.1295,-0.0869,0.0213,female,-3
+Honduras,0,0,0,male,-2
+Honduras,0,0,0,female,-2
+Honduras,0.0126,-0.0192,-0.0033,male,-1
+Honduras,0.1317,-0.0376,0.047,female,-1
+Honduras,0.0247,-0.0067,0.009,male,0
+Honduras,-0.1384,-0.2889,-0.2136,female,0
+Honduras,0.0156,-0.0167,-0.0006,male,1
+Honduras,-0.1258,-0.2693,-0.1975,female,1
+Honduras,0.0031,-0.0293,-0.0131,male,2
+Honduras,-0.1704,-0.305,-0.2377,female,2
+Honduras,0.012,-0.0199,-0.004,male,3
+Honduras,-0.1666,-0.2953,-0.2309,female,3
+Honduras,-0.0078,-0.0406,-0.0242,male,4
+Honduras,-0.2053,-0.3304,-0.2678,female,4
+Honduras,-0.0146,-0.0475,-0.031,male,5
+Honduras,-0.2292,-0.3504,-0.2898,female,5
+Honduras,-0.0098,-0.0429,-0.0263,male,6
+Honduras,-0.2257,-0.3441,-0.2849,female,6
+Honduras,-0.0092,-0.0424,-0.0258,male,7
+Honduras,-0.1651,-0.2825,-0.2238,female,7
+Honduras,-0.0271,-0.0615,-0.0443,male,8
+Honduras,-0.2483,-0.3621,-0.3052,female,8
+Honduras,-0.0185,-0.0533,-0.0359,male,9
+Honduras,-0.2007,-0.3147,-0.2577,female,9
+Honduras,-0.025,-0.0599,-0.0424,male,10
+Honduras,-0.207,-0.3183,-0.2626,female,10
+Hungary,0.0297,-0.0018,0.014,male,-5
+Hungary,0.0146,-0.0313,-0.0084,female,-5
+Hungary,0.0349,0.0055,0.0202,male,-4
+Hungary,0.0121,-0.0307,-0.0093,female,-4
+Hungary,0.0216,-0.0071,0.0073,male,-3
+Hungary,0.0229,-0.0173,0.0028,female,-3
+Hungary,0,0,0,male,-2
+Hungary,0,0,0,female,-2
+Hungary,0.012,-0.0152,-0.0016,male,-1
+Hungary,0.0165,-0.0208,-0.0021,female,-1
+Hungary,0.0161,-0.0103,0.0029,male,0
+Hungary,-0.8689,-0.9016,-0.8853,female,0
+Hungary,0.0078,-0.0182,-0.0052,male,1
+Hungary,-0.8542,-0.8867,-0.8705,female,1
+Hungary,-0.0058,-0.0318,-0.0188,male,2
+Hungary,-0.6417,-0.6791,-0.6604,female,2
+Hungary,0.0004,-0.0248,-0.0122,male,3
+Hungary,-0.3811,-0.4199,-0.4005,female,3
+Hungary,-0.0115,-0.0373,-0.0244,male,4
+Hungary,-0.3625,-0.4008,-0.3816,female,4
+Hungary,-0.0145,-0.0401,-0.0273,male,5
+Hungary,-0.338,-0.3756,-0.3568,female,5
+Hungary,-0.0269,-0.0532,-0.04,male,6
+Hungary,-0.2831,-0.3202,-0.3017,female,6
+Hungary,-0.022,-0.048,-0.035,male,7
+Hungary,-0.2516,-0.2878,-0.2697,female,7
+Hungary,-0.0153,-0.041,-0.0281,male,8
+Hungary,-0.2226,-0.2577,-0.2401,female,8
+Hungary,-0.02,-0.0458,-0.0329,male,9
+Hungary,-0.2057,-0.2401,-0.2229,female,9
+Hungary,-0.0238,-0.0498,-0.0368,male,10
+Hungary,-0.2001,-0.234,-0.2171,female,10
+Iceland,0.058,-0.0575,0.0003,male,-5
+Iceland,-0.0274,-0.1439,-0.0857,female,-5
+Iceland,0.0399,-0.065,-0.0126,male,-4
+Iceland,-0.0042,-0.106,-0.0551,female,-4
+Iceland,0.009,-0.0852,-0.0381,male,-3
+Iceland,0.0262,-0.0755,-0.0247,female,-3
+Iceland,0,0,0,male,-2
+Iceland,0,0,0,female,-2
+Iceland,-0.0059,-0.0988,-0.0523,male,-1
+Iceland,0.0009,-0.083,-0.0411,female,-1
+Iceland,0.0777,-0.035,0.0214,male,0
+Iceland,-0.2636,-0.3945,-0.3291,female,0
+Iceland,0.0608,-0.0374,0.0117,male,1
+Iceland,-0.1018,-0.2191,-0.1604,female,1
+Iceland,0.1059,0.0071,0.0565,male,2
+Iceland,-0.1185,-0.2286,-0.1736,female,2
+Iceland,0.12,0.0236,0.0718,male,3
+Iceland,-0.0869,-0.1945,-0.1407,female,3
+Iceland,0.1507,0.0568,0.1037,male,4
+Iceland,-0.1217,-0.2278,-0.1748,female,4
+Iceland,0.0941,-0.0078,0.0432,male,5
+Iceland,-0.0695,-0.1736,-0.1215,female,5
+Iceland,0.1105,0.0106,0.0605,male,6
+Iceland,-0.0624,-0.1704,-0.1164,female,6
+Iceland,0.1314,0.0317,0.0816,male,7
+Iceland,-0.1004,-0.2066,-0.1535,female,7
+Iceland,0.0957,-0.0047,0.0455,male,8
+Iceland,-0.0703,-0.1713,-0.1208,female,8
+Iceland,0.1304,0.033,0.0817,male,9
+Iceland,-0.0697,-0.1707,-0.1202,female,9
+Iceland,0.137,0.042,0.0895,male,10
+Iceland,-0.0892,-0.1883,-0.1387,female,10
+India,0.0123,-0.0331,-0.0104,male,-5
+India,0.1218,-0.0985,0.0116,female,-5
+India,0.0245,-0.019,0.0028,male,-4
+India,0.0659,-0.1367,-0.0354,female,-4
+India,0.0275,-0.0135,0.007,male,-3
+India,0.1199,-0.0783,0.0208,female,-3
+India,0,0,0,male,-2
+India,0,0,0,female,-2
+India,0.0315,-0.0067,0.0124,male,-1
+India,0.0899,-0.104,-0.007,female,-1
+India,0.0239,-0.0135,0.0052,male,0
+India,-0.455,-0.6195,-0.5373,female,0
+India,0.028,-0.0093,0.0094,male,1
+India,-0.295,-0.4744,-0.3847,female,1
+India,0.0303,-0.0039,0.0132,male,2
+India,-0.2142,-0.3994,-0.3068,female,2
+India,0.0196,-0.023,-0.0017,male,3
+India,-0.1757,-0.3764,-0.276,female,3
+India,0.0256,-0.0082,0.0087,male,4
+India,-0.1867,-0.3686,-0.2776,female,4
+India,0.0344,0.0021,0.0183,male,5
+India,-0.0738,-0.2694,-0.1716,female,5
+India,0.0342,0.0001,0.0172,male,6
+India,-0.108,-0.29,-0.199,female,6
+India,0.0206,-0.0148,0.0029,male,7
+India,-0.1113,-0.2983,-0.2048,female,7
+India,0.0211,-0.0184,0.0014,male,8
+India,-0.1021,-0.2836,-0.1929,female,8
+India,0.0212,-0.0134,0.0039,male,9
+India,-0.0049,-0.1997,-0.1023,female,9
+India,0.0163,-0.0233,-0.0035,male,10
+India,0.0117,-0.1675,-0.0779,female,10
+Indonesia,-0.0018,-0.0123,-0.007,male,-5
+Indonesia,-0.0189,-0.0748,-0.0468,female,-5
+Indonesia,0.0028,-0.0073,-0.0022,male,-4
+Indonesia,-0.0003,-0.0529,-0.0266,female,-4
+Indonesia,0.0023,-0.0076,-0.0027,male,-3
+Indonesia,0.0076,-0.042,-0.0172,female,-3
+Indonesia,0,0,0,male,-2
+Indonesia,0,0,0,female,-2
+Indonesia,0.0039,-0.0058,-0.001,male,-1
+Indonesia,0.0202,-0.026,-0.0029,female,-1
+Indonesia,0.0107,0.0013,0.006,male,0
+Indonesia,-0.3184,-0.3603,-0.3393,female,0
+Indonesia,0.0118,0.002,0.0069,male,1
+Indonesia,-0.2344,-0.2758,-0.2551,female,1
+Indonesia,0.0114,0.0019,0.0067,male,2
+Indonesia,-0.2018,-0.2427,-0.2222,female,2
+Indonesia,0.0156,0.0065,0.011,male,3
+Indonesia,-0.1733,-0.2133,-0.1933,female,3
+Indonesia,0.0136,0.0041,0.0089,male,4
+Indonesia,-0.1757,-0.2162,-0.196,female,4
+Indonesia,0.0141,0.0046,0.0093,male,5
+Indonesia,-0.1696,-0.2092,-0.1894,female,5
+Indonesia,0.0147,0.0051,0.0099,male,6
+Indonesia,-0.1844,-0.2234,-0.2039,female,6
+Indonesia,0.0133,0.0039,0.0086,male,7
+Indonesia,-0.1814,-0.2193,-0.2004,female,7
+Indonesia,0.0129,0.0032,0.008,male,8
+Indonesia,-0.1659,-0.204,-0.1849,female,8
+Indonesia,0.013,0.0031,0.008,male,9
+Indonesia,-0.1617,-0.1988,-0.1802,female,9
+Indonesia,0.0135,0.0037,0.0086,male,10
+Indonesia,-0.1564,-0.1932,-0.1748,female,10
+Iran,0.0174,-0.0116,0.0029,male,-5
+Iran,0.1739,-0.1715,0.0012,female,-5
+Iran,0.0222,-0.0046,0.0088,male,-4
+Iran,0.2405,-0.0723,0.0841,female,-4
+Iran,0.0123,-0.0131,-0.0004,male,-3
+Iran,0.1176,-0.1426,-0.0125,female,-3
+Iran,0,0,0,male,-2
+Iran,0,0,0,female,-2
+Iran,0.0046,-0.0197,-0.0075,male,-1
+Iran,0.0738,-0.1282,-0.0272,female,-1
+Iran,0.0116,-0.0119,-0.0001,male,0
+Iran,-0.3408,-0.505,-0.4229,female,0
+Iran,0.0095,-0.0138,-0.0021,male,1
+Iran,-0.2809,-0.4405,-0.3607,female,1
+Iran,0.006,-0.0176,-0.0058,male,2
+Iran,-0.2717,-0.4225,-0.3471,female,2
+Iran,0.005,-0.0188,-0.0069,male,3
+Iran,-0.2874,-0.4307,-0.359,female,3
+Iran,0.0031,-0.0206,-0.0087,male,4
+Iran,-0.3217,-0.4603,-0.391,female,4
+Iran,0.0047,-0.0191,-0.0072,male,5
+Iran,-0.3256,-0.4564,-0.391,female,5
+Iran,0.0044,-0.0198,-0.0077,male,6
+Iran,-0.3742,-0.5001,-0.4371,female,6
+Iran,0.0009,-0.0238,-0.0114,male,7
+Iran,-0.4094,-0.5296,-0.4695,female,7
+Iran,-0.0137,-0.0395,-0.0266,male,8
+Iran,-0.3925,-0.5114,-0.452,female,8
+Iran,-0.0147,-0.041,-0.0278,male,9
+Iran,-0.4057,-0.5227,-0.4642,female,9
+Iran,-0.0156,-0.0417,-0.0287,male,10
+Iran,-0.4446,-0.5553,-0.4999,female,10
+Iraq,-0.0139,-0.0489,-0.0314,male,-5
+Iraq,0.3186,-0.0952,0.1117,female,-5
+Iraq,-0.0058,-0.0391,-0.0225,male,-4
+Iraq,0.1566,-0.1791,-0.0113,female,-4
+Iraq,-0.0008,-0.0325,-0.0167,male,-3
+Iraq,0.1383,-0.1526,-0.0072,female,-3
+Iraq,0,0,0,male,-2
+Iraq,0,0,0,female,-2
+Iraq,0.0172,-0.0118,0.0027,male,-1
+Iraq,0.0996,-0.1322,-0.0163,female,-1
+Iraq,0.0159,-0.0124,0.0017,male,0
+Iraq,0.0791,-0.1335,-0.0272,female,0
+Iraq,0.0179,-0.0095,0.0042,male,1
+Iraq,-0.1576,-0.3473,-0.2524,female,1
+Iraq,0.0265,0.0012,0.0139,male,2
+Iraq,-0.1873,-0.3539,-0.2706,female,2
+Iraq,0.0125,-0.0129,-0.0002,male,3
+Iraq,-0.2561,-0.4071,-0.3316,female,3
+Iraq,0.0204,-0.004,0.0082,male,4
+Iraq,-0.316,-0.4556,-0.3858,female,4
+Iraq,0.0116,-0.0139,-0.0011,male,5
+Iraq,-0.362,-0.4957,-0.4288,female,5
+Iraq,0.0148,-0.01,0.0024,male,6
+Iraq,-0.3744,-0.4991,-0.4368,female,6
+Iraq,0.0127,-0.0126,0,male,7
+Iraq,-0.4197,-0.5391,-0.4794,female,7
+Iraq,0.019,-0.007,0.006,male,8
+Iraq,-0.4168,-0.5328,-0.4748,female,8
+Iraq,0.0069,-0.0208,-0.007,male,9
+Iraq,-0.4035,-0.5191,-0.4613,female,9
+Iraq,0.0114,-0.0169,-0.0027,male,10
+Iraq,-0.4364,-0.5466,-0.4915,female,10
+Ireland,0.065,-0.0644,0.0003,male,-5
+Ireland,0.0453,-0.0768,-0.0157,female,-5
+Ireland,0.0893,-0.0326,0.0284,male,-4
+Ireland,0.0221,-0.0848,-0.0314,female,-4
+Ireland,0.0783,-0.0374,0.0204,male,-3
+Ireland,-0.0143,-0.1207,-0.0675,female,-3
+Ireland,0,0,0,male,-2
+Ireland,0,0,0,female,-2
+Ireland,0.0447,-0.0697,-0.0125,male,-1
+Ireland,0.0095,-0.0848,-0.0376,female,-1
+Ireland,0.0702,-0.0358,0.0172,male,0
+Ireland,-0.1319,-0.2485,-0.1902,female,0
+Ireland,0.0242,-0.0747,-0.0252,male,1
+Ireland,-0.2331,-0.3229,-0.278,female,1
+Ireland,0.0166,-0.0818,-0.0326,male,2
+Ireland,-0.2792,-0.3671,-0.3231,female,2
+Ireland,0.0062,-0.0905,-0.0422,male,3
+Ireland,-0.2804,-0.3644,-0.3224,female,3
+Ireland,-0.0126,-0.1078,-0.0602,male,4
+Ireland,-0.3282,-0.4105,-0.3694,female,4
+Ireland,-0.0187,-0.1128,-0.0657,male,5
+Ireland,-0.3551,-0.4357,-0.3954,female,5
+Ireland,-0.0246,-0.1179,-0.0712,male,6
+Ireland,-0.4039,-0.4823,-0.4431,female,6
+Ireland,-0.0261,-0.1188,-0.0724,male,7
+Ireland,-0.4011,-0.4796,-0.4403,female,7
+Ireland,-0.0436,-0.1365,-0.09,male,8
+Ireland,-0.3934,-0.4707,-0.432,female,8
+Ireland,-0.0516,-0.1445,-0.0981,male,9
+Ireland,-0.439,-0.5162,-0.4776,female,9
+Ireland,-0.06,-0.1534,-0.1067,male,10
+Ireland,-0.4287,-0.5053,-0.467,female,10
+Israel,0.0538,0.0042,0.029,male,-5
+Israel,0.013,-0.0466,-0.0168,female,-5
+Israel,0.0516,0.0034,0.0275,male,-4
+Israel,0.027,-0.0273,-0.0001,female,-4
+Israel,0.0383,-0.0071,0.0156,male,-3
+Israel,0.0157,-0.0343,-0.0093,female,-3
+Israel,0,0,0,male,-2
+Israel,0,0,0,female,-2
+Israel,0.0231,-0.0171,0.003,male,-1
+Israel,-0.002,-0.0497,-0.0259,female,-1
+Israel,0.0057,-0.0439,-0.0191,male,0
+Israel,-0.3263,-0.4031,-0.3647,female,0
+Israel,-0.0181,-0.0675,-0.0428,male,1
+Israel,-0.1628,-0.2326,-0.1977,female,1
+Israel,-0.065,-0.1148,-0.0899,male,2
+Israel,-0.1966,-0.2624,-0.2295,female,2
+Israel,-0.0821,-0.1306,-0.1063,male,3
+Israel,-0.2099,-0.2729,-0.2414,female,3
+Israel,-0.0855,-0.1329,-0.1092,male,4
+Israel,-0.2145,-0.2761,-0.2453,female,4
+Israel,-0.1175,-0.1656,-0.1416,male,5
+Israel,-0.2198,-0.2797,-0.2497,female,5
+Israel,-0.0935,-0.1405,-0.117,male,6
+Israel,-0.2299,-0.291,-0.2604,female,6
+Israel,-0.1153,-0.1631,-0.1392,male,7
+Israel,-0.2634,-0.3251,-0.2942,female,7
+Israel,-0.1242,-0.1729,-0.1485,male,8
+Israel,-0.2594,-0.3221,-0.2908,female,8
+Israel,-0.1248,-0.173,-0.1489,male,9
+Israel,-0.2483,-0.3103,-0.2793,female,9
+Israel,-0.1417,-0.1906,-0.1662,male,10
+Israel,-0.2538,-0.315,-0.2844,female,10
+Italy,0.0104,-0.0265,-0.0081,male,-5
+Italy,0.1227,-0.0077,0.0575,female,-5
+Italy,0.0024,-0.0323,-0.015,male,-4
+Italy,0.0936,-0.0269,0.0334,female,-4
+Italy,0.0002,-0.0329,-0.0164,male,-3
+Italy,0.053,-0.0576,-0.0023,female,-3
+Italy,0,0,0,male,-2
+Italy,0,0,0,female,-2
+Italy,0.0003,-0.0308,-0.0153,male,-1
+Italy,0.0391,-0.0601,-0.0105,female,-1
+Italy,0.0217,-0.0145,0.0036,male,0
+Italy,-0.1057,-0.2288,-0.1672,female,0
+Italy,0.0217,-0.0117,0.005,male,1
+Italy,-0.203,-0.3179,-0.2604,female,1
+Italy,0.0054,-0.0304,-0.0125,male,2
+Italy,-0.2381,-0.3477,-0.2929,female,2
+Italy,0.0173,-0.014,0.0017,male,3
+Italy,-0.237,-0.3396,-0.2883,female,3
+Italy,0.0075,-0.0251,-0.0088,male,4
+Italy,-0.2218,-0.3204,-0.2711,female,4
+Italy,0.003,-0.0301,-0.0136,male,5
+Italy,-0.2696,-0.3652,-0.3174,female,5
+Italy,-0.0026,-0.0367,-0.0196,male,6
+Italy,-0.3137,-0.4072,-0.3605,female,6
+Italy,-0.0095,-0.0438,-0.0267,male,7
+Italy,-0.3321,-0.4224,-0.3773,female,7
+Italy,-0.0062,-0.04,-0.0231,male,8
+Italy,-0.3236,-0.4131,-0.3684,female,8
+Italy,-0.0059,-0.0402,-0.023,male,9
+Italy,-0.3383,-0.4263,-0.3823,female,9
+Italy,-0.0164,-0.0514,-0.0339,male,10
+Italy,-0.3542,-0.4409,-0.3975,female,10
+Jamaica,0.0574,-0.0426,0.0074,male,-5
+Jamaica,0.076,-0.1202,-0.0221,female,-5
+Jamaica,0.035,-0.0584,-0.0117,male,-4
+Jamaica,0.0709,-0.102,-0.0156,female,-4
+Jamaica,0.0531,-0.0349,0.0091,male,-3
+Jamaica,0.0551,-0.1018,-0.0233,female,-3
+Jamaica,0,0,0,male,-2
+Jamaica,0,0,0,female,-2
+Jamaica,0.0391,-0.044,-0.0024,male,-1
+Jamaica,0.0146,-0.1211,-0.0532,female,-1
+Jamaica,0.0913,0.0128,0.052,male,0
+Jamaica,-0.2908,-0.4162,-0.3535,female,0
+Jamaica,0.116,0.0411,0.0785,male,1
+Jamaica,-0.2143,-0.3368,-0.2756,female,1
+Jamaica,0.0902,0.0146,0.0524,male,2
+Jamaica,-0.2187,-0.3389,-0.2788,female,2
+Jamaica,0.0776,0.0012,0.0394,male,3
+Jamaica,-0.1946,-0.3133,-0.2539,female,3
+Jamaica,0.0739,-0.002,0.036,male,4
+Jamaica,-0.1994,-0.3147,-0.2571,female,4
+Jamaica,0.0878,0.0133,0.0506,male,5
+Jamaica,-0.2142,-0.3273,-0.2707,female,5
+Jamaica,0.0863,0.0118,0.0491,male,6
+Jamaica,-0.2172,-0.328,-0.2726,female,6
+Jamaica,0.0814,0.0077,0.0445,male,7
+Jamaica,-0.2536,-0.3631,-0.3083,female,7
+Jamaica,0.0785,0.0046,0.0415,male,8
+Jamaica,-0.2103,-0.3185,-0.2644,female,8
+Jamaica,0.0734,-0.0015,0.0359,male,9
+Jamaica,-0.2125,-0.321,-0.2667,female,9
+Jamaica,0.0701,-0.0051,0.0325,male,10
+Jamaica,-0.1939,-0.3015,-0.2477,female,10
+Japan,0.0274,-0.0666,-0.0196,male,-5
+Japan,0.1383,-0.0979,0.0202,female,-5
+Japan,0.044,-0.0348,0.0046,male,-4
+Japan,0.1532,-0.0737,0.0398,female,-4
+Japan,0.0375,-0.0429,-0.0027,male,-3
+Japan,0.147,-0.0811,0.033,female,-3
+Japan,0,0,0,male,-2
+Japan,0,0,0,female,-2
+Japan,0.0295,-0.051,-0.0107,male,-1
+Japan,0.1648,-0.0536,0.0556,female,-1
+Japan,0.075,0.0137,0.0443,male,0
+Japan,-0.7455,-0.9435,-0.8445,female,0
+Japan,0.0822,0.0233,0.0527,male,1
+Japan,-0.4155,-0.6385,-0.527,female,1
+Japan,0.0715,0.0074,0.0395,male,2
+Japan,-0.3543,-0.5757,-0.465,female,2
+Japan,0.0721,0.0117,0.0419,male,3
+Japan,-0.3247,-0.5465,-0.4356,female,3
+Japan,0.0738,0.014,0.0439,male,4
+Japan,-0.2868,-0.5075,-0.3971,female,4
+Japan,0.0834,0.0272,0.0553,male,5
+Japan,-0.2072,-0.4227,-0.3149,female,5
+Japan,0.0782,0.0208,0.0495,male,6
+Japan,-0.1679,-0.3838,-0.2758,female,6
+Japan,0.0789,0.0215,0.0502,male,7
+Japan,-0.1601,-0.3752,-0.2676,female,7
+Japan,0.0822,0.0255,0.0538,male,8
+Japan,-0.0757,-0.2916,-0.1836,female,8
+Japan,0.0835,0.0268,0.0552,male,9
+Japan,-0.0396,-0.2558,-0.1477,female,9
+Japan,0.0859,0.0297,0.0578,male,10
+Japan,0.0049,-0.2097,-0.1024,female,10
+Jordan,0.0186,-0.0244,-0.0029,male,-5
+Jordan,0.1912,-0.153,0.0191,female,-5
+Jordan,0.017,-0.0244,-0.0037,male,-4
+Jordan,0.1655,-0.1509,0.0073,female,-4
+Jordan,0.0023,-0.0391,-0.0184,male,-3
+Jordan,0.1621,-0.1237,0.0192,female,-3
+Jordan,0,0,0,male,-2
+Jordan,0,0,0,female,-2
+Jordan,0.0007,-0.0391,-0.0192,male,-1
+Jordan,-0.0101,-0.2376,-0.1238,female,-1
+Jordan,0.0224,-0.0155,0.0034,male,0
+Jordan,-0.1953,-0.3938,-0.2945,female,0
+Jordan,0.0148,-0.0226,-0.0039,male,1
+Jordan,-0.3547,-0.5273,-0.441,female,1
+Jordan,0.0206,-0.0164,0.0021,male,2
+Jordan,-0.4506,-0.6153,-0.533,female,2
+Jordan,0.0209,-0.0165,0.0022,male,3
+Jordan,-0.5102,-0.664,-0.5871,female,3
+Jordan,0.0035,-0.0351,-0.0158,male,4
+Jordan,-0.5771,-0.7221,-0.6496,female,4
+Jordan,0.0073,-0.0325,-0.0126,male,5
+Jordan,-0.5999,-0.7412,-0.6706,female,5
+Jordan,0.012,-0.0283,-0.0081,male,6
+Jordan,-0.6605,-0.7959,-0.7282,female,6
+Jordan,-0.0024,-0.0442,-0.0233,male,7
+Jordan,-0.7333,-0.8627,-0.798,female,7
+Jordan,0.0075,-0.034,-0.0133,male,8
+Jordan,-0.7411,-0.8668,-0.804,female,8
+Jordan,-0.0179,-0.0612,-0.0395,male,9
+Jordan,-0.8261,-0.9456,-0.8859,female,9
+Jordan,-0.0107,-0.0547,-0.0327,male,10
+Jordan,-0.832,-0.9496,-0.8908,female,10
+Kenya,0.0065,-0.0081,-0.0008,male,-5
+Kenya,0.012,-0.0237,-0.0059,female,-5
+Kenya,0.0091,-0.0044,0.0024,male,-4
+Kenya,0.0213,-0.0108,0.0053,female,-4
+Kenya,0.0119,-0.0009,0.0055,male,-3
+Kenya,0.0186,-0.0119,0.0034,female,-3
+Kenya,0,0,0,male,-2
+Kenya,0,0,0,female,-2
+Kenya,0.0121,0.0002,0.0062,male,-1
+Kenya,0.0159,-0.0129,0.0015,female,-1
+Kenya,0.0226,0.0112,0.0169,male,0
+Kenya,-0.0869,-0.1154,-0.1011,female,0
+Kenya,0.0233,0.0115,0.0174,male,1
+Kenya,-0.0243,-0.0538,-0.039,female,1
+Kenya,0.021,0.0095,0.0153,male,2
+Kenya,-0.0297,-0.0583,-0.044,female,2
+Kenya,0.0181,0.0065,0.0123,male,3
+Kenya,-0.0342,-0.0628,-0.0485,female,3
+Kenya,0.021,0.0094,0.0152,male,4
+Kenya,-0.0463,-0.0749,-0.0606,female,4
+Kenya,0.0193,0.0075,0.0134,male,5
+Kenya,-0.0333,-0.0618,-0.0476,female,5
+Kenya,0.0149,0.0028,0.0088,male,6
+Kenya,-0.0466,-0.0757,-0.0612,female,6
+Kenya,0.0182,0.0059,0.012,male,7
+Kenya,-0.0452,-0.0744,-0.0598,female,7
+Kenya,0.0191,0.0068,0.013,male,8
+Kenya,-0.0413,-0.0703,-0.0558,female,8
+Kenya,0.0233,0.011,0.0172,male,9
+Kenya,-0.0446,-0.0735,-0.0591,female,9
+Kenya,0.0175,0.0052,0.0114,male,10
+Kenya,-0.0584,-0.0869,-0.0727,female,10
+"Korea, Rep.",0.0019,-0.0298,-0.014,male,-5
+"Korea, Rep.",0.0526,-0.0032,0.0247,female,-5
+"Korea, Rep.",0.012,-0.0149,-0.0015,male,-4
+"Korea, Rep.",0.0283,-0.0258,0.0013,female,-4
+"Korea, Rep.",0.0076,-0.0182,-0.0053,male,-3
+"Korea, Rep.",0.0328,-0.0186,0.0071,female,-3
+"Korea, Rep.",0,0,0,male,-2
+"Korea, Rep.",0,0,0,female,-2
+"Korea, Rep.",0.0165,-0.005,0.0057,male,-1
+"Korea, Rep.",0.0079,-0.0429,-0.0175,female,-1
+"Korea, Rep.",0.0675,0.0358,0.0516,male,0
+"Korea, Rep.",-0.5772,-0.669,-0.6231,female,0
+"Korea, Rep.",0.0673,0.0384,0.0529,male,1
+"Korea, Rep.",-0.5279,-0.618,-0.5729,female,1
+"Korea, Rep.",0.0695,0.0425,0.056,male,2
+"Korea, Rep.",-0.5384,-0.625,-0.5817,female,2
+"Korea, Rep.",0.0694,0.0433,0.0563,male,3
+"Korea, Rep.",-0.4398,-0.5303,-0.485,female,3
+"Korea, Rep.",0.0539,0.0228,0.0384,male,4
+"Korea, Rep.",-0.4385,-0.5294,-0.4839,female,4
+"Korea, Rep.",0.065,0.0357,0.0504,male,5
+"Korea, Rep.",-0.3672,-0.4617,-0.4145,female,5
+"Korea, Rep.",0.0701,0.0419,0.056,male,6
+"Korea, Rep.",-0.3306,-0.4258,-0.3782,female,6
+"Korea, Rep.",0.0548,0.0207,0.0378,male,7
+"Korea, Rep.",-0.3344,-0.4298,-0.3821,female,7
+"Korea, Rep.",0.0654,0.0344,0.0499,male,8
+"Korea, Rep.",-0.2766,-0.3717,-0.3241,female,8
+"Korea, Rep.",0.0766,0.0469,0.0617,male,9
+"Korea, Rep.",-0.1988,-0.2962,-0.2475,female,9
+"Korea, Rep.",0.0739,0.043,0.0584,male,10
+"Korea, Rep.",-0.1802,-0.2764,-0.2283,female,10
+Kyrgyz Republic,0.2028,-0.1927,0.0051,male,-5
+Kyrgyz Republic,0.1479,-0.3772,-0.1147,female,-5
+Kyrgyz Republic,0.2513,-0.0962,0.0775,male,-4
+Kyrgyz Republic,0.2511,-0.2127,0.0192,female,-4
+Kyrgyz Republic,0.2122,-0.1008,0.0557,male,-3
+Kyrgyz Republic,0.1608,-0.2711,-0.0551,female,-3
+Kyrgyz Republic,0,0,0,male,-2
+Kyrgyz Republic,0,0,0,female,-2
+Kyrgyz Republic,0.1991,-0.0247,0.0872,male,-1
+Kyrgyz Republic,0.1329,-0.2281,-0.0476,female,-1
+Kyrgyz Republic,0.233,-0.0027,0.1151,male,0
+Kyrgyz Republic,-0.5014,-0.8245,-0.663,female,0
+Kyrgyz Republic,0.1434,-0.1124,0.0155,male,1
+Kyrgyz Republic,-0.1547,-0.525,-0.3399,female,1
+Kyrgyz Republic,0.1788,-0.0224,0.0782,male,2
+Kyrgyz Republic,-0.2627,-0.6045,-0.4336,female,2
+Kyrgyz Republic,0.1296,-0.1493,-0.0099,male,3
+Kyrgyz Republic,-0.1951,-0.5065,-0.3508,female,3
+Kyrgyz Republic,0.1518,-0.1176,0.0171,male,4
+Kyrgyz Republic,-0.2206,-0.5385,-0.3796,female,4
+Kyrgyz Republic,0.1799,-0.0584,0.0607,male,5
+Kyrgyz Republic,-0.1619,-0.4747,-0.3183,female,5
+Kyrgyz Republic,0.1754,-0.107,0.0342,male,6
+Kyrgyz Republic,-0.1107,-0.4182,-0.2644,female,6
+Kyrgyz Republic,0.1652,-0.0887,0.0382,male,7
+Kyrgyz Republic,-0.138,-0.4364,-0.2872,female,7
+Kyrgyz Republic,0.1657,-0.1482,0.0087,male,8
+Kyrgyz Republic,-0.2035,-0.504,-0.3538,female,8
+Kyrgyz Republic,0.1785,-0.0756,0.0514,male,9
+Kyrgyz Republic,-0.0293,-0.3354,-0.1824,female,9
+Kyrgyz Republic,0.2091,-0.0578,0.0756,male,10
+Kyrgyz Republic,-0.0302,-0.3251,-0.1776,female,10
+Laos,0.0113,-0.026,-0.0073,male,-5
+Laos,0.0299,-0.0483,-0.0092,female,-5
+Laos,0.0212,-0.0125,0.0043,male,-4
+Laos,0.026,-0.0478,-0.0109,female,-4
+Laos,0.0289,-0.0022,0.0133,male,-3
+Laos,0.0382,-0.0352,0.0015,female,-3
+Laos,0,0,0,male,-2
+Laos,0,0,0,female,-2
+Laos,0.0301,-0.0021,0.014,male,-1
+Laos,0.0897,0.0232,0.0565,female,-1
+Laos,0.0437,0.0142,0.0289,male,0
+Laos,0.0405,-0.0362,0.0022,female,0
+Laos,0.0427,0.0133,0.028,male,1
+Laos,0.0434,-0.0295,0.0069,female,1
+Laos,0.0501,0.0222,0.0362,male,2
+Laos,0.0691,0.0007,0.0349,female,2
+Laos,0.0521,0.0245,0.0383,male,3
+Laos,0.0561,-0.0113,0.0224,female,3
+Laos,0.0489,0.021,0.035,male,4
+Laos,0.0549,-0.0115,0.0217,female,4
+Laos,0.0482,0.0204,0.0343,male,5
+Laos,0.0613,-0.0044,0.0284,female,5
+Laos,0.0464,0.0185,0.0325,male,6
+Laos,0.0687,0.001,0.0349,female,6
+Laos,0.0486,0.021,0.0348,male,7
+Laos,0.0681,0.0005,0.0343,female,7
+Laos,0.0496,0.022,0.0358,male,8
+Laos,0.0592,-0.0099,0.0246,female,8
+Laos,0.0474,0.0191,0.0332,male,9
+Laos,0.0665,-0.0031,0.0317,female,9
+Laos,0.0518,0.0239,0.0379,male,10
+Laos,0.0771,0.0092,0.0431,female,10
+Latvia,0.0961,-0.1286,-0.0163,male,-5
+Latvia,0.344,-0.1008,0.1216,female,-5
+Latvia,0.0777,-0.1011,-0.0117,male,-4
+Latvia,0.2555,-0.1484,0.0536,female,-4
+Latvia,0.1352,-0.0147,0.0602,male,-3
+Latvia,0.2263,-0.0849,0.0707,female,-3
+Latvia,0,0,0,male,-2
+Latvia,0,0,0,female,-2
+Latvia,0.1133,-0.0053,0.054,male,-1
+Latvia,0.1197,-0.07,0.0249,female,-1
+Latvia,0.1159,-0.0171,0.0494,male,0
+Latvia,-0.7142,-0.863,-0.7886,female,0
+Latvia,0.1272,0.0174,0.0723,male,1
+Latvia,-0.4764,-0.6249,-0.5507,female,1
+Latvia,0.0927,-0.0296,0.0315,male,2
+Latvia,-0.1803,-0.3304,-0.2553,female,2
+Latvia,0.136,0.0249,0.0805,male,3
+Latvia,-0.1603,-0.3096,-0.2349,female,3
+Latvia,0.1103,-0.0017,0.0543,male,4
+Latvia,-0.1048,-0.241,-0.1729,female,4
+Latvia,0.0996,-0.0163,0.0416,male,5
+Latvia,-0.0926,-0.2289,-0.1607,female,5
+Latvia,0.1142,-0.0035,0.0554,male,6
+Latvia,-0.0402,-0.1719,-0.1061,female,6
+Latvia,0.1213,0.0027,0.062,male,7
+Latvia,-0.0882,-0.2251,-0.1566,female,7
+Latvia,0.1152,-0.0027,0.0563,male,8
+Latvia,-0.0741,-0.2105,-0.1423,female,8
+Latvia,0.1261,0.0044,0.0653,male,9
+Latvia,-0.1043,-0.2445,-0.1744,female,9
+Latvia,0.0939,-0.038,0.028,male,10
+Latvia,-0.0441,-0.1788,-0.1115,female,10
+Lesotho,0.0983,-0.0418,0.0282,male,-5
+Lesotho,0.1968,-0.1526,0.0221,female,-5
+Lesotho,0.1136,-0.0204,0.0466,male,-4
+Lesotho,0.2068,-0.1223,0.0422,female,-4
+Lesotho,0.0581,-0.0722,-0.007,male,-3
+Lesotho,0.2351,-0.07,0.0825,female,-3
+Lesotho,0,0,0,male,-2
+Lesotho,0,0,0,female,-2
+Lesotho,0.072,-0.0523,0.0099,male,-1
+Lesotho,0.1771,-0.0792,0.049,female,-1
+Lesotho,0.0669,-0.0558,0.0056,male,0
+Lesotho,-0.0674,-0.3046,-0.186,female,0
+Lesotho,0.1059,-0.0088,0.0486,male,1
+Lesotho,-0.1743,-0.4027,-0.2885,female,1
+Lesotho,0.0984,-0.0166,0.0409,male,2
+Lesotho,-0.1143,-0.3395,-0.2269,female,2
+Lesotho,0.0656,-0.0486,0.0085,male,3
+Lesotho,-0.2486,-0.4632,-0.3559,female,3
+Lesotho,0.0946,-0.0166,0.039,male,4
+Lesotho,-0.1698,-0.3825,-0.2762,female,4
+Lesotho,0.0896,-0.0198,0.0349,male,5
+Lesotho,-0.2795,-0.4779,-0.3787,female,5
+Lesotho,0.0853,-0.0243,0.0305,male,6
+Lesotho,-0.2485,-0.4455,-0.347,female,6
+Lesotho,0.113,0.0043,0.0586,male,7
+Lesotho,-0.2672,-0.4632,-0.3652,female,7
+Lesotho,0.0639,-0.0468,0.0086,male,8
+Lesotho,-0.2613,-0.4536,-0.3574,female,8
+Lesotho,0.0793,-0.0306,0.0243,male,9
+Lesotho,-0.2984,-0.4855,-0.3919,female,9
+Lesotho,0.0791,-0.0315,0.0238,male,10
+Lesotho,-0.2704,-0.4561,-0.3633,female,10
+Liberia,0.0671,-0.0923,-0.0126,male,-5
+Liberia,0.1961,-0.0732,0.0614,female,-5
+Liberia,0.0634,-0.0909,-0.0137,male,-4
+Liberia,0.1624,-0.0746,0.0439,female,-4
+Liberia,0.0783,-0.0704,0.0039,male,-3
+Liberia,0.2185,-0.0098,0.1044,female,-3
+Liberia,0,0,0,male,-2
+Liberia,0,0,0,female,-2
+Liberia,0.0636,-0.0823,-0.0094,male,-1
+Liberia,0.0682,-0.1365,-0.0342,female,-1
+Liberia,0.0644,-0.0786,-0.0071,male,0
+Liberia,0.1293,-0.073,0.0281,female,0
+Liberia,0.0323,-0.1162,-0.0419,male,1
+Liberia,0.1363,-0.0818,0.0272,female,1
+Liberia,0.0602,-0.0772,-0.0085,male,2
+Liberia,0.2199,0.0181,0.119,female,2
+Liberia,0.0755,-0.0574,0.009,male,3
+Liberia,0.1879,-0.0032,0.0924,female,3
+Liberia,0.11,-0.0189,0.0455,male,4
+Liberia,0.2639,0.0751,0.1695,female,4
+Liberia,0.1105,-0.0171,0.0467,male,5
+Liberia,0.1943,0.0102,0.1022,female,5
+Liberia,0.1022,-0.0272,0.0375,male,6
+Liberia,0.196,0.0082,0.1021,female,6
+Liberia,0.0838,-0.0426,0.0206,male,7
+Liberia,0.2077,0.0255,0.1166,female,7
+Liberia,0.0455,-0.0834,-0.019,male,8
+Liberia,0.1513,-0.0338,0.0587,female,8
+Liberia,0.0683,-0.0595,0.0044,male,9
+Liberia,0.1435,-0.0421,0.0507,female,9
+Liberia,0.0637,-0.0588,0.0025,male,10
+Liberia,0.2345,0.0581,0.1463,female,10
+Lithuania,0.0567,-0.1885,-0.0659,male,-5
+Lithuania,0.0911,-0.0366,0.0272,female,-5
+Lithuania,0.0951,-0.1107,-0.0078,male,-4
+Lithuania,0.0546,-0.1171,-0.0313,female,-4
+Lithuania,0.1151,-0.0502,0.0325,male,-3
+Lithuania,0.0929,-0.0169,0.038,female,-3
+Lithuania,0,0,0,male,-2
+Lithuania,0,0,0,female,-2
+Lithuania,0.1122,-0.0477,0.0322,male,-1
+Lithuania,0.0514,-0.0615,-0.005,female,-1
+Lithuania,0.086,-0.0655,0.0103,male,0
+Lithuania,-0.483,-0.6664,-0.5747,female,0
+Lithuania,0.0907,-0.0537,0.0185,male,1
+Lithuania,-0.2174,-0.3709,-0.2942,female,1
+Lithuania,0.0589,-0.092,-0.0166,male,2
+Lithuania,-0.124,-0.2662,-0.1951,female,2
+Lithuania,0.0715,-0.0754,-0.0019,male,3
+Lithuania,-0.1059,-0.2401,-0.173,female,3
+Lithuania,0.0626,-0.0855,-0.0115,male,4
+Lithuania,-0.1189,-0.2577,-0.1883,female,4
+Lithuania,0.104,-0.0346,0.0347,male,5
+Lithuania,-0.149,-0.2933,-0.2212,female,5
+Lithuania,0.0822,-0.0646,0.0088,male,6
+Lithuania,-0.1366,-0.2778,-0.2072,female,6
+Lithuania,0.0811,-0.0643,0.0084,male,7
+Lithuania,-0.0941,-0.2294,-0.1618,female,7
+Lithuania,0.0727,-0.0744,-0.0008,male,8
+Lithuania,-0.1202,-0.2554,-0.1878,female,8
+Lithuania,0.0718,-0.0767,-0.0024,male,9
+Lithuania,-0.086,-0.216,-0.151,female,9
+Lithuania,0.0537,-0.098,-0.0221,male,10
+Lithuania,-0.1073,-0.2387,-0.173,female,10
+Luxembourg,0.0409,0.0004,0.0207,male,-5
+Luxembourg,-0.006,-0.1126,-0.0593,female,-5
+Luxembourg,0.0428,0.006,0.0244,male,-4
+Luxembourg,0.0016,-0.0995,-0.049,female,-4
+Luxembourg,0.0174,-0.0347,-0.0086,male,-3
+Luxembourg,0.0333,-0.0651,-0.0159,female,-3
+Luxembourg,0,0,0,male,-2
+Luxembourg,0,0,0,female,-2
+Luxembourg,0.0327,-0.0074,0.0126,male,-1
+Luxembourg,0.0094,-0.0811,-0.0359,female,-1
+Luxembourg,0.0363,-0.007,0.0146,male,0
+Luxembourg,-0.2246,-0.3474,-0.286,female,0
+Luxembourg,0.0239,-0.0247,-0.0004,male,1
+Luxembourg,-0.278,-0.3932,-0.3356,female,1
+Luxembourg,0.0163,-0.0351,-0.0094,male,2
+Luxembourg,-0.2429,-0.3565,-0.2997,female,2
+Luxembourg,0.0308,-0.0158,0.0075,male,3
+Luxembourg,-0.3041,-0.4229,-0.3635,female,3
+Luxembourg,0.0259,-0.0239,0.001,male,4
+Luxembourg,-0.3155,-0.4328,-0.3742,female,4
+Luxembourg,0.0045,-0.0555,-0.0255,male,5
+Luxembourg,-0.309,-0.4251,-0.3671,female,5
+Luxembourg,0.0315,-0.0205,0.0055,male,6
+Luxembourg,-0.3359,-0.4576,-0.3968,female,6
+Luxembourg,0.0201,-0.0368,-0.0084,male,7
+Luxembourg,-0.346,-0.4676,-0.4068,female,7
+Luxembourg,0.0045,-0.0635,-0.0295,male,8
+Luxembourg,-0.2963,-0.4225,-0.3594,female,8
+Luxembourg,0.0361,-0.0189,0.0086,male,9
+Luxembourg,-0.3265,-0.4509,-0.3887,female,9
+Luxembourg,0.0063,-0.0601,-0.0269,male,10
+Luxembourg,-0.3795,-0.5032,-0.4413,female,10
+Madagascar,0.0498,-0.0314,0.0092,male,-5
+Madagascar,0.0581,-0.0172,0.0205,female,-5
+Madagascar,0.0598,-0.021,0.0194,male,-4
+Madagascar,0.0145,-0.0607,-0.0231,female,-4
+Madagascar,0.0533,-0.026,0.0137,male,-3
+Madagascar,0.0611,-0.0015,0.0298,female,-3
+Madagascar,0,0,0,male,-2
+Madagascar,0,0,0,female,-2
+Madagascar,0.0604,-0.0378,0.0113,male,-1
+Madagascar,0.0533,-0.0128,0.0203,female,-1
+Madagascar,0.0914,0.0182,0.0548,male,0
+Madagascar,-0.0303,-0.1244,-0.0773,female,0
+Madagascar,0.0868,0.018,0.0524,male,1
+Madagascar,0.0394,-0.0492,-0.0049,female,1
+Madagascar,0.0829,0.0025,0.0427,male,2
+Madagascar,0.0067,-0.0849,-0.0391,female,2
+Madagascar,0.0816,0.0192,0.0504,male,3
+Madagascar,-0.0191,-0.1141,-0.0666,female,3
+Madagascar,0.0779,0.0158,0.0468,male,4
+Madagascar,-0.0269,-0.1218,-0.0744,female,4
+Madagascar,0.0747,0.0112,0.0429,male,5
+Madagascar,-0.0573,-0.1552,-0.1062,female,5
+Madagascar,0.0676,-0.0343,0.0167,male,6
+Madagascar,-0.032,-0.1208,-0.0764,female,6
+Madagascar,0.0773,0.0131,0.0452,male,7
+Madagascar,-0.0668,-0.1607,-0.1137,female,7
+Madagascar,0.0761,0.0103,0.0432,male,8
+Madagascar,-0.093,-0.1833,-0.1381,female,8
+Madagascar,0.0628,-0.0317,0.0155,male,9
+Madagascar,-0.1194,-0.2155,-0.1675,female,9
+Madagascar,0.0783,0.0122,0.0453,male,10
+Madagascar,-0.1142,-0.2007,-0.1575,female,10
+Malawi,-0.008,-0.0161,-0.008,male,-5
+Malawi,0.007,-0.0281,-0.0105,female,-5
+Malawi,0.0034,-0.0114,-0.004,male,-4
+Malawi,0.01,-0.0222,-0.0061,female,-4
+Malawi,0.0059,-0.0081,-0.0011,male,-3
+Malawi,0.0046,-0.0263,-0.0108,female,-3
+Malawi,0,0,0,male,-2
+Malawi,0,0,0,female,-2
+Malawi,0.0064,-0.0067,-0.0001,male,-1
+Malawi,0.0107,-0.0189,-0.0041,female,-1
+Malawi,0.0111,-0.0016,0.0047,male,0
+Malawi,0.0135,-0.0159,-0.0012,female,0
+Malawi,0.0143,0.001,0.0077,male,1
+Malawi,0.0166,-0.0147,0.0009,female,1
+Malawi,0.0136,0.0068,0.0068,male,2
+Malawi,0.0117,-0.0197,-0.004,female,2
+Malawi,0.0137,0.0003,0.007,male,3
+Malawi,0.0048,-0.0257,-0.0104,female,3
+Malawi,0.0123,-0.001,0.0057,male,4
+Malawi,-0.0002,-0.0296,-0.0149,female,4
+Malawi,0.0152,0.0015,0.0083,male,5
+Malawi,0.0046,-0.025,-0.0102,female,5
+Malawi,0.0155,0.0015,0.0085,male,6
+Malawi,0.0035,-0.0262,-0.0113,female,6
+Malawi,0.0118,-0.0026,0.0046,male,7
+Malawi,-0.0068,-0.0373,-0.022,female,7
+Malawi,0.0078,-0.0073,0.0003,male,8
+Malawi,0.0001,-0.0306,-0.0153,female,8
+Malawi,0.0115,-0.0038,0.0038,male,9
+Malawi,-0.0021,-0.0324,-0.0173,female,9
+Malawi,0.0145,-0.0007,0.0069,male,10
+Malawi,-0.008,-0.0387,-0.0233,female,10
+Malaysia,-0.0052,-0.0355,-0.0203,male,-5
+Malaysia,0.0375,-0.0944,-0.0284,female,-5
+Malaysia,0.0053,-0.0225,-0.0086,male,-4
+Malaysia,0.0597,-0.0619,-0.0011,female,-4
+Malaysia,0.0029,-0.0242,-0.0106,male,-3
+Malaysia,0.0916,-0.0201,0.0358,female,-3
+Malaysia,0,0,0,male,-2
+Malaysia,0,0,0,female,-2
+Malaysia,0.0085,-0.0165,-0.004,male,-1
+Malaysia,0.0589,-0.0414,0.0088,female,-1
+Malaysia,0.0242,0.0018,0.013,male,0
+Malaysia,-0.2696,-0.3639,-0.3167,female,0
+Malaysia,0.024,0.0025,0.0132,male,1
+Malaysia,-0.237,-0.3259,-0.2814,female,1
+Malaysia,0.0274,0.0066,0.017,male,2
+Malaysia,-0.2962,-0.3804,-0.3383,female,2
+Malaysia,0.0227,0.0016,0.0122,male,3
+Malaysia,-0.3269,-0.4074,-0.3672,female,3
+Malaysia,0.0207,-0.0005,0.0101,male,4
+Malaysia,-0.3624,-0.4408,-0.4016,female,4
+Malaysia,0.0197,-0.0018,0.009,male,5
+Malaysia,-0.4106,-0.4874,-0.449,female,5
+Malaysia,0.0186,-0.003,0.0078,male,6
+Malaysia,-0.4505,-0.5257,-0.4881,female,6
+Malaysia,0.0178,-0.0043,0.0067,male,7
+Malaysia,-0.4788,-0.5531,-0.516,female,7
+Malaysia,0.0159,-0.0065,0.0047,male,8
+Malaysia,-0.4712,-0.5453,-0.5083,female,8
+Malaysia,0.0225,0.0004,0.0115,male,9
+Malaysia,-0.4867,-0.5598,-0.5232,female,9
+Malaysia,0.018,-0.0046,0.0067,male,10
+Malaysia,-0.5119,-0.5832,-0.5475,female,10
+Maldives,0.0447,-0.035,0.0048,male,-5
+Maldives,0.1084,-0.084,0.0122,female,-5
+Maldives,0.0415,-0.0327,0.0044,male,-4
+Maldives,0.0923,-0.0862,0.003,female,-4
+Maldives,0.0294,-0.0604,-0.0155,male,-3
+Maldives,0.1321,-0.0295,0.0513,female,-3
+Maldives,0,0,0,male,-2
+Maldives,0,0,0,female,-2
+Maldives,0.0461,-0.0365,0.0048,male,-1
+Maldives,0.0907,-0.0579,0.0164,female,-1
+Maldives,0.0894,-0.0056,0.0419,male,0
+Maldives,-0.1659,-0.3935,-0.2797,female,0
+Maldives,0.111,-0.0028,0.0541,male,1
+Maldives,-0.1345,-0.3575,-0.246,female,1
+Maldives,0.1027,-0.0089,0.0469,male,2
+Maldives,-0.0955,-0.3364,-0.2159,female,2
+Maldives,0.1219,0.0117,0.0668,male,3
+Maldives,-0.1441,-0.378,-0.261,female,3
+Maldives,0.0821,-0.0441,0.019,male,4
+Maldives,-0.2086,-0.4437,-0.3261,female,4
+Maldives,0.1476,0.0589,0.1033,male,5
+Maldives,-0.138,-0.3866,-0.2623,female,5
+Maldives,0.1566,0.0643,0.1104,male,6
+Maldives,-0.2094,-0.4569,-0.3331,female,6
+Maldives,0.1539,0.0523,0.1031,male,7
+Maldives,-0.178,-0.4262,-0.3021,female,7
+Maldives,0.1323,0.0157,0.074,male,8
+Maldives,-0.2282,-0.4666,-0.3474,female,8
+Maldives,0.1267,0.0068,0.0668,male,9
+Maldives,-0.2259,-0.4749,-0.3504,female,9
+Maldives,0.1628,0.0681,0.1154,male,10
+Maldives,-0.1574,-0.4146,-0.286,female,10
+Mali,0.0002,-0.0134,-0.0066,male,-5
+Mali,0.02,-0.0541,-0.0171,female,-5
+Mali,0.0012,-0.0119,-0.0053,male,-4
+Mali,0.036,-0.0351,0.0004,female,-4
+Mali,0.0053,-0.0074,-0.0011,male,-3
+Mali,0.0207,-0.0491,-0.0142,female,-3
+Mali,0,0,0,male,-2
+Mali,0,0,0,female,-2
+Mali,0.0048,-0.0075,-0.0014,male,-1
+Mali,0.0506,-0.0197,0.0154,female,-1
+Mali,0.0195,0.0081,0.0138,male,0
+Mali,0.0135,-0.0574,-0.0219,female,0
+Mali,0.022,0.0102,0.0161,male,1
+Mali,0.007,-0.0699,-0.0314,female,1
+Mali,0.0188,0.0078,0.0133,male,2
+Mali,0.0015,-0.0679,-0.0332,female,2
+Mali,0.018,0.0069,0.0125,male,3
+Mali,0.0119,-0.0577,-0.0229,female,3
+Mali,0.0179,0.0067,0.0123,male,4
+Mali,0.0012,-0.068,-0.0334,female,4
+Mali,0.0185,0.0073,0.0129,male,5
+Mali,0.01,-0.0578,-0.0239,female,5
+Mali,0.0221,0.0107,0.0164,male,6
+Mali,0.0077,-0.0633,-0.0278,female,6
+Mali,0.0213,0.0099,0.0156,male,7
+Mali,0.0166,-0.0539,-0.0186,female,7
+Mali,0.0223,0.0107,0.0165,male,8
+Mali,0.0307,-0.0402,-0.0047,female,8
+Mali,0.0259,0.014,0.02,male,9
+Mali,0.0249,-0.0484,-0.0118,female,9
+Mali,0.0253,0.0136,0.0194,male,10
+Mali,0.0525,-0.0179,0.0173,female,10
+Mauritius,0.0109,-0.0313,-0.0102,male,-5
+Mauritius,0.2123,-0.0435,0.0844,female,-5
+Mauritius,0.0271,-0.0109,0.0081,male,-4
+Mauritius,0.1128,-0.1162,-0.0017,female,-4
+Mauritius,0.0132,-0.0268,-0.0068,male,-3
+Mauritius,0.163,-0.0458,0.0586,female,-3
+Mauritius,0,0,0,male,-2
+Mauritius,0,0,0,female,-2
+Mauritius,0.0232,-0.014,0.0046,male,-1
+Mauritius,0.1595,-0.0182,0.0707,female,-1
+Mauritius,0.0278,-0.0084,0.0097,male,0
+Mauritius,-0.3054,-0.4635,-0.3844,female,0
+Mauritius,0.0361,0.0023,0.0192,male,1
+Mauritius,-0.2871,-0.4393,-0.3632,female,1
+Mauritius,0.0244,-0.0109,0.0068,male,2
+Mauritius,-0.2251,-0.3716,-0.2983,female,2
+Mauritius,0.0182,-0.0181,0.0001,male,3
+Mauritius,-0.2716,-0.4118,-0.3417,female,3
+Mauritius,0.0264,-0.0089,0.0087,male,4
+Mauritius,-0.2421,-0.3789,-0.3105,female,4
+Mauritius,0.0368,0.0029,0.0199,male,5
+Mauritius,-0.2915,-0.4252,-0.3584,female,5
+Mauritius,0.0226,-0.0136,0.0045,male,6
+Mauritius,-0.3007,-0.4299,-0.3653,female,6
+Mauritius,0.0303,-0.0046,0.0129,male,7
+Mauritius,-0.2635,-0.3904,-0.327,female,7
+Mauritius,0.0221,-0.0137,0.0042,male,8
+Mauritius,-0.2913,-0.4163,-0.3538,female,8
+Mauritius,0.0241,-0.0116,0.0062,male,9
+Mauritius,-0.2749,-0.3984,-0.3367,female,9
+Mauritius,0.0341,-0.0003,0.0169,male,10
+Mauritius,-0.2918,-0.4134,-0.3526,female,10
+Mexico,0.03,-0.0055,0.0122,male,-5
+Mexico,0.0762,-0.0347,0.0208,female,-5
+Mexico,0.0218,-0.012,0.0049,male,-4
+Mexico,0.0754,-0.0173,0.0291,female,-4
+Mexico,0.0275,-0.0011,0.0132,male,-3
+Mexico,0.0655,-0.0184,0.0235,female,-3
+Mexico,0,0,0,male,-2
+Mexico,0,0,0,female,-2
+Mexico,0.0244,-0.0114,0.0065,male,-1
+Mexico,0.0029,-0.0658,-0.0315,female,-1
+Mexico,0.0428,0.0147,0.0288,male,0
+Mexico,-0.3979,-0.457,-0.4275,female,0
+Mexico,0.0431,0.0151,0.0291,male,1
+Mexico,-0.3438,-0.404,-0.3739,female,1
+Mexico,0.0427,0.0174,0.0301,male,2
+Mexico,-0.3276,-0.3848,-0.3562,female,2
+Mexico,0.0369,0.0114,0.0242,male,3
+Mexico,-0.3559,-0.4107,-0.3833,female,3
+Mexico,0.0319,0.0054,0.0186,male,4
+Mexico,-0.3967,-0.4485,-0.4226,female,4
+Mexico,0.03,0.0041,0.0171,male,5
+Mexico,-0.4106,-0.4593,-0.4349,female,5
+Mexico,0.028,0.0019,0.015,male,6
+Mexico,-0.4172,-0.4634,-0.4403,female,6
+Mexico,0.0306,0.0042,0.0174,male,7
+Mexico,-0.4128,-0.4605,-0.4366,female,7
+Mexico,0.0262,0.0004,0.0133,male,8
+Mexico,-0.4191,-0.4642,-0.4417,female,8
+Mexico,0.0273,0.0017,0.0145,male,9
+Mexico,-0.4223,-0.4655,-0.4439,female,9
+Mexico,0.0238,-0.0021,0.0109,male,10
+Mexico,-0.4176,-0.4607,-0.4391,female,10
+Moldova,0.783,0.0581,0.4206,male,-5
+Moldova,0.1581,-0.171,-0.0064,female,-5
+Moldova,0.5648,-0.2253,0.1697,male,-4
+Moldova,0.176,-0.1213,0.0274,female,-4
+Moldova,0.5011,-0.1203,0.1904,male,-3
+Moldova,0.1499,-0.1199,0.015,female,-3
+Moldova,0,0,0,male,-2
+Moldova,0,0,0,female,-2
+Moldova,0.5085,-0.1479,0.1803,male,-1
+Moldova,0.1511,-0.0875,0.0318,female,-1
+Moldova,0.4144,-0.3202,0.0471,male,0
+Moldova,-0.2275,-0.5462,-0.3869,female,0
+Moldova,0.3539,-0.406,-0.0261,male,1
+Moldova,0.015,-0.3369,-0.161,female,1
+Moldova,0.5802,-0.036,0.2721,male,2
+Moldova,-0.0679,-0.3978,-0.2329,female,2
+Moldova,0.6864,0.0133,0.3499,male,3
+Moldova,0.1085,-0.2217,-0.0566,female,3
+Moldova,0.5375,-0.2598,0.1389,male,4
+Moldova,0.0956,-0.2599,-0.0821,female,4
+Moldova,0.5134,-0.2172,0.1481,male,5
+Moldova,0.0487,-0.3247,-0.138,female,5
+Moldova,0.4791,-0.2122,0.1335,male,6
+Moldova,0.1222,-0.231,-0.0544,female,6
+Moldova,0.2581,-0.4724,-0.1071,male,7
+Moldova,-0.0831,-0.4082,-0.2457,female,7
+Moldova,0.4461,-0.1304,0.1579,male,8
+Moldova,0.0709,-0.2547,-0.0919,female,8
+Moldova,0.285,-0.4142,-0.0646,male,9
+Moldova,-0.0383,-0.3639,-0.2011,female,9
+Moldova,0.2473,-0.3905,-0.0716,male,10
+Moldova,-0.0346,-0.3385,-0.1865,female,10
+Mongolia,0.0005,-0.1176,-0.0586,male,-5
+Mongolia,0.015,-0.132,-0.0585,female,-5
+Mongolia,0.0156,-0.0955,-0.0399,male,-4
+Mongolia,0.0066,-0.1316,-0.0625,female,-4
+Mongolia,0.0792,-0.0279,0.0257,male,-3
+Mongolia,0.0054,-0.1296,-0.0621,female,-3
+Mongolia,0,0,0,male,-2
+Mongolia,0,0,0,female,-2
+Mongolia,0.0425,-0.0658,-0.0117,male,-1
+Mongolia,0.0712,-0.069,0.0011,female,-1
+Mongolia,0.0413,-0.0682,-0.0135,male,0
+Mongolia,-0.1483,-0.2933,-0.2208,female,0
+Mongolia,0.0992,-0.0061,0.0465,male,1
+Mongolia,0.0324,-0.1107,-0.0392,female,1
+Mongolia,0.1005,-0.0084,0.0461,male,2
+Mongolia,0.1346,-0.0105,0.0621,female,2
+Mongolia,0.1094,0.0011,0.0552,male,3
+Mongolia,0.1305,-0.0128,0.0589,female,3
+Mongolia,0.1225,0.0141,0.0683,male,4
+Mongolia,0.1017,-0.0432,0.0293,female,4
+Mongolia,0.1326,0.0226,0.0776,male,5
+Mongolia,0.1341,-0.0124,0.0608,female,5
+Mongolia,0.102,-0.0132,0.0444,male,6
+Mongolia,0.1375,-0.0123,0.0626,female,6
+Mongolia,0.1262,0.0133,0.0697,male,7
+Mongolia,0.1166,-0.031,0.0428,female,7
+Mongolia,0.0263,-0.0925,-0.0331,male,8
+Mongolia,0.0556,-0.0958,-0.0201,female,8
+Mongolia,0.0146,-0.1057,-0.0456,male,9
+Mongolia,0.0146,-0.1361,-0.0607,female,9
+Mongolia,0.0391,-0.0835,-0.0222,male,10
+Mongolia,0.0792,-0.0727,0.0033,female,10
+Morocco,0.0045,-0.0108,-0.0031,male,-5
+Morocco,0.0545,-0.1114,-0.0285,female,-5
+Morocco,0.005,-0.0098,-0.0024,male,-4
+Morocco,0.0863,-0.0679,0.0092,female,-4
+Morocco,0.0085,-0.0058,0.0014,male,-3
+Morocco,0.0459,-0.091,-0.0226,female,-3
+Morocco,0,0,0,male,-2
+Morocco,0,0,0,female,-2
+Morocco,0.0058,-0.0082,-0.0012,male,-1
+Morocco,0.0544,-0.0606,-0.0031,female,-1
+Morocco,-0.0032,-0.0174,-0.0103,male,0
+Morocco,-0.1569,-0.2595,-0.2082,female,0
+Morocco,0.0024,-0.0113,-0.0045,male,1
+Morocco,-0.2197,-0.316,-0.2678,female,1
+Morocco,-0.0056,-0.0192,-0.0124,male,2
+Morocco,-0.3122,-0.4006,-0.3564,female,2
+Morocco,-0.0002,-0.0136,-0.0069,male,3
+Morocco,-0.3516,-0.4346,-0.3931,female,3
+Morocco,-0.0003,-0.0135,-0.0069,male,4
+Morocco,-0.3944,-0.4736,-0.434,female,4
+Morocco,0.0016,-0.0116,-0.005,male,5
+Morocco,-0.4235,-0.5,-0.4618,female,5
+Morocco,-0.0032,-0.0165,-0.0098,male,6
+Morocco,-0.4565,-0.5288,-0.4927,female,6
+Morocco,0.0004,-0.0127,-0.0061,male,7
+Morocco,-0.4627,-0.5332,-0.4979,female,7
+Morocco,-0.0021,-0.0155,-0.0088,male,8
+Morocco,-0.4752,-0.5431,-0.5092,female,8
+Morocco,-0.0001,-0.0138,-0.007,male,9
+Morocco,-0.5134,-0.5795,-0.5465,female,9
+Morocco,-0.0003,-0.0137,-0.007,male,10
+Morocco,-0.4979,-0.5617,-0.5298,female,10
+Mozambique,0.0164,-0.0043,0.0061,male,-5
+Mozambique,0.0081,-0.0334,-0.0126,female,-5
+Mozambique,0.0086,-0.0116,-0.0015,male,-4
+Mozambique,0.0039,-0.0357,-0.0159,female,-4
+Mozambique,0.0035,-0.0166,-0.0066,male,-3
+Mozambique,0.0164,-0.0218,-0.0027,female,-3
+Mozambique,0,0,0,male,-2
+Mozambique,0,0,0,female,-2
+Mozambique,0.0174,-0.0021,0.0076,male,-1
+Mozambique,0.0243,-0.0132,0.0055,female,-1
+Mozambique,0.0043,-0.0153,-0.0055,male,0
+Mozambique,-0.0239,-0.0614,-0.0427,female,0
+Mozambique,0.0077,-0.0117,-0.002,male,1
+Mozambique,0.0074,-0.0302,-0.0114,female,1
+Mozambique,0.0021,-0.0174,-0.0076,male,2
+Mozambique,-0.0046,-0.0417,-0.0231,female,2
+Mozambique,0.0089,-0.0101,-0.0006,male,3
+Mozambique,0.0161,-0.0197,-0.0018,female,3
+Mozambique,0.0076,-0.0112,-0.0018,male,4
+Mozambique,0.0234,-0.0113,0.006,female,4
+Mozambique,0.0123,-0.007,0.0026,male,5
+Mozambique,0.0325,-0.0026,0.0149,female,5
+Mozambique,0.0124,-0.0066,0.0029,male,6
+Mozambique,0.0363,0.0021,0.0192,female,6
+Mozambique,0.0164,-0.0029,0.0068,male,7
+Mozambique,0.0338,-0.0009,0.0165,female,7
+Mozambique,0.0157,-0.0044,0.0057,male,8
+Mozambique,0.0219,-0.0134,0.0043,female,8
+Mozambique,0.0202,0.0101,0.0101,male,9
+Mozambique,0.0311,-0.0044,0.0134,female,9
+Mozambique,0.0254,0.0059,0.0156,male,10
+Mozambique,0.0309,-0.0031,0.0139,female,10
+Myanmar,0.004,-0.011,-0.0035,male,-5
+Myanmar,0.0039,-0.0556,-0.0258,female,-5
+Myanmar,0.0081,-0.0059,0.0011,male,-4
+Myanmar,0.0126,-0.0435,-0.0154,female,-4
+Myanmar,0.007,-0.0064,0.0003,male,-3
+Myanmar,0.006,-0.0487,-0.0214,female,-3
+Myanmar,0,0,0,male,-2
+Myanmar,0,0,0,female,-2
+Myanmar,0.0144,0.002,0.0082,male,-1
+Myanmar,0.037,-0.0161,0.0105,female,-1
+Myanmar,0.0151,0.0029,0.009,male,0
+Myanmar,-0.3238,-0.3746,-0.3492,female,0
+Myanmar,0.0186,0.007,0.0128,male,1
+Myanmar,-0.2209,-0.2706,-0.2457,female,1
+Myanmar,0.0215,0.0101,0.0158,male,2
+Myanmar,-0.1709,-0.2199,-0.1954,female,2
+Myanmar,0.0166,0.0051,0.0109,male,3
+Myanmar,-0.1702,-0.2181,-0.1942,female,3
+Myanmar,0.0157,0.0043,0.01,male,4
+Myanmar,-0.1458,-0.1929,-0.1694,female,4
+Myanmar,0.0148,0.0033,0.009,male,5
+Myanmar,-0.1424,-0.1893,-0.1659,female,5
+Myanmar,0.0159,0.0045,0.0102,male,6
+Myanmar,-0.143,-0.1896,-0.1663,female,6
+Myanmar,0.017,0.0056,0.0113,male,7
+Myanmar,-0.1395,-0.1857,-0.1626,female,7
+Myanmar,0.015,0.0034,0.0092,male,8
+Myanmar,-0.136,-0.1823,-0.1592,female,8
+Myanmar,0.0185,0.007,0.0127,male,9
+Myanmar,-0.1285,-0.1746,-0.1516,female,9
+Myanmar,0.0194,0.008,0.0137,male,10
+Myanmar,-0.1252,-0.1708,-0.148,female,10
+Namibia,0.0531,-0.1965,-0.0717,male,-5
+Namibia,0.1703,-0.1351,0.0176,female,-5
+Namibia,0.0613,-0.1599,-0.0493,male,-4
+Namibia,0.1911,-0.0791,0.056,female,-4
+Namibia,0.0155,-0.2023,-0.0934,male,-3
+Namibia,0.1381,-0.0802,0.029,female,-3
+Namibia,0,0,0,male,-2
+Namibia,0,0,0,female,-2
+Namibia,0.0469,-0.1479,-0.0505,male,-1
+Namibia,0.0599,-0.0892,-0.0146,female,-1
+Namibia,0.0518,-0.1738,-0.061,male,0
+Namibia,-0.0979,-0.2634,-0.1807,female,0
+Namibia,0.114,-0.1138,0.0001,male,1
+Namibia,-0.1352,-0.2996,-0.2174,female,1
+Namibia,0.0607,-0.1668,-0.0531,male,2
+Namibia,-0.0966,-0.2753,-0.186,female,2
+Namibia,-0.0314,-0.2563,-0.1438,male,3
+Namibia,0.0387,-0.1422,-0.0518,female,3
+Namibia,-0.0096,-0.2214,-0.1155,male,4
+Namibia,-0.0826,-0.2622,-0.1724,female,4
+Namibia,0.0085,-0.2339,-0.1127,male,5
+Namibia,-0.0615,-0.2412,-0.1514,female,5
+Namibia,-0.0014,-0.2229,-0.1122,male,6
+Namibia,0.0098,-0.1728,-0.0815,female,6
+Namibia,0.0015,-0.2098,-0.1041,male,7
+Namibia,0.0081,-0.1728,-0.0823,female,7
+Namibia,0.0739,-0.1334,-0.0297,male,8
+Namibia,-0.0365,-0.2239,-0.1302,female,8
+Namibia,-0.0133,-0.2473,-0.1303,male,9
+Namibia,0.0316,-0.1621,-0.0652,female,9
+Namibia,-0.0217,-0.2815,-0.1516,male,10
+Namibia,-0.0523,-0.2341,-0.1432,female,10
+Nepal,-0.0105,-0.033,-0.0218,male,-5
+Nepal,0.0285,-0.0404,-0.006,female,-5
+Nepal,-0.0034,-0.0245,-0.0139,male,-4
+Nepal,0.0249,-0.04,-0.0076,female,-4
+Nepal,0.0027,-0.0174,-0.0074,male,-3
+Nepal,0.0407,-0.0216,0.0096,female,-3
+Nepal,0,0,0,male,-2
+Nepal,0,0,0,female,-2
+Nepal,0.0168,-0.0019,0.0075,male,-1
+Nepal,0.0214,-0.0377,-0.0082,female,-1
+Nepal,0.0322,0.0147,0.0234,male,0
+Nepal,-0.1011,-0.1599,-0.1305,female,0
+Nepal,0.0373,0.0196,0.0284,male,1
+Nepal,-0.0409,-0.1001,-0.0705,female,1
+Nepal,0.0435,0.0276,0.0356,male,2
+Nepal,-0.0334,-0.0903,-0.0619,female,2
+Nepal,0.0376,0.0216,0.0296,male,3
+Nepal,-0.0273,-0.0837,-0.0555,female,3
+Nepal,0.0383,0.0227,0.0305,male,4
+Nepal,-0.0324,-0.0877,-0.0601,female,4
+Nepal,0.0376,0.0222,0.0299,male,5
+Nepal,-0.0537,-0.1073,-0.0805,female,5
+Nepal,0.0441,0.0288,0.0364,male,6
+Nepal,-0.0459,-0.1002,-0.0731,female,6
+Nepal,0.0436,0.0284,0.036,male,7
+Nepal,-0.051,-0.1053,-0.0782,female,7
+Nepal,0.0415,0.0263,0.0339,male,8
+Nepal,-0.0736,-0.1277,-0.1006,female,8
+Nepal,0.046,0.0306,0.0383,male,9
+Nepal,-0.0314,-0.0869,-0.0592,female,9
+Nepal,0.0391,0.0239,0.0315,male,10
+Nepal,-0.1,-0.153,-0.1265,female,10
+Netherlands,0.0242,-0.0027,0.0107,male,-5
+Netherlands,0.0227,-0.0027,0.01,female,-5
+Netherlands,0.0204,-0.0057,0.0074,male,-4
+Netherlands,0.0213,-0.0032,0.0091,female,-4
+Netherlands,0.0176,-0.0092,0.0042,male,-3
+Netherlands,0.0186,-0.0043,0.0071,female,-3
+Netherlands,0,0,0,male,-2
+Netherlands,0,0,0,female,-2
+Netherlands,0.0198,-0.0061,0.0068,male,-1
+Netherlands,-0.0002,-0.0258,-0.013,female,-1
+Netherlands,0.0533,0.0217,0.0375,male,0
+Netherlands,-0.0628,-0.1096,-0.0862,female,0
+Netherlands,0.048,0.0149,0.0315,male,1
+Netherlands,-0.0827,-0.1292,-0.1059,female,1
+Netherlands,0.0492,0.0177,0.0335,male,2
+Netherlands,-0.1189,-0.1656,-0.1423,female,2
+Netherlands,0.0458,0.0127,0.0293,male,3
+Netherlands,-0.1217,-0.1683,-0.145,female,3
+Netherlands,0.0585,0.0268,0.0427,male,4
+Netherlands,-0.1458,-0.1934,-0.1696,female,4
+Netherlands,0.0584,0.0267,0.0426,male,5
+Netherlands,-0.1752,-0.2236,-0.1994,female,5
+Netherlands,0.0497,0.0157,0.0327,male,6
+Netherlands,-0.1676,-0.2164,-0.192,female,6
+Netherlands,0.0519,0.0167,0.0343,male,7
+Netherlands,-0.1848,-0.2352,-0.21,female,7
+Netherlands,0.0546,0.0187,0.0367,male,8
+Netherlands,-0.1917,-0.243,-0.2174,female,8
+Netherlands,0.0599,0.0241,0.042,male,9
+Netherlands,-0.1827,-0.2337,-0.2082,female,9
+Netherlands,0.0594,0.0229,0.0411,male,10
+Netherlands,-0.163,-0.2123,-0.1876,female,10
+Nicaragua,0.0209,-0.0252,-0.0022,male,-5
+Nicaragua,0.366,-0.0076,0.1792,female,-5
+Nicaragua,0.0204,-0.0243,-0.002,male,-4
+Nicaragua,0.2159,-0.09,0.063,female,-4
+Nicaragua,0.0433,0.0003,0.0218,male,-3
+Nicaragua,0.1456,-0.1088,0.0184,female,-3
+Nicaragua,0,0,0,male,-2
+Nicaragua,0,0,0,female,-2
+Nicaragua,0.0389,-0.0045,0.0172,male,-1
+Nicaragua,0.13,-0.0744,0.0278,female,-1
+Nicaragua,0.0552,0.0123,0.0338,male,0
+Nicaragua,-0.182,-0.3636,-0.2728,female,0
+Nicaragua,0.0563,0.0125,0.0344,male,1
+Nicaragua,-0.1403,-0.3088,-0.2246,female,1
+Nicaragua,0.067,0.0249,0.0459,male,2
+Nicaragua,-0.1559,-0.3151,-0.2355,female,2
+Nicaragua,0.0583,0.0154,0.0369,male,3
+Nicaragua,-0.1836,-0.3347,-0.2591,female,3
+Nicaragua,0.0545,0.0117,0.0331,male,4
+Nicaragua,-0.1748,-0.3163,-0.2456,female,4
+Nicaragua,0.0609,0.0181,0.0395,male,5
+Nicaragua,-0.2414,-0.3774,-0.3094,female,5
+Nicaragua,0.0619,0.0183,0.0401,male,6
+Nicaragua,-0.2178,-0.3525,-0.2852,female,6
+Nicaragua,0.0556,0.0112,0.0334,male,7
+Nicaragua,-0.2479,-0.3785,-0.3132,female,7
+Nicaragua,0.0432,-0.0027,0.0202,male,8
+Nicaragua,-0.2044,-0.3336,-0.269,female,8
+Nicaragua,0.0562,0.0107,0.0334,male,9
+Nicaragua,-0.2286,-0.3551,-0.2918,female,9
+Nicaragua,0.051,0.0053,0.0282,male,10
+Nicaragua,-0.2262,-0.3492,-0.2877,female,10
+Niger,0.077,-0.0206,0.0282,male,-5
+Niger,0.0641,-0.0533,0.0054,female,-5
+Niger,0.0361,-0.0684,-0.0162,male,-4
+Niger,0.0435,-0.0847,-0.0206,female,-4
+Niger,0.043,-0.0533,-0.0051,male,-3
+Niger,0.115,-0.0106,0.0522,female,-3
+Niger,0,0,0,male,-2
+Niger,0,0,0,female,-2
+Niger,0.039,-0.0672,-0.0141,male,-1
+Niger,0.1113,-0.0266,0.0424,female,-1
+Niger,0.1447,0.0195,0.0821,male,0
+Niger,-0.044,-0.2635,-0.1538,female,0
+Niger,0.1785,0.0612,0.1199,male,1
+Niger,0.3276,0.0582,0.1929,female,1
+Niger,0.1482,0.0227,0.0854,male,2
+Niger,0.2059,-0.046,0.08,female,2
+Niger,0.1067,-0.0243,0.0412,male,3
+Niger,0.2515,0.0025,0.127,female,3
+Niger,0.1499,0.0231,0.0865,male,4
+Niger,0.2009,-0.0415,0.0797,female,4
+Niger,0.1237,-0.0087,0.0575,male,5
+Niger,0.2612,0.0132,0.1372,female,5
+Niger,0.1096,-0.019,0.0453,male,6
+Niger,0.1678,-0.0672,0.0503,female,6
+Niger,0.112,-0.012,0.05,male,7
+Niger,0.1279,-0.0872,0.0203,female,7
+Niger,0.1402,0.0202,0.0802,male,8
+Niger,0.0575,-0.1612,-0.0518,female,8
+Niger,0.1055,-0.0235,0.041,male,9
+Niger,0.1739,-0.064,0.0549,female,9
+Niger,0.1398,0.0183,0.0791,male,10
+Niger,0.1748,-0.0193,0.0778,female,10
+Nigeria,0.0194,-0.0352,-0.0079,male,-5
+Nigeria,0.0001,-0.1068,-0.0533,female,-5
+Nigeria,0.0301,-0.014,0.0081,male,-4
+Nigeria,0.07,-0.0374,0.0163,female,-4
+Nigeria,0.0232,-0.0188,0.0022,male,-3
+Nigeria,0.026,-0.0692,-0.0216,female,-3
+Nigeria,0,0,0,male,-2
+Nigeria,0,0,0,female,-2
+Nigeria,0.0302,-0.0003,0.015,male,-1
+Nigeria,0.0496,-0.0324,0.0086,female,-1
+Nigeria,0.0351,0.0175,0.0175,male,0
+Nigeria,-0.0641,-0.1999,-0.132,female,0
+Nigeria,0.021,-0.0474,-0.0132,male,1
+Nigeria,0.0661,-0.0652,0.0004,female,1
+Nigeria,0.032,-0.0057,0.0132,male,2
+Nigeria,0.0736,-0.0527,0.0105,female,2
+Nigeria,0.0358,0.0055,0.0207,male,3
+Nigeria,0.0474,-0.0683,-0.0105,female,3
+Nigeria,0.0259,-0.0091,0.0084,male,4
+Nigeria,0.0135,-0.1018,-0.0442,female,4
+Nigeria,0.0237,-0.0147,0.0045,male,5
+Nigeria,0.0749,-0.0361,0.0194,female,5
+Nigeria,0.0251,-0.0288,-0.0018,male,6
+Nigeria,0.1034,-0.0027,0.0504,female,6
+Nigeria,0.0298,-0.0005,0.0147,male,7
+Nigeria,0.0329,-0.0743,-0.0207,female,7
+Nigeria,0.0196,-0.0201,-0.0002,male,8
+Nigeria,0.0402,-0.0635,-0.0116,female,8
+Nigeria,0.0272,-0.0082,0.0095,male,9
+Nigeria,0.0398,-0.0699,-0.0151,female,9
+Nigeria,0.0275,-0.0103,0.0086,male,10
+Nigeria,0.0272,-0.0717,-0.0223,female,10
+Norway,0.0029,-0.0071,-0.0021,male,-5
+Norway,0.0007,-0.0078,-0.0035,female,-5
+Norway,0.0035,-0.0046,-0.0006,male,-4
+Norway,0.0024,-0.0046,-0.0011,female,-4
+Norway,0.0035,-0.0027,0.0004,male,-3
+Norway,0.0034,-0.0017,0.0009,female,-3
+Norway,0,0,0,male,-2
+Norway,0,0,0,female,-2
+Norway,0.0001,-0.0061,-0.003,male,-1
+Norway,-0.001,-0.0058,-0.0034,female,-1
+Norway,0.0014,-0.0065,-0.0026,male,0
+Norway,-0.0154,-0.0226,-0.019,female,0
+Norway,0.0022,-0.0073,-0.0025,male,1
+Norway,-0.0175,-0.0264,-0.022,female,1
+Norway,0.0026,-0.0086,-0.003,male,2
+Norway,-0.0304,-0.0415,-0.0359,female,2
+Norway,0.0059,-0.0072,-0.0007,male,3
+Norway,-0.0294,-0.042,-0.0357,female,3
+Norway,0.008,-0.0067,0.0007,male,4
+Norway,-0.0288,-0.0428,-0.0358,female,4
+Norway,0.0068,-0.0098,-0.0015,male,5
+Norway,-0.0309,-0.0468,-0.0388,female,5
+Norway,0.0088,-0.0096,-0.0004,male,6
+Norway,-0.0299,-0.0474,-0.0386,female,6
+Norway,0.0093,-0.0111,-0.0009,male,7
+Norway,-0.0292,-0.0485,-0.0388,female,7
+Norway,0.0115,-0.0109,0.0003,male,8
+Norway,-0.0292,-0.0507,-0.04,female,8
+Norway,0.0124,-0.0121,0.0002,male,9
+Norway,-0.0286,-0.052,-0.0403,female,9
+Norway,0.0121,-0.0147,-0.0013,male,10
+Norway,-0.0253,-0.0506,-0.038,female,10
+Pakistan,0.0053,-0.0102,-0.0024,male,-5
+Pakistan,0.099,-0.082,0.0085,female,-5
+Pakistan,0.0073,-0.0069,0.0002,male,-4
+Pakistan,0.1076,-0.0697,0.019,female,-4
+Pakistan,0.0086,-0.0058,0.0014,male,-3
+Pakistan,0.1492,-0.0311,0.0591,female,-3
+Pakistan,0,0,0,male,-2
+Pakistan,0,0,0,female,-2
+Pakistan,0.0126,0.0003,0.0064,male,-1
+Pakistan,0.1495,-0.0242,0.0626,female,-1
+Pakistan,0.0217,0.0046,0.0132,male,0
+Pakistan,-0.0932,-0.2972,-0.1952,female,0
+Pakistan,0.0205,0.0048,0.0127,male,1
+Pakistan,0.0104,-0.2029,-0.0962,female,1
+Pakistan,0.0209,0.0069,0.0139,male,2
+Pakistan,-0.1338,-0.3092,-0.2215,female,2
+Pakistan,0.0207,0.0069,0.0138,male,3
+Pakistan,-0.0555,-0.231,-0.1433,female,3
+Pakistan,0.0233,0.0105,0.0169,male,4
+Pakistan,-0.1192,-0.2888,-0.204,female,4
+Pakistan,0.0205,0.0073,0.0139,male,5
+Pakistan,-0.0549,-0.2253,-0.1401,female,5
+Pakistan,0.0261,0.0137,0.0199,male,6
+Pakistan,-0.0242,-0.2,-0.1121,female,6
+Pakistan,0.021,0.0079,0.0144,male,7
+Pakistan,0.0177,-0.1545,-0.0684,female,7
+Pakistan,0.0272,0.0148,0.021,male,8
+Pakistan,0.0734,-0.0954,-0.011,female,8
+Pakistan,0.0244,0.0104,0.0174,male,9
+Pakistan,0.0632,-0.1151,-0.026,female,9
+Pakistan,0.0265,0.0137,0.0201,male,10
+Pakistan,0.0163,-0.1452,-0.0644,female,10
+Panama,0.0152,-0.0163,-0.0005,male,-5
+Panama,0.1254,-0.0196,0.0529,female,-5
+Panama,0.0015,-0.0299,-0.0142,male,-4
+Panama,0.0652,-0.0634,0.0009,female,-4
+Panama,0.0075,-0.0221,-0.0073,male,-3
+Panama,0.0877,-0.0304,0.0286,female,-3
+Panama,0,0,0,male,-2
+Panama,0,0,0,female,-2
+Panama,0.0057,-0.0226,-0.0084,male,-1
+Panama,0.0084,-0.0916,-0.0416,female,-1
+Panama,0.0088,-0.0191,-0.0052,male,0
+Panama,-0.2398,-0.332,-0.2859,female,0
+Panama,0.0179,-0.0094,0.0042,male,1
+Panama,-0.2067,-0.2968,-0.2517,female,1
+Panama,0.0247,-0.0018,0.0115,male,2
+Panama,-0.2017,-0.2867,-0.2442,female,2
+Panama,0.0116,-0.0155,-0.002,male,3
+Panama,-0.272,-0.3534,-0.3127,female,3
+Panama,0.0014,-0.026,-0.0123,male,4
+Panama,-0.295,-0.3732,-0.3341,female,4
+Panama,0.0132,-0.0138,-0.0003,male,5
+Panama,-0.2953,-0.3714,-0.3333,female,5
+Panama,0.0128,-0.0141,-0.0007,male,6
+Panama,-0.3365,-0.4105,-0.3735,female,6
+Panama,0.0088,-0.0186,-0.0049,male,7
+Panama,-0.3461,-0.4188,-0.3825,female,7
+Panama,0.0096,-0.0177,-0.004,male,8
+Panama,-0.3639,-0.4349,-0.3994,female,8
+Panama,0.01,-0.0173,-0.0036,male,9
+Panama,-0.3647,-0.4341,-0.3994,female,9
+Panama,0.0111,-0.0162,-0.0026,male,10
+Panama,-0.3869,-0.4549,-0.4209,female,10
+Papua New Guinea,0.0217,-0.0125,0.0046,male,-5
+Papua New Guinea,0.0391,-0.0191,0.01,female,-5
+Papua New Guinea,0.0121,-0.0211,-0.0045,male,-4
+Papua New Guinea,0.022,-0.0328,-0.0054,female,-4
+Papua New Guinea,0.0045,-0.0275,-0.0115,male,-3
+Papua New Guinea,0.0234,-0.0299,-0.0032,female,-3
+Papua New Guinea,0,0,0,male,-2
+Papua New Guinea,0,0,0,female,-2
+Papua New Guinea,0.0086,-0.0221,-0.0067,male,-1
+Papua New Guinea,0.0292,-0.0209,0.0041,female,-1
+Papua New Guinea,0.0237,-0.0062,0.0087,male,0
+Papua New Guinea,-0.03,-0.0815,-0.0558,female,0
+Papua New Guinea,0.0162,-0.0139,0.0012,male,1
+Papua New Guinea,-0.0142,-0.0656,-0.0399,female,1
+Papua New Guinea,0.0214,-0.0078,0.0068,male,2
+Papua New Guinea,-0.0154,-0.0655,-0.0404,female,2
+Papua New Guinea,0.0172,-0.0119,0.0027,male,3
+Papua New Guinea,-0.0051,-0.0545,-0.0298,female,3
+Papua New Guinea,0.0223,-0.0068,0.0078,male,4
+Papua New Guinea,-0.0165,-0.0659,-0.0412,female,4
+Papua New Guinea,0.0332,0.0045,0.0189,male,5
+Papua New Guinea,-0.0075,-0.0569,-0.0322,female,5
+Papua New Guinea,0.0254,-0.0041,0.0107,male,6
+Papua New Guinea,-0.0153,-0.0651,-0.0402,female,6
+Papua New Guinea,0.0285,-0.0012,0.0137,male,7
+Papua New Guinea,-0.0217,-0.0721,-0.0469,female,7
+Papua New Guinea,0.0236,-0.0062,0.0087,male,8
+Papua New Guinea,-0.0178,-0.0678,-0.0428,female,8
+Papua New Guinea,0.0305,0.0005,0.0155,male,9
+Papua New Guinea,-0.0114,-0.0613,-0.0363,female,9
+Papua New Guinea,0.0333,0.0037,0.0185,male,10
+Papua New Guinea,-0.0039,-0.0533,-0.0286,female,10
+Paraguay,0.0105,-0.0123,-0.0009,male,-5
+Paraguay,0.1699,-0.0038,0.0831,female,-5
+Paraguay,0.0136,-0.0082,0.0027,male,-4
+Paraguay,0.1349,-0.0152,0.0599,female,-4
+Paraguay,0.011,-0.0105,0.0003,male,-3
+Paraguay,0.0759,-0.0567,0.0096,female,-3
+Paraguay,0,0,0,male,-2
+Paraguay,0,0,0,female,-2
+Paraguay,0.0149,-0.0068,0.004,male,-1
+Paraguay,0.0042,-0.1071,-0.0514,female,-1
+Paraguay,0.0277,0.0074,0.0175,male,0
+Paraguay,-0.2887,-0.3893,-0.339,female,0
+Paraguay,0.0249,0.0039,0.0144,male,1
+Paraguay,-0.2698,-0.3683,-0.3191,female,1
+Paraguay,0.0283,0.0081,0.0182,male,2
+Paraguay,-0.3285,-0.4209,-0.3747,female,2
+Paraguay,0.0299,0.0094,0.0196,male,3
+Paraguay,-0.3371,-0.4258,-0.3815,female,3
+Paraguay,0.0304,0.0098,0.0201,male,4
+Paraguay,-0.3359,-0.421,-0.3785,female,4
+Paraguay,0.0284,0.0074,0.0179,male,5
+Paraguay,-0.3421,-0.4259,-0.384,female,5
+Paraguay,0.0324,0.0115,0.022,male,6
+Paraguay,-0.3911,-0.4721,-0.4316,female,6
+Paraguay,0.0308,0.0095,0.0201,male,7
+Paraguay,-0.4105,-0.4898,-0.4502,female,7
+Paraguay,0.0335,0.012,0.0227,male,8
+Paraguay,-0.407,-0.4851,-0.4461,female,8
+Paraguay,0.0332,0.0114,0.0223,male,9
+Paraguay,-0.3866,-0.4645,-0.4255,female,9
+Paraguay,0.0335,0.0116,0.0226,male,10
+Paraguay,-0.4141,-0.4899,-0.452,female,10
+Peru,0.0012,-0.0262,-0.0125,male,-5
+Peru,0.079,0.0006,0.0398,female,-5
+Peru,0.0118,-0.0137,-0.001,male,-4
+Peru,0.0572,-0.0138,0.0217,female,-4
+Peru,0.0021,-0.0221,-0.01,male,-3
+Peru,0.0531,-0.012,0.0205,female,-3
+Peru,0,0,0,male,-2
+Peru,0,0,0,female,-2
+Peru,0.0104,-0.0122,-0.0009,male,-1
+Peru,-0.0056,-0.0629,-0.0343,female,-1
+Peru,0.0583,0.0371,0.0477,male,0
+Peru,-0.3738,-0.4261,-0.3999,female,0
+Peru,0.0474,0.0264,0.0369,male,1
+Peru,-0.326,-0.3766,-0.3513,female,1
+Peru,0.0484,0.028,0.0382,male,2
+Peru,-0.3161,-0.364,-0.34,female,2
+Peru,0.0424,0.0222,0.0323,male,3
+Peru,-0.3053,-0.3517,-0.3285,female,3
+Peru,0.0362,0.0162,0.0262,male,4
+Peru,-0.3268,-0.372,-0.3494,female,4
+Peru,0.0384,0.0185,0.0284,male,5
+Peru,-0.3574,-0.4013,-0.3794,female,5
+Peru,0.0329,0.0129,0.0229,male,6
+Peru,-0.3601,-0.4033,-0.3817,female,6
+Peru,0.0255,0.0055,0.0155,male,7
+Peru,-0.3776,-0.4193,-0.3985,female,7
+Peru,0.0298,0.0097,0.0197,male,8
+Peru,-0.3869,-0.4278,-0.4074,female,8
+Peru,0.0254,0.0051,0.0152,male,9
+Peru,-0.3676,-0.4083,-0.388,female,9
+Peru,0.0241,0.004,0.014,male,10
+Peru,-0.3924,-0.4318,-0.4121,female,10
+Philippines,0.006,-0.0097,-0.0019,male,-5
+Philippines,0.0379,-0.0391,-0.0006,female,-5
+Philippines,0.0092,-0.0059,0.0016,male,-4
+Philippines,0.0416,-0.0269,0.0074,female,-4
+Philippines,0.0061,-0.0086,-0.0012,male,-3
+Philippines,0.0255,-0.0367,-0.0056,female,-3
+Philippines,0,0,0,male,-2
+Philippines,0,0,0,female,-2
+Philippines,0.0006,-0.0139,-0.0067,male,-1
+Philippines,0.022,-0.0321,-0.005,female,-1
+Philippines,0.0149,0.0007,0.0078,male,0
+Philippines,-0.2331,-0.2826,-0.2578,female,0
+Philippines,0.0169,0.0029,0.0099,male,1
+Philippines,-0.2399,-0.2874,-0.2636,female,1
+Philippines,0.0092,-0.0046,0.0023,male,2
+Philippines,-0.2454,-0.2901,-0.2677,female,2
+Philippines,0.0097,-0.0041,0.0028,male,3
+Philippines,-0.2556,-0.2988,-0.2772,female,3
+Philippines,0.0048,-0.0091,-0.0021,male,4
+Philippines,-0.2477,-0.2897,-0.2687,female,4
+Philippines,0.0027,-0.0114,-0.0044,male,5
+Philippines,-0.2355,-0.2768,-0.2562,female,5
+Philippines,0.0009,-0.0132,-0.0061,male,6
+Philippines,-0.2387,-0.279,-0.2589,female,6
+Philippines,-0.0023,-0.0166,-0.0094,male,7
+Philippines,-0.2384,-0.2778,-0.2581,female,7
+Philippines,-0.0039,-0.0183,-0.0111,male,8
+Philippines,-0.2271,-0.2659,-0.2465,female,8
+Philippines,-0.0055,-0.0198,-0.0126,male,9
+Philippines,-0.2174,-0.2551,-0.2362,female,9
+Philippines,-0.0076,-0.0221,-0.0148,male,10
+Philippines,-0.2191,-0.2563,-0.2377,female,10
+Poland,-0.0062,-0.0123,-0.0062,male,-5
+Poland,0.024,0.0036,0.0138,female,-5
+Poland,-0.0031,-0.0145,-0.0088,male,-4
+Poland,0.0186,-0.0001,0.0092,female,-4
+Poland,0.0063,-0.0037,0.0013,male,-3
+Poland,0.0194,0.0022,0.0108,female,-3
+Poland,0,0,0,male,-2
+Poland,0,0,0,female,-2
+Poland,0.0056,-0.0035,0.001,male,-1
+Poland,-0.0019,-0.0169,-0.0094,female,-1
+Poland,0.0228,0.0092,0.016,male,0
+Poland,-0.2306,-0.2601,-0.2453,female,0
+Poland,0.0206,0.0082,0.0144,male,1
+Poland,-0.3443,-0.3724,-0.3583,female,1
+Poland,0.0161,0.0035,0.0098,male,2
+Poland,-0.3143,-0.3418,-0.328,female,2
+Poland,0.0136,0.0012,0.0074,male,3
+Poland,-0.2901,-0.316,-0.3031,female,3
+Poland,0.0172,0.005,0.0111,male,4
+Poland,-0.2937,-0.3188,-0.3063,female,4
+Poland,0.0155,0.0032,0.0093,male,5
+Poland,-0.285,-0.3096,-0.2973,female,5
+Poland,0.015,0.0024,0.0087,male,6
+Poland,-0.2963,-0.3208,-0.3086,female,6
+Poland,0.0105,-0.0026,0.004,male,7
+Poland,-0.2884,-0.3122,-0.3003,female,7
+Poland,0.0128,-0.0003,0.0062,male,8
+Poland,-0.296,-0.3197,-0.3078,female,8
+Poland,0.0095,-0.0043,0.0026,male,9
+Poland,-0.2917,-0.3151,-0.3034,female,9
+Poland,0.0103,-0.0037,0.0033,male,10
+Poland,-0.2932,-0.3164,-0.3048,female,10
+Portugal,0.0111,-0.008,0.0015,male,-5
+Portugal,0.043,-0.0005,0.0212,female,-5
+Portugal,0.0103,-0.0081,0.0011,male,-4
+Portugal,0.0344,-0.0065,0.0139,female,-4
+Portugal,0.0144,-0.0031,0.0056,male,-3
+Portugal,0.0344,-0.0043,0.0151,female,-3
+Portugal,0,0,0,male,-2
+Portugal,0,0,0,female,-2
+Portugal,0.005,-0.0121,-0.0035,male,-1
+Portugal,0.0226,-0.0134,0.0046,female,-1
+Portugal,0.0192,0.003,0.0111,male,0
+Portugal,-0.0773,-0.1136,-0.0954,female,0
+Portugal,0.021,0.0052,0.0131,male,1
+Portugal,-0.0688,-0.1042,-0.0865,female,1
+Portugal,0.0194,0.0036,0.0115,male,2
+Portugal,-0.0466,-0.0818,-0.0642,female,2
+Portugal,0.0201,0.0045,0.0123,male,3
+Portugal,-0.0777,-0.1124,-0.095,female,3
+Portugal,0.0158,0.0079,0.0079,male,4
+Portugal,-0.1012,-0.1358,-0.1185,female,4
+Portugal,0.0154,-0.0007,0.0073,male,5
+Portugal,-0.1098,-0.1442,-0.127,female,5
+Portugal,0.0159,-0.0005,0.0077,male,6
+Portugal,-0.1358,-0.1702,-0.153,female,6
+Portugal,0.0138,-0.0028,0.0055,male,7
+Portugal,-0.1466,-0.1809,-0.1637,female,7
+Portugal,0.0091,-0.0079,0.0006,male,8
+Portugal,-0.1817,-0.2163,-0.199,female,8
+Portugal,0.0104,-0.0068,0.0018,male,9
+Portugal,-0.1848,-0.2196,-0.2022,female,9
+Portugal,0.0025,-0.0151,-0.0063,male,10
+Portugal,-0.2035,-0.238,-0.2207,female,10
+Puerto Rico,0.1521,0.0085,0.0803,male,-5
+Puerto Rico,0.2418,-0.0617,0.09,female,-5
+Puerto Rico,0.0939,-0.0613,0.0163,male,-4
+Puerto Rico,0.1429,-0.1515,-0.0043,female,-4
+Puerto Rico,0.0239,-0.1333,-0.0547,male,-3
+Puerto Rico,0.1263,-0.1363,-0.005,female,-3
+Puerto Rico,0,0,0,male,-2
+Puerto Rico,0,0,0,female,-2
+Puerto Rico,0.0861,-0.042,0.0221,male,-1
+Puerto Rico,0.1196,-0.0978,0.0109,female,-1
+Puerto Rico,0.1051,-0.0178,0.0437,male,0
+Puerto Rico,-0.2006,-0.4065,-0.3036,female,0
+Puerto Rico,0.0237,-0.1063,-0.0413,male,1
+Puerto Rico,-0.161,-0.3539,-0.2575,female,1
+Puerto Rico,0.0045,-0.1213,-0.0584,male,2
+Puerto Rico,-0.2124,-0.392,-0.3022,female,2
+Puerto Rico,0.0124,-0.1062,-0.0469,male,3
+Puerto Rico,-0.1933,-0.3614,-0.2773,female,3
+Puerto Rico,-0.0157,-0.1445,-0.0801,male,4
+Puerto Rico,-0.2938,-0.4643,-0.379,female,4
+Puerto Rico,-0.0168,-0.1469,-0.0818,male,5
+Puerto Rico,-0.2416,-0.4077,-0.3247,female,5
+Puerto Rico,-0.0013,-0.1276,-0.0645,male,6
+Puerto Rico,-0.3427,-0.5092,-0.4259,female,6
+Puerto Rico,-0.0411,-0.1725,-0.1068,male,7
+Puerto Rico,-0.3462,-0.5057,-0.4259,female,7
+Puerto Rico,-0.0253,-0.1529,-0.0891,male,8
+Puerto Rico,-0.3309,-0.4898,-0.4104,female,8
+Puerto Rico,-0.0383,-0.1651,-0.1017,male,9
+Puerto Rico,-0.4223,-0.578,-0.5001,female,9
+Puerto Rico,-0.0439,-0.1693,-0.1066,male,10
+Puerto Rico,-0.3519,-0.5032,-0.4275,female,10
+Romania,0.0033,-0.0183,-0.0075,male,-5
+Romania,0.0137,-0.0245,-0.0054,female,-5
+Romania,0.014,-0.0062,0.0039,male,-4
+Romania,0.0095,-0.025,-0.0078,female,-4
+Romania,0.0163,-0.0026,0.0069,male,-3
+Romania,0.0147,-0.0168,-0.0011,female,-3
+Romania,0,0,0,male,-2
+Romania,0,0,0,female,-2
+Romania,0.0056,-0.0118,-0.0031,male,-1
+Romania,-0.0057,-0.0333,-0.0195,female,-1
+Romania,0.0158,-0.001,0.0074,male,0
+Romania,-0.1192,-0.1464,-0.1328,female,0
+Romania,0.0048,-0.0116,-0.0034,male,1
+Romania,-0.1525,-0.1784,-0.1654,female,1
+Romania,-0.0033,-0.0193,-0.0113,male,2
+Romania,-0.1497,-0.1743,-0.162,female,2
+Romania,-0.0077,-0.0236,-0.0157,male,3
+Romania,-0.161,-0.1851,-0.173,female,3
+Romania,-0.0097,-0.0256,-0.0177,male,4
+Romania,-0.1575,-0.1809,-0.1692,female,4
+Romania,-0.0167,-0.0324,-0.0245,male,5
+Romania,-0.1643,-0.1872,-0.1758,female,5
+Romania,-0.0155,-0.0312,-0.0233,male,6
+Romania,-0.1702,-0.1927,-0.1814,female,6
+Romania,-0.0187,-0.0345,-0.0266,male,7
+Romania,-0.1811,-0.2033,-0.1922,female,7
+Romania,-0.0237,-0.0396,-0.0316,male,8
+Romania,-0.1786,-0.2005,-0.1896,female,8
+Romania,-0.0217,-0.0375,-0.0296,male,9
+Romania,-0.1787,-0.2003,-0.1895,female,9
+Romania,-0.0269,-0.0428,-0.0349,male,10
+Romania,-0.179,-0.2001,-0.1895,female,10
+Russian Federation,0.0183,0.0044,0.0113,male,-5
+Russian Federation,0.0386,0.0113,0.025,female,-5
+Russian Federation,0.0059,-0.0069,-0.0005,male,-4
+Russian Federation,0.0312,0.0065,0.0188,female,-4
+Russian Federation,0.0103,-0.0016,0.0043,male,-3
+Russian Federation,0.0217,-0.0002,0.0107,female,-3
+Russian Federation,0,0,0,male,-2
+Russian Federation,0,0,0,female,-2
+Russian Federation,0.0066,-0.0042,0.0012,male,-1
+Russian Federation,0.0064,-0.0119,-0.0028,female,-1
+Russian Federation,0.0186,0.0084,0.0135,male,0
+Russian Federation,-0.4856,-0.5037,-0.4946,female,0
+Russian Federation,0.0194,0.0094,0.0144,male,1
+Russian Federation,-0.4357,-0.4533,-0.4445,female,1
+Russian Federation,0.0118,0.0018,0.0068,male,2
+Russian Federation,-0.2771,-0.2943,-0.2857,female,2
+Russian Federation,0.009,-0.0012,0.0039,male,3
+Russian Federation,-0.1498,-0.1664,-0.1581,female,3
+Russian Federation,0.0112,0.001,0.0061,male,4
+Russian Federation,-0.1178,-0.1339,-0.1258,female,4
+Russian Federation,0.0069,-0.0034,0.0017,male,5
+Russian Federation,-0.1168,-0.1327,-0.1248,female,5
+Russian Federation,0.005,-0.0054,-0.0002,male,6
+Russian Federation,-0.1144,-0.1301,-0.1222,female,6
+Russian Federation,0.0052,-0.0052,0,male,7
+Russian Federation,-0.1238,-0.1395,-0.1316,female,7
+Russian Federation,-0.0054,-0.0107,-0.0054,male,8
+Russian Federation,-0.1162,-0.1319,-0.1241,female,8
+Russian Federation,0.0028,-0.008,-0.0026,male,9
+Russian Federation,-0.1036,-0.1191,-0.1113,female,9
+Russian Federation,0.0047,-0.0061,-0.0007,male,10
+Russian Federation,-0.0929,-0.1082,-0.1005,female,10
+Rwanda,0.0081,-0.0107,-0.0013,male,-5
+Rwanda,0.0071,-0.024,-0.0085,female,-5
+Rwanda,0.0079,-0.0103,-0.0012,male,-4
+Rwanda,0.016,-0.0128,0.0016,female,-4
+Rwanda,0.0071,-0.0109,-0.0019,male,-3
+Rwanda,0.0111,-0.0169,-0.0029,female,-3
+Rwanda,0,0,0,male,-2
+Rwanda,0,0,0,female,-2
+Rwanda,0.0052,-0.0126,-0.0037,male,-1
+Rwanda,0.0218,-0.006,0.0079,female,-1
+Rwanda,0.0169,-0.0006,0.0081,male,0
+Rwanda,0.0338,0.006,0.0199,female,0
+Rwanda,0.0105,-0.0082,0.0012,male,1
+Rwanda,0.0496,0.0202,0.0349,female,1
+Rwanda,0.0074,-0.0113,-0.002,male,2
+Rwanda,0.0527,0.0234,0.038,female,2
+Rwanda,0.0059,-0.014,-0.004,male,3
+Rwanda,0.0564,0.0254,0.0409,female,3
+Rwanda,0.0022,-0.0184,-0.0081,male,4
+Rwanda,0.0437,0.0119,0.0278,female,4
+Rwanda,-0.0013,-0.0215,-0.0114,male,5
+Rwanda,0.0502,0.0193,0.0347,female,5
+Rwanda,-0.0055,-0.0257,-0.0156,male,6
+Rwanda,0.0554,0.0249,0.0401,female,6
+Rwanda,0.003,-0.0184,-0.0077,male,7
+Rwanda,0.0715,0.0394,0.0555,female,7
+Rwanda,-0.0062,-0.0297,-0.018,male,8
+Rwanda,0.0577,0.024,0.0408,female,8
+Rwanda,-0.0112,-0.0356,-0.0234,male,9
+Rwanda,0.0685,0.0339,0.0512,female,9
+Rwanda,-0.0008,-0.025,-0.0129,male,10
+Rwanda,0.0827,0.0483,0.0655,female,10
+Senegal,0.0033,-0.0399,-0.0183,male,-5
+Senegal,0.0284,-0.193,-0.0823,female,-5
+Senegal,0.0102,-0.0312,-0.0105,male,-4
+Senegal,0.0802,-0.1297,-0.0247,female,-4
+Senegal,0.0193,-0.0203,-0.0005,male,-3
+Senegal,0.0708,-0.1307,-0.0299,female,-3
+Senegal,0,0,0,male,-2
+Senegal,0,0,0,female,-2
+Senegal,0.0158,-0.0236,-0.0039,male,-1
+Senegal,0.0758,-0.1163,-0.0202,female,-1
+Senegal,0.0481,0.0135,0.0308,male,0
+Senegal,-0.0755,-0.259,-0.1673,female,0
+Senegal,0.0491,0.0155,0.0323,male,1
+Senegal,-0.0599,-0.2388,-0.1494,female,1
+Senegal,0.0386,0.0052,0.0219,male,2
+Senegal,-0.0588,-0.2281,-0.1434,female,2
+Senegal,0.049,0.0169,0.0329,male,3
+Senegal,-0.0767,-0.2411,-0.1589,female,3
+Senegal,0.0539,0.0229,0.0384,male,4
+Senegal,-0.0816,-0.2439,-0.1627,female,4
+Senegal,0.0405,0.0086,0.0246,male,5
+Senegal,-0.0929,-0.2474,-0.1701,female,5
+Senegal,0.0416,0.01,0.0258,male,6
+Senegal,-0.1082,-0.2613,-0.1847,female,6
+Senegal,0.0446,0.0137,0.0291,male,7
+Senegal,-0.1159,-0.2609,-0.1884,female,7
+Senegal,0.0414,0.0095,0.0255,male,8
+Senegal,-0.0983,-0.2435,-0.1709,female,8
+Senegal,0.0429,0.0112,0.027,male,9
+Senegal,-0.0945,-0.2412,-0.1678,female,9
+Senegal,0.0542,0.0231,0.0387,male,10
+Senegal,-0.1385,-0.2738,-0.2061,female,10
+Serbia,0.0996,-0.0738,0.0129,male,-5
+Serbia,0.3574,-0.1116,0.1229,female,-5
+Serbia,0.1238,-0.0453,0.0392,male,-4
+Serbia,0.1493,-0.2564,-0.0536,female,-4
+Serbia,0.1222,-0.0384,0.0419,male,-3
+Serbia,0.1099,-0.2276,-0.0588,female,-3
+Serbia,0,0,0,male,-2
+Serbia,0,0,0,female,-2
+Serbia,0.0585,-0.0879,-0.0147,male,-1
+Serbia,0.0977,-0.148,-0.0252,female,-1
+Serbia,0.1306,-0.0381,0.0463,male,0
+Serbia,0.0891,-0.1732,-0.0421,female,0
+Serbia,0.1774,0.025,0.1012,male,1
+Serbia,0.0321,-0.2111,-0.0895,female,1
+Serbia,0.1757,0.0307,0.1032,male,2
+Serbia,-0.0138,-0.2393,-0.1265,female,2
+Serbia,0.109,-0.0484,0.0303,male,3
+Serbia,0.0363,-0.1862,-0.075,female,3
+Serbia,0.12,-0.0339,0.0431,male,4
+Serbia,0.0049,-0.216,-0.1055,female,4
+Serbia,0.1712,0.0158,0.0935,male,5
+Serbia,0.004,-0.2187,-0.1073,female,5
+Serbia,0.1719,0.023,0.0975,male,6
+Serbia,-0.0225,-0.2308,-0.1267,female,6
+Serbia,0.1318,-0.0265,0.0527,male,7
+Serbia,-0.0373,-0.2486,-0.1429,female,7
+Serbia,0.1467,-0.0011,0.0728,male,8
+Serbia,-0.025,-0.2211,-0.1231,female,8
+Serbia,0.1286,-0.0244,0.0521,male,9
+Serbia,-0.0493,-0.2481,-0.1487,female,9
+Serbia,0.1643,0.0196,0.092,male,10
+Serbia,-0.0186,-0.213,-0.1158,female,10
+Sierra Leone,0.0063,-0.0498,-0.0217,male,-5
+Sierra Leone,0.0342,-0.0978,-0.0318,female,-5
+Sierra Leone,0.0091,-0.0477,-0.0193,male,-4
+Sierra Leone,0.0467,-0.0811,-0.0172,female,-4
+Sierra Leone,0.0187,-0.0353,-0.0083,male,-3
+Sierra Leone,0.0911,-0.0337,0.0287,female,-3
+Sierra Leone,0,0,0,male,-2
+Sierra Leone,0,0,0,female,-2
+Sierra Leone,0.0239,-0.028,-0.002,male,-1
+Sierra Leone,0.1118,-0.0112,0.0503,female,-1
+Sierra Leone,0.0426,-0.0052,0.0187,male,0
+Sierra Leone,-0.0132,-0.1333,-0.0733,female,0
+Sierra Leone,0.0194,-0.036,-0.0083,male,1
+Sierra Leone,0.0658,-0.07,-0.0021,female,1
+Sierra Leone,0.0365,-0.0106,0.013,male,2
+Sierra Leone,0.0479,-0.0721,-0.0121,female,2
+Sierra Leone,0.0246,-0.0213,0.0016,male,3
+Sierra Leone,0.0809,-0.0329,0.024,female,3
+Sierra Leone,0.0298,-0.0156,0.0071,male,4
+Sierra Leone,0.0815,-0.0325,0.0245,female,4
+Sierra Leone,0.0333,-0.0114,0.011,male,5
+Sierra Leone,0.0569,-0.0547,0.0011,female,5
+Sierra Leone,0.0353,-0.0108,0.0123,male,6
+Sierra Leone,0.0954,-0.023,0.0362,female,6
+Sierra Leone,0.0257,-0.0209,0.0024,male,7
+Sierra Leone,0.0491,-0.0696,-0.0103,female,7
+Sierra Leone,0.025,-0.0211,0.002,male,8
+Sierra Leone,0.0776,-0.0395,0.019,female,8
+Sierra Leone,0.0386,-0.0073,0.0157,male,9
+Sierra Leone,0.0974,-0.0216,0.0379,female,9
+Sierra Leone,0.024,-0.0208,0.0016,male,10
+Sierra Leone,0.0783,-0.0334,0.0225,female,10
+Slovak Republic,0.0401,-0.0314,0.0044,male,-5
+Slovak Republic,0.0308,-0.1132,-0.0412,female,-5
+Slovak Republic,0.0325,-0.0281,0.0022,male,-4
+Slovak Republic,0.0735,-0.0325,0.0205,female,-4
+Slovak Republic,0.026,-0.0316,-0.0028,male,-3
+Slovak Republic,0.0662,-0.0348,0.0157,female,-3
+Slovak Republic,0,0,0,male,-2
+Slovak Republic,0,0,0,female,-2
+Slovak Republic,0.0221,-0.023,-0.0004,male,-1
+Slovak Republic,0.052,-0.0453,0.0034,female,-1
+Slovak Republic,0.0251,-0.0447,-0.0098,male,0
+Slovak Republic,-0.4228,-0.58,-0.5014,female,0
+Slovak Republic,0.0158,-0.0406,-0.0124,male,1
+Slovak Republic,-0.7341,-0.8409,-0.7875,female,1
+Slovak Republic,0.0036,-0.0506,-0.0235,male,2
+Slovak Republic,-0.6675,-0.7776,-0.7226,female,2
+Slovak Republic,0.0108,-0.0409,-0.0151,male,3
+Slovak Republic,-0.5356,-0.6516,-0.5936,female,3
+Slovak Republic,0.0019,-0.0503,-0.0242,male,4
+Slovak Republic,-0.3904,-0.5034,-0.4469,female,4
+Slovak Republic,-0.0135,-0.0692,-0.0414,male,5
+Slovak Republic,-0.4012,-0.5142,-0.4577,female,5
+Slovak Republic,-0.0209,-0.0777,-0.0493,male,6
+Slovak Republic,-0.3334,-0.444,-0.3887,female,6
+Slovak Republic,-0.0125,-0.0679,-0.0402,male,7
+Slovak Republic,-0.2522,-0.3597,-0.3059,female,7
+Slovak Republic,-0.0002,-0.053,-0.0266,male,8
+Slovak Republic,-0.2335,-0.3411,-0.2873,female,8
+Slovak Republic,-0.0091,-0.0648,-0.037,male,9
+Slovak Republic,-0.2263,-0.3346,-0.2804,female,9
+Slovak Republic,-0.0075,-0.062,-0.0348,male,10
+Slovak Republic,-0.1619,-0.2661,-0.214,female,10
+Slovenia,0.1044,-0.0674,0.0185,male,-5
+Slovenia,0.2016,-0.1013,0.0501,female,-5
+Slovenia,0.0307,-0.1595,-0.0644,male,-4
+Slovenia,0.1957,-0.0917,0.052,female,-4
+Slovenia,0.165,0.0142,0.0896,male,-3
+Slovenia,0.2123,-0.0522,0.08,female,-3
+Slovenia,0,0,0,male,-2
+Slovenia,0,0,0,female,-2
+Slovenia,0.0488,-0.1108,-0.031,male,-1
+Slovenia,0.1664,-0.0695,0.0484,female,-1
+Slovenia,0.1295,-0.0178,0.0559,male,0
+Slovenia,0.184,-0.0726,0.0557,female,0
+Slovenia,0.1494,0.0061,0.0778,male,1
+Slovenia,0.1846,-0.0526,0.066,female,1
+Slovenia,0.1614,0.0279,0.0946,male,2
+Slovenia,0.1229,-0.1095,0.0067,female,2
+Slovenia,0.1506,0.0165,0.0836,male,3
+Slovenia,0.1208,-0.0894,0.0157,female,3
+Slovenia,0.1362,-0.0011,0.0675,male,4
+Slovenia,0.1145,-0.1022,0.0062,female,4
+Slovenia,0.1577,0.022,0.0899,male,5
+Slovenia,0.1693,-0.0321,0.0686,female,5
+Slovenia,0.1414,0.0042,0.0728,male,6
+Slovenia,0.1726,-0.0253,0.0737,female,6
+Slovenia,0.1335,-0.0052,0.0641,male,7
+Slovenia,0.1598,-0.0374,0.0612,female,7
+Slovenia,0.1464,0.0069,0.0766,male,8
+Slovenia,0.1774,-0.015,0.0812,female,8
+Slovenia,0.1713,0.0379,0.1046,male,9
+Slovenia,0.1638,-0.031,0.0664,female,9
+Slovenia,0.1238,-0.0183,0.0527,male,10
+Slovenia,0.1369,-0.0636,0.0366,female,10
+South Africa,0.0114,-0.0102,0.0006,male,-5
+South Africa,0.0591,0.0127,0.0359,female,-5
+South Africa,0.0111,-0.0096,0.0008,male,-4
+South Africa,0.0397,-0.0025,0.0186,female,-4
+South Africa,0.0071,-0.0129,-0.0029,male,-3
+South Africa,0.0283,-0.0105,0.0089,female,-3
+South Africa,0,0,0,male,-2
+South Africa,0,0,0,female,-2
+South Africa,0.0002,-0.0192,-0.0095,male,-1
+South Africa,0.0063,-0.0278,-0.0107,female,-1
+South Africa,0.0297,0.0109,0.0203,male,0
+South Africa,-0.2684,-0.3,-0.2842,female,0
+South Africa,0.025,0.0064,0.0157,male,1
+South Africa,-0.2579,-0.2889,-0.2734,female,1
+South Africa,0.0214,0.0029,0.0121,male,2
+South Africa,-0.261,-0.2912,-0.2761,female,2
+South Africa,0.013,-0.0055,0.0038,male,3
+South Africa,-0.2599,-0.2894,-0.2747,female,3
+South Africa,0.0077,-0.0108,-0.0015,male,4
+South Africa,-0.2624,-0.2913,-0.2768,female,4
+South Africa,0.007,-0.0115,-0.0022,male,5
+South Africa,-0.2553,-0.2837,-0.2695,female,5
+South Africa,-0.0002,-0.019,-0.0096,male,6
+South Africa,-0.2524,-0.2806,-0.2665,female,6
+South Africa,-0.0058,-0.025,-0.0154,male,7
+South Africa,-0.2383,-0.2665,-0.2524,female,7
+South Africa,-0.0121,-0.0316,-0.0218,male,8
+South Africa,-0.2465,-0.2745,-0.2605,female,8
+South Africa,-0.0054,-0.0249,-0.0151,male,9
+South Africa,-0.2581,-0.2857,-0.2719,female,9
+South Africa,-0.0177,-0.0372,-0.0274,male,10
+South Africa,-0.2631,-0.2901,-0.2766,female,10
+South Sudan,0.0444,-0.126,-0.0408,male,-5
+South Sudan,0.0329,-0.1717,-0.0694,female,-5
+South Sudan,0.0601,-0.1091,-0.0245,male,-4
+South Sudan,0.0555,-0.1411,-0.0428,female,-4
+South Sudan,0.1225,-0.044,0.0392,male,-3
+South Sudan,0.1234,-0.0723,0.0255,female,-3
+South Sudan,0,0,0,male,-2
+South Sudan,0,0,0,female,-2
+South Sudan,0.0717,-0.0927,-0.0105,male,-1
+South Sudan,0.0779,-0.1167,-0.0194,female,-1
+South Sudan,0.1294,-0.0317,0.0488,male,0
+South Sudan,0.1007,-0.0893,0.0057,female,0
+South Sudan,0.1886,0.0181,0.1034,male,1
+South Sudan,0.1151,-0.0953,0.0099,female,1
+South Sudan,0.1604,0.0079,0.0841,male,2
+South Sudan,0.0846,-0.1083,-0.0119,female,2
+South Sudan,0.092,-0.0562,0.0179,male,3
+South Sudan,0.0275,-0.1524,-0.0624,female,3
+South Sudan,0.0864,-0.0609,0.0127,male,4
+South Sudan,0.0687,-0.1091,-0.0202,female,4
+South Sudan,0.0843,-0.063,0.0107,male,5
+South Sudan,0.0735,-0.1058,-0.0161,female,5
+South Sudan,0.1035,-0.0428,0.0303,male,6
+South Sudan,0.1153,-0.0662,0.0246,female,6
+South Sudan,0.1128,-0.0386,0.0371,male,7
+South Sudan,0.0511,-0.134,-0.0415,female,7
+South Sudan,0.1214,-0.0261,0.0477,male,8
+South Sudan,0.0932,-0.0887,0.0023,female,8
+South Sudan,0.1437,-0.0099,0.0669,male,9
+South Sudan,0.1692,-0.0211,0.074,female,9
+South Sudan,0.1226,-0.0263,0.0482,male,10
+South Sudan,0.1506,-0.0322,0.0592,female,10
+Spain,0.0023,-0.0179,-0.0078,male,-5
+Spain,0.0447,-0.0003,0.0222,female,-5
+Spain,0.0083,-0.0111,-0.0014,male,-4
+Spain,0.0352,-0.0071,0.0141,female,-4
+Spain,0.0145,-0.0043,0.0051,male,-3
+Spain,0.0272,-0.0129,0.0071,female,-3
+Spain,0,0,0,male,-2
+Spain,0,0,0,female,-2
+Spain,0.0109,-0.0074,0.0017,male,-1
+Spain,-0.0088,-0.046,-0.0274,female,-1
+Spain,0.0241,0.0062,0.0152,male,0
+Spain,-0.2739,-0.3095,-0.2917,female,0
+Spain,0.02,0.0021,0.0111,male,1
+Spain,-0.2833,-0.3182,-0.3007,female,1
+Spain,0.0184,0.0004,0.0094,male,2
+Spain,-0.2856,-0.3205,-0.3031,female,2
+Spain,0.0201,0.002,0.0111,male,3
+Spain,-0.3088,-0.3432,-0.326,female,3
+Spain,0.0257,0.0078,0.0168,male,4
+Spain,-0.3262,-0.3601,-0.3432,female,4
+Spain,0.025,0.0071,0.0161,male,5
+Spain,-0.3559,-0.3895,-0.3727,female,5
+Spain,0.0194,0.0013,0.0104,male,6
+Spain,-0.3727,-0.4058,-0.3892,female,6
+Spain,0.0197,0.0016,0.0107,male,7
+Spain,-0.3823,-0.4149,-0.3986,female,7
+Spain,0.02,0.002,0.011,male,8
+Spain,-0.4037,-0.4359,-0.4198,female,8
+Spain,0.0179,-0.0002,0.0088,male,9
+Spain,-0.4214,-0.4533,-0.4373,female,9
+Spain,0.0193,0.0012,0.0103,male,10
+Spain,-0.4371,-0.4688,-0.453,female,10
+Sudan,0.0116,-0.032,-0.0102,male,-5
+Sudan,0.1367,-0.0953,0.0207,female,-5
+Sudan,0.0179,-0.0231,-0.0026,male,-4
+Sudan,0.0455,-0.1794,-0.067,female,-4
+Sudan,0.0051,-0.035,-0.0149,male,-3
+Sudan,0.1398,-0.0649,0.0375,female,-3
+Sudan,0,0,0,male,-2
+Sudan,0,0,0,female,-2
+Sudan,0.0023,-0.0358,-0.0168,male,-1
+Sudan,0.1975,-0.0021,0.0977,female,-1
+Sudan,0.0237,-0.0131,0.0053,male,0
+Sudan,0.0479,-0.1266,-0.0393,female,0
+Sudan,0.0231,-0.0152,0.0039,male,1
+Sudan,0.0281,-0.1506,-0.0612,female,1
+Sudan,0.0034,-0.0313,-0.0139,male,2
+Sudan,0.0055,-0.1499,-0.0722,female,2
+Sudan,-0.0018,-0.0361,-0.019,male,3
+Sudan,-0.0208,-0.1671,-0.0939,female,3
+Sudan,0.0026,-0.0314,-0.0144,male,4
+Sudan,-0.032,-0.1744,-0.1032,female,4
+Sudan,-0.0064,-0.0397,-0.023,male,5
+Sudan,-0.0422,-0.1752,-0.1087,female,5
+Sudan,-0.0131,-0.0478,-0.0305,male,6
+Sudan,-0.0446,-0.1813,-0.113,female,6
+Sudan,-0.0184,-0.0522,-0.0353,male,7
+Sudan,-0.0747,-0.2014,-0.138,female,7
+Sudan,-0.0283,-0.0624,-0.0454,male,8
+Sudan,-0.0909,-0.2145,-0.1527,female,8
+Sudan,-0.0146,-0.0504,-0.0325,male,9
+Sudan,-0.1014,-0.2275,-0.1645,female,9
+Sudan,-0.0354,-0.0688,-0.0521,male,10
+Sudan,-0.1355,-0.2464,-0.1909,female,10
+Suriname,0.1448,-0.1431,0.0009,male,-5
+Suriname,-0.0428,-0.8002,-0.4215,female,-5
+Suriname,0.0651,-0.2038,-0.0694,male,-4
+Suriname,0.4641,-0.2858,0.0892,female,-4
+Suriname,-0.0003,-0.2776,-0.1389,male,-3
+Suriname,0.3538,-0.2929,0.0304,female,-3
+Suriname,0,0,0,male,-2
+Suriname,0,0,0,female,-2
+Suriname,0.0671,-0.1842,-0.0585,male,-1
+Suriname,0.1699,-0.3808,-0.1054,female,-1
+Suriname,0.1211,-0.0971,0.012,male,0
+Suriname,-0.0065,-0.5181,-0.2623,female,0
+Suriname,0.1425,-0.0671,0.0377,male,1
+Suriname,-0.0364,-0.4708,-0.2536,female,1
+Suriname,0.1403,-0.0717,0.0343,male,2
+Suriname,-0.0185,-0.4391,-0.2288,female,2
+Suriname,0.1394,-0.0601,0.0397,male,3
+Suriname,-0.0069,-0.3936,-0.2003,female,3
+Suriname,0.1501,-0.0511,0.0495,male,4
+Suriname,-0.117,-0.4906,-0.3038,female,4
+Suriname,0.1937,0.0055,0.0996,male,5
+Suriname,-0.1026,-0.4803,-0.2914,female,5
+Suriname,0.1612,-0.046,0.0576,male,6
+Suriname,-0.1627,-0.5425,-0.3526,female,6
+Suriname,0.1298,-0.0731,0.0283,male,7
+Suriname,-0.2282,-0.5726,-0.4004,female,7
+Suriname,0.1373,-0.072,0.0327,male,8
+Suriname,-0.2008,-0.5498,-0.3753,female,8
+Suriname,0.1172,-0.0928,0.0122,male,9
+Suriname,-0.1406,-0.4789,-0.3098,female,9
+Suriname,0.1644,-0.0403,0.062,male,10
+Suriname,-0.1647,-0.5055,-0.3351,female,10
+Sweden,0.0111,0.0111,0.0111,male,-5
+Sweden,0.0319,0.0319,0.0319,female,-5
+Sweden,0.0063,0.0063,0.0063,male,-4
+Sweden,0.0218,0.0218,0.0218,female,-4
+Sweden,0.0035,0.0035,0.0035,male,-3
+Sweden,0.011,0.011,0.011,female,-3
+Sweden,0,0,0,male,-2
+Sweden,0,0,0,female,-2
+Sweden,-0.004,-0.004,-0.004,male,-1
+Sweden,-0.0235,-0.0235,-0.0235,female,-1
+Sweden,-0.007,-0.007,-0.007,male,0
+Sweden,-0.101,-0.101,-0.101,female,0
+Sweden,-0.0092,-0.0092,-0.0092,male,1
+Sweden,-0.1602,-0.1602,-0.1602,female,1
+Sweden,-0.0101,-0.0101,-0.0101,male,2
+Sweden,-0.1166,-0.1166,-0.1166,female,2
+Sweden,-0.0118,-0.0118,-0.0118,male,3
+Sweden,-0.1205,-0.1205,-0.1205,female,3
+Sweden,-0.0131,-0.0131,-0.0131,male,4
+Sweden,-0.1136,-0.1136,-0.1136,female,4
+Sweden,-0.014,-0.014,-0.014,male,5
+Sweden,-0.1082,-0.1082,-0.1082,female,5
+Sweden,-0.0154,-0.0154,-0.0154,male,6
+Sweden,-0.1062,-0.1062,-0.1062,female,6
+Sweden,-0.0157,-0.0157,-0.0157,male,7
+Sweden,-0.1054,-0.1054,-0.1054,female,7
+Sweden,-0.0154,-0.0154,-0.0154,male,8
+Sweden,-0.104,-0.104,-0.104,female,8
+Sweden,-0.0154,-0.0154,-0.0154,male,9
+Sweden,-0.1037,-0.1037,-0.1037,female,9
+Sweden,-0.014,-0.014,-0.014,male,10
+Sweden,-0.1032,-0.1032,-0.1032,female,10
+Switzerland,-0.0071,-0.0098,-0.0084,male,-5
+Switzerland,0.0284,0.009,0.0187,female,-5
+Switzerland,-0.0042,-0.0064,-0.0053,male,-4
+Switzerland,0.0216,0.0089,0.0153,female,-4
+Switzerland,-0.0014,-0.0034,-0.0024,male,-3
+Switzerland,0.0131,0.0048,0.009,female,-3
+Switzerland,0,0,0,male,-2
+Switzerland,0,0,0,female,-2
+Switzerland,0.0034,0.0023,0.0028,male,-1
+Switzerland,-0.0181,-0.0234,-0.0207,female,-1
+Switzerland,0.0053,0.0042,0.0048,male,0
+Switzerland,-0.0942,-0.132,-0.1131,female,0
+Switzerland,0.005,0.003,0.004,male,1
+Switzerland,-0.2637,-0.3665,-0.3151,female,1
+Switzerland,0.0044,0.0022,0.0033,male,2
+Switzerland,-0.2997,-0.3978,-0.3487,female,2
+Switzerland,0.0041,0.0018,0.0029,male,3
+Switzerland,-0.319,-0.4135,-0.3663,female,3
+Switzerland,0.0039,0.0015,0.0027,male,4
+Switzerland,-0.3284,-0.4178,-0.3731,female,4
+Switzerland,0.0037,0.0012,0.0024,male,5
+Switzerland,-0.3304,-0.4142,-0.3723,female,5
+Switzerland,0.0041,0.0012,0.0027,male,6
+Switzerland,-0.3294,-0.4081,-0.3687,female,6
+Switzerland,0.0042,0.0011,0.0027,male,7
+Switzerland,-0.3251,-0.3987,-0.3619,female,7
+Switzerland,0.0047,0.0013,0.003,male,8
+Switzerland,-0.3181,-0.3875,-0.3528,female,8
+Switzerland,0.0053,0.0012,0.0032,male,9
+Switzerland,-0.3091,-0.3752,-0.3422,female,9
+Switzerland,0.0061,0.0024,0.0042,male,10
+Switzerland,-0.2993,-0.3628,-0.3311,female,10
+Taiwan,0.0175,-0.0045,0.0065,male,-5
+Taiwan,0.0526,-0.0005,0.026,female,-5
+Taiwan,0.011,-0.0098,0.0006,male,-4
+Taiwan,0.0492,-0.002,0.0236,female,-4
+Taiwan,0.014,-0.0059,0.004,male,-3
+Taiwan,0.0363,-0.0123,0.012,female,-3
+Taiwan,0,0,0,male,-2
+Taiwan,0,0,0,female,-2
+Taiwan,0.0102,-0.0094,0.0004,male,-1
+Taiwan,0.03,-0.0159,0.0071,female,-1
+Taiwan,0.0061,-0.0252,-0.0096,male,0
+Taiwan,-0.2884,-0.3552,-0.3218,female,0
+Taiwan,-0.0029,-0.034,-0.0185,male,1
+Taiwan,-0.3501,-0.4136,-0.3819,female,1
+Taiwan,0.003,-0.0289,-0.0129,male,2
+Taiwan,-0.3717,-0.4342,-0.403,female,2
+Taiwan,-0.0317,-0.0633,-0.0475,male,3
+Taiwan,-0.3891,-0.4481,-0.4186,female,3
+Taiwan,-0.0253,-0.0565,-0.0409,male,4
+Taiwan,-0.3583,-0.4172,-0.3878,female,4
+Taiwan,-0.0273,-0.0588,-0.043,male,5
+Taiwan,-0.3631,-0.4219,-0.3925,female,5
+Taiwan,-0.0438,-0.0752,-0.0595,male,6
+Taiwan,-0.3835,-0.4406,-0.412,female,6
+Taiwan,-0.0287,-0.0603,-0.0445,male,7
+Taiwan,-0.3594,-0.418,-0.3887,female,7
+Taiwan,-0.0438,-0.0757,-0.0597,male,8
+Taiwan,-0.3402,-0.3984,-0.3693,female,8
+Taiwan,-0.0543,-0.0863,-0.0703,male,9
+Taiwan,-0.333,-0.391,-0.362,female,9
+Taiwan,-0.0614,-0.0945,-0.0779,male,10
+Taiwan,-0.337,-0.3961,-0.3665,female,10
+Tanzania,0.0024,-0.0074,-0.0025,male,-5
+Tanzania,0.0064,-0.0184,-0.006,female,-5
+Tanzania,0.0069,-0.0022,0.0024,male,-4
+Tanzania,0.0113,-0.0116,-0.0001,female,-4
+Tanzania,0.0031,-0.0058,-0.0013,male,-3
+Tanzania,0.0088,-0.0137,-0.0025,female,-3
+Tanzania,0,0,0,male,-2
+Tanzania,0,0,0,female,-2
+Tanzania,0.0007,-0.0077,-0.0035,male,-1
+Tanzania,0.0044,-0.0175,-0.0066,female,-1
+Tanzania,0.0034,-0.0045,-0.0005,male,0
+Tanzania,-0.0124,-0.0338,-0.0231,female,0
+Tanzania,0.0025,-0.0056,-0.0015,male,1
+Tanzania,0.0063,-0.0167,-0.0052,female,1
+Tanzania,-0.006,-0.0141,-0.01,male,2
+Tanzania,0.0066,-0.0155,-0.0044,female,2
+Tanzania,-0.0085,-0.0168,-0.0126,male,3
+Tanzania,-0.0065,-0.029,-0.0178,female,3
+Tanzania,-0.0129,-0.0212,-0.0171,male,4
+Tanzania,-0.0076,-0.0295,-0.0185,female,4
+Tanzania,-0.0141,-0.0224,-0.0183,male,5
+Tanzania,-0.0047,-0.0267,-0.0157,female,5
+Tanzania,-0.0188,-0.0273,-0.023,male,6
+Tanzania,-0.013,-0.035,-0.024,female,6
+Tanzania,-0.0253,-0.0338,-0.0296,male,7
+Tanzania,-0.0133,-0.035,-0.0242,female,7
+Tanzania,-0.0247,-0.0331,-0.0289,male,8
+Tanzania,-0.0217,-0.0436,-0.0326,female,8
+Tanzania,-0.0306,-0.0394,-0.035,male,9
+Tanzania,-0.0231,-0.0453,-0.0342,female,9
+Tanzania,-0.0329,-0.0413,-0.0371,male,10
+Tanzania,-0.0207,-0.0417,-0.0312,female,10
+Thailand,0.0012,-0.0243,-0.0115,male,-5
+Thailand,0.0486,-0.0128,0.0179,female,-5
+Thailand,0.0112,-0.0112,0,male,-4
+Thailand,0.0346,-0.0256,0.0045,female,-4
+Thailand,0.0124,-0.0086,0.0019,male,-3
+Thailand,0.0253,-0.034,-0.0043,female,-3
+Thailand,0,0,0,male,-2
+Thailand,0,0,0,female,-2
+Thailand,0.0092,-0.0106,-0.0007,male,-1
+Thailand,0.0392,-0.0188,0.0102,female,-1
+Thailand,0.0215,0.0047,0.0131,male,0
+Thailand,-0.1548,-0.2185,-0.1867,female,0
+Thailand,0.0178,0.0006,0.0092,male,1
+Thailand,-0.0823,-0.1442,-0.1132,female,1
+Thailand,0.0219,0.006,0.014,male,2
+Thailand,-0.0471,-0.105,-0.076,female,2
+Thailand,0.0215,0.0059,0.0137,male,3
+Thailand,-0.0224,-0.077,-0.0497,female,3
+Thailand,0.0207,0.005,0.0129,male,4
+Thailand,-0.0023,-0.0559,-0.0291,female,4
+Thailand,0.0157,-0.0009,0.0074,male,5
+Thailand,0.0225,-0.0305,-0.004,female,5
+Thailand,0.0219,0.0062,0.0141,male,6
+Thailand,0.0298,-0.0222,0.0038,female,6
+Thailand,0.0213,0.0056,0.0134,male,7
+Thailand,0.0289,-0.0226,0.0031,female,7
+Thailand,0.0205,0.0047,0.0126,male,8
+Thailand,0.06,0.0097,0.0348,female,8
+Thailand,0.0256,0.0101,0.0178,male,9
+Thailand,0.0731,0.0229,0.048,female,9
+Thailand,0.027,0.0116,0.0193,male,10
+Thailand,0.0692,0.0187,0.0439,female,10
+Timor-Leste,0.0152,-0.1725,-0.0787,male,-5
+Timor-Leste,0.1759,-0.1128,0.0315,female,-5
+Timor-Leste,0.0445,-0.1198,-0.0377,male,-4
+Timor-Leste,0.0257,-0.2109,-0.0926,female,-4
+Timor-Leste,0.0256,-0.1623,-0.0684,male,-3
+Timor-Leste,0.0376,-0.2032,-0.0828,female,-3
+Timor-Leste,0,0,0,male,-2
+Timor-Leste,0,0,0,female,-2
+Timor-Leste,0.0477,-0.119,-0.0357,male,-1
+Timor-Leste,0.1609,-0.0676,0.0466,female,-1
+Timor-Leste,0.1106,-0.0263,0.0422,male,0
+Timor-Leste,-0.3133,-0.5481,-0.4307,female,0
+Timor-Leste,0.125,0.0007,0.0629,male,1
+Timor-Leste,-0.1889,-0.4291,-0.309,female,1
+Timor-Leste,0.1337,-0.0061,0.0638,male,2
+Timor-Leste,-0.1342,-0.3824,-0.2583,female,2
+Timor-Leste,0.123,-0.0223,0.0503,male,3
+Timor-Leste,-0.1392,-0.3815,-0.2604,female,3
+Timor-Leste,0.1297,-0.0086,0.0605,male,4
+Timor-Leste,-0.1687,-0.4251,-0.2969,female,4
+Timor-Leste,0.1099,-0.0578,0.0261,male,5
+Timor-Leste,-0.1702,-0.4151,-0.2927,female,5
+Timor-Leste,0.0972,-0.0658,0.0157,male,6
+Timor-Leste,-0.1343,-0.3709,-0.2526,female,6
+Timor-Leste,0.0992,-0.0965,0.0013,male,7
+Timor-Leste,-0.1658,-0.4069,-0.2863,female,7
+Timor-Leste,0.1192,-0.0263,0.0464,male,8
+Timor-Leste,-0.1101,-0.3475,-0.2288,female,8
+Timor-Leste,0.1501,0.0196,0.0848,male,9
+Timor-Leste,-0.0239,-0.2544,-0.1392,female,9
+Timor-Leste,0.1035,-0.0409,0.0313,male,10
+Timor-Leste,-0.1069,-0.3232,-0.215,female,10
+Togo,0.0152,-0.0264,-0.0056,male,-5
+Togo,0.0273,-0.0587,-0.0157,female,-5
+Togo,0.0165,-0.0249,-0.0042,male,-4
+Togo,0.0469,-0.0357,0.0056,female,-4
+Togo,0.0262,-0.013,0.0066,male,-3
+Togo,0.0318,-0.0481,-0.0081,female,-3
+Togo,0,0,0,male,-2
+Togo,0,0,0,female,-2
+Togo,0.0288,-0.0098,0.0095,male,-1
+Togo,0.0756,0.0015,0.0385,female,-1
+Togo,0.0675,0.0336,0.0505,male,0
+Togo,-0.007,-0.0804,-0.0437,female,0
+Togo,0.0664,0.0319,0.0491,male,1
+Togo,0.0537,-0.0222,0.0158,female,1
+Togo,0.0679,0.0347,0.0513,male,2
+Togo,0.0488,-0.023,0.0129,female,2
+Togo,0.0686,0.0356,0.0521,male,3
+Togo,0.0317,-0.0397,-0.004,female,3
+Togo,0.071,0.0373,0.0541,male,4
+Togo,0.0489,-0.0257,0.0116,female,4
+Togo,0.0793,0.0477,0.0635,male,5
+Togo,0.0638,-0.0061,0.0288,female,5
+Togo,0.0707,0.0382,0.0545,male,6
+Togo,0.0676,-0.0021,0.0328,female,6
+Togo,0.0681,0.0356,0.0519,male,7
+Togo,0.0684,0.0008,0.0346,female,7
+Togo,0.0716,0.0388,0.0552,male,8
+Togo,0.0799,0.0121,0.046,female,8
+Togo,0.0721,0.0386,0.0553,male,9
+Togo,0.0836,0.0143,0.0489,female,9
+Togo,0.0781,0.0458,0.062,male,10
+Togo,0.0675,0.0007,0.0341,female,10
+Trinidad and Tobago,0.0214,-0.0516,-0.0151,male,-5
+Trinidad and Tobago,0.2053,-0.0515,0.0769,female,-5
+Trinidad and Tobago,0.0401,-0.0283,0.0059,male,-4
+Trinidad and Tobago,0.1406,-0.0885,0.026,female,-4
+Trinidad and Tobago,0.0196,-0.0487,-0.0145,male,-3
+Trinidad and Tobago,0.1249,-0.0811,0.0219,female,-3
+Trinidad and Tobago,0,0,0,male,-2
+Trinidad and Tobago,0,0,0,female,-2
+Trinidad and Tobago,0.0233,-0.0418,-0.0092,male,-1
+Trinidad and Tobago,0.0893,-0.0903,-0.0005,female,-1
+Trinidad and Tobago,0.0472,-0.0146,0.0163,male,0
+Trinidad and Tobago,-0.3516,-0.5132,-0.4324,female,0
+Trinidad and Tobago,0.0431,-0.0176,0.0127,male,1
+Trinidad and Tobago,-0.2601,-0.4165,-0.3383,female,1
+Trinidad and Tobago,0.0488,-0.0099,0.0195,male,2
+Trinidad and Tobago,-0.261,-0.4116,-0.3363,female,2
+Trinidad and Tobago,0.0551,-0.0033,0.0259,male,3
+Trinidad and Tobago,-0.2499,-0.3969,-0.3234,female,3
+Trinidad and Tobago,0.0457,-0.0132,0.0163,male,4
+Trinidad and Tobago,-0.2461,-0.3884,-0.3173,female,4
+Trinidad and Tobago,0.025,-0.0356,-0.0053,male,5
+Trinidad and Tobago,-0.2936,-0.4329,-0.3633,female,5
+Trinidad and Tobago,0.0537,-0.0044,0.0247,male,6
+Trinidad and Tobago,-0.3048,-0.4428,-0.3738,female,6
+Trinidad and Tobago,0.037,-0.0224,0.0073,male,7
+Trinidad and Tobago,-0.2758,-0.4104,-0.3431,female,7
+Trinidad and Tobago,0.0502,-0.0087,0.0208,male,8
+Trinidad and Tobago,-0.314,-0.4501,-0.382,female,8
+Trinidad and Tobago,0.0453,-0.0142,0.0155,male,9
+Trinidad and Tobago,-0.2677,-0.3997,-0.3337,female,9
+Trinidad and Tobago,0.0369,-0.0237,0.0066,male,10
+Trinidad and Tobago,-0.2749,-0.4055,-0.3402,female,10
+Tunisia,0.0573,0.0235,0.0404,male,-5
+Tunisia,0.0582,-0.1123,-0.0271,female,-5
+Tunisia,0.0207,-0.0129,0.0039,male,-4
+Tunisia,0.0282,-0.1284,-0.0501,female,-4
+Tunisia,0.0131,-0.0193,-0.0031,male,-3
+Tunisia,0.0437,-0.103,-0.0297,female,-3
+Tunisia,0,0,0,male,-2
+Tunisia,0,0,0,female,-2
+Tunisia,0.0052,-0.0256,-0.0102,male,-1
+Tunisia,0.0784,-0.0526,0.0129,female,-1
+Tunisia,-0.013,-0.044,-0.0285,male,0
+Tunisia,-0.0979,-0.2189,-0.1584,female,0
+Tunisia,-0.0224,-0.0533,-0.0378,male,1
+Tunisia,-0.0482,-0.1653,-0.1068,female,1
+Tunisia,-0.0246,-0.055,-0.0398,male,2
+Tunisia,-0.1428,-0.2543,-0.1986,female,2
+Tunisia,-0.0119,-0.0411,-0.0265,male,3
+Tunisia,-0.1815,-0.2858,-0.2336,female,3
+Tunisia,-0.0219,-0.0516,-0.0367,male,4
+Tunisia,-0.187,-0.289,-0.238,female,4
+Tunisia,-0.0301,-0.0604,-0.0453,male,5
+Tunisia,-0.2539,-0.3529,-0.3034,female,5
+Tunisia,-0.0293,-0.0595,-0.0444,male,6
+Tunisia,-0.3008,-0.3974,-0.3491,female,6
+Tunisia,-0.0218,-0.0519,-0.0368,male,7
+Tunisia,-0.3142,-0.4094,-0.3618,female,7
+Tunisia,-0.0237,-0.0539,-0.0388,male,8
+Tunisia,-0.3215,-0.4145,-0.368,female,8
+Tunisia,-0.0329,-0.0629,-0.0479,male,9
+Tunisia,-0.3615,-0.451,-0.4063,female,9
+Tunisia,-0.0378,-0.0679,-0.0529,male,10
+Tunisia,-0.3992,-0.4868,-0.443,female,10
+Turkey,0.0106,-0.0026,0.004,male,-5
+Turkey,0.0768,0.0118,0.0443,female,-5
+Turkey,0.0097,-0.0026,0.0035,male,-4
+Turkey,0.0716,0.0099,0.0407,female,-4
+Turkey,0.0049,-0.0068,-0.0009,male,-3
+Turkey,0.0475,-0.0099,0.0188,female,-3
+Turkey,0,0,0,male,-2
+Turkey,0,0,0,female,-2
+Turkey,0.0056,-0.0054,0.0001,male,-1
+Turkey,0.0159,-0.0349,-0.0095,female,-1
+Turkey,0.0162,0.0057,0.011,male,0
+Turkey,-0.2211,-0.2678,-0.2444,female,0
+Turkey,0.0135,0.0028,0.0081,male,1
+Turkey,-0.2344,-0.2808,-0.2576,female,1
+Turkey,0.0071,-0.0035,0.0018,male,2
+Turkey,-0.222,-0.2663,-0.2442,female,2
+Turkey,0.0054,-0.0048,0.0003,male,3
+Turkey,-0.2377,-0.28,-0.2589,female,3
+Turkey,0.0014,-0.0088,-0.0037,male,4
+Turkey,-0.2466,-0.2874,-0.267,female,4
+Turkey,-0.0019,-0.0121,-0.007,male,5
+Turkey,-0.2403,-0.2802,-0.2602,female,5
+Turkey,-0.0007,-0.0113,-0.006,male,6
+Turkey,-0.2577,-0.2978,-0.2778,female,6
+Turkey,-0.0061,-0.0165,-0.0113,male,7
+Turkey,-0.2953,-0.3332,-0.3142,female,7
+Turkey,-0.0038,-0.0142,-0.009,male,8
+Turkey,-0.29,-0.327,-0.3085,female,8
+Turkey,-0.0056,-0.0161,-0.0109,male,9
+Turkey,-0.3189,-0.3552,-0.3371,female,9
+Turkey,-0.0069,-0.0175,-0.0122,male,10
+Turkey,-0.2913,-0.3265,-0.3089,female,10
+Uganda,-0.0054,-0.016,-0.0107,male,-5
+Uganda,-0.0174,-0.0431,-0.0303,female,-5
+Uganda,-0.0015,-0.0114,-0.0065,male,-4
+Uganda,-0.0164,-0.0404,-0.0284,female,-4
+Uganda,0.0036,-0.0057,-0.001,male,-3
+Uganda,-0.0021,-0.0253,-0.0137,female,-3
+Uganda,0,0,0,male,-2
+Uganda,0,0,0,female,-2
+Uganda,0.0058,-0.003,0.0014,male,-1
+Uganda,0.0164,-0.0062,0.0051,female,-1
+Uganda,0.0028,-0.0059,-0.0016,male,0
+Uganda,-0.0111,-0.0223,-0.0111,female,0
+Uganda,0.0019,-0.007,-0.0026,male,1
+Uganda,0.0266,0.0036,0.0151,female,1
+Uganda,-0.0012,-0.0101,-0.0056,male,2
+Uganda,0.0214,-0.0017,0.0099,female,2
+Uganda,-0.0039,-0.0129,-0.0084,male,3
+Uganda,0.0232,0.0116,0.0116,female,3
+Uganda,-0.0039,-0.013,-0.0085,male,4
+Uganda,0.0266,0.003,0.0148,female,4
+Uganda,-0.0082,-0.0176,-0.0129,male,5
+Uganda,0.0349,0.011,0.0229,female,5
+Uganda,-0.0088,-0.0182,-0.0135,male,6
+Uganda,0.042,0.0183,0.0302,female,6
+Uganda,-0.0074,-0.017,-0.0122,male,7
+Uganda,0.0327,0.0084,0.0205,female,7
+Uganda,-0.0123,-0.0222,-0.0173,male,8
+Uganda,0.0406,0.0162,0.0284,female,8
+Uganda,-0.0102,-0.0202,-0.0152,male,9
+Uganda,0.0457,0.0208,0.0332,female,9
+Uganda,-0.0084,-0.0182,-0.0133,male,10
+Uganda,0.0535,0.0292,0.0414,female,10
+United Kingdom,0.0351,-0.0021,0.0165,male,-5
+United Kingdom,0.0349,-0.0109,0.012,female,-5
+United Kingdom,0.0311,-0.0047,0.0132,male,-4
+United Kingdom,0.0374,-0.0069,0.0153,female,-4
+United Kingdom,0.0276,-0.0073,0.0102,male,-3
+United Kingdom,0.0315,-0.0112,0.0101,female,-3
+United Kingdom,0,0,0,male,-2
+United Kingdom,0,0,0,female,-2
+United Kingdom,0.0058,-0.0281,-0.0111,male,-1
+United Kingdom,0.0197,-0.0201,-0.0002,female,-1
+United Kingdom,0.0354,0.0032,0.0193,male,0
+United Kingdom,-0.7289,-0.7656,-0.7472,female,0
+United Kingdom,0.0348,0.0036,0.0192,male,1
+United Kingdom,-0.2319,-0.2709,-0.2514,female,1
+United Kingdom,0.0283,-0.0023,0.013,male,2
+United Kingdom,-0.3062,-0.3439,-0.3251,female,2
+United Kingdom,0.0252,-0.0053,0.0099,male,3
+United Kingdom,-0.3219,-0.3588,-0.3404,female,3
+United Kingdom,0.0137,-0.017,-0.0016,male,4
+United Kingdom,-0.2981,-0.3343,-0.3162,female,4
+United Kingdom,0.0169,-0.0135,0.0017,male,5
+United Kingdom,-0.2846,-0.32,-0.3023,female,5
+United Kingdom,0.0087,-0.0221,-0.0067,male,6
+United Kingdom,-0.2698,-0.3048,-0.2873,female,6
+United Kingdom,0.0017,-0.0292,-0.0137,male,7
+United Kingdom,-0.2643,-0.299,-0.2816,female,7
+United Kingdom,0.005,-0.0259,-0.0104,male,8
+United Kingdom,-0.2555,-0.2896,-0.2725,female,8
+United Kingdom,0.0094,-0.0215,-0.006,male,9
+United Kingdom,-0.2521,-0.2861,-0.2691,female,9
+United Kingdom,-0.0089,-0.0405,-0.0247,male,10
+United Kingdom,-0.2597,-0.2932,-0.2764,female,10
+United States,0.0138,0.005,0.0094,male,-5
+United States,0.0271,0.0123,0.0197,female,-5
+United States,0.0062,-0.0005,0.0029,male,-4
+United States,0.0204,0.0099,0.0152,female,-4
+United States,0.0063,0.0004,0.0034,male,-3
+United States,0.0139,0.0026,0.0083,female,-3
+United States,0,0,0,male,-2
+United States,0,0,0,female,-2
+United States,0.0068,-0.0006,0.0031,male,-1
+United States,-0.0012,-0.0149,-0.0081,female,-1
+United States,0.0273,0.0151,0.0212,male,0
+United States,-0.2041,-0.2486,-0.2264,female,0
+United States,0.025,0.0116,0.0183,male,1
+United States,-0.1988,-0.2325,-0.2157,female,1
+United States,0.027,0.0118,0.0194,male,2
+United States,-0.2097,-0.247,-0.2284,female,2
+United States,0.0288,0.0136,0.0212,male,3
+United States,-0.219,-0.2553,-0.2371,female,3
+United States,0.0311,0.0125,0.0218,male,4
+United States,-0.2273,-0.2587,-0.243,female,4
+United States,0.0275,0.0114,0.0194,male,5
+United States,-0.227,-0.2593,-0.2431,female,5
+United States,0.0276,0.0092,0.0184,male,6
+United States,-0.2197,-0.2547,-0.2372,female,6
+United States,0.0292,0.0125,0.0209,male,7
+United States,-0.219,-0.2541,-0.2366,female,7
+United States,0.0274,0.0078,0.0176,male,8
+United States,-0.213,-0.243,-0.228,female,8
+United States,0.0274,0.0105,0.0189,male,9
+United States,-0.2018,-0.2318,-0.2168,female,9
+United States,0.0296,0.012,0.0208,male,10
+United States,-0.1924,-0.2232,-0.2078,female,10
+Uruguay,0.0236,-0.0007,0.0114,male,-5
+Uruguay,0.0276,-0.0589,-0.0157,female,-5
+Uruguay,0.0087,-0.0157,-0.0035,male,-4
+Uruguay,0.03,-0.048,-0.009,female,-4
+Uruguay,0.0257,0.0028,0.0142,male,-3
+Uruguay,0.0287,-0.0433,-0.0073,female,-3
+Uruguay,0,0,0,male,-2
+Uruguay,0,0,0,female,-2
+Uruguay,0.0113,-0.0115,-0.0001,male,-1
+Uruguay,0.0042,-0.0602,-0.028,female,-1
+Uruguay,0.022,0.0001,0.011,male,0
+Uruguay,-0.2773,-0.3384,-0.3079,female,0
+Uruguay,0.0281,0.0064,0.0173,male,1
+Uruguay,-0.2816,-0.3413,-0.3115,female,1
+Uruguay,0.0188,-0.003,0.0079,male,2
+Uruguay,-0.3002,-0.3575,-0.3288,female,2
+Uruguay,0.0188,-0.0029,0.0079,male,3
+Uruguay,-0.3197,-0.3748,-0.3472,female,3
+Uruguay,0.0266,0.0052,0.0159,male,4
+Uruguay,-0.3283,-0.3821,-0.3552,female,4
+Uruguay,0.0192,-0.0027,0.0082,male,5
+Uruguay,-0.3554,-0.4083,-0.3818,female,5
+Uruguay,0.019,-0.0029,0.008,male,6
+Uruguay,-0.3527,-0.4048,-0.3787,female,6
+Uruguay,0.0195,-0.0025,0.0085,male,7
+Uruguay,-0.3695,-0.421,-0.3953,female,7
+Uruguay,0.0137,-0.0089,0.0024,male,8
+Uruguay,-0.3565,-0.407,-0.3818,female,8
+Uruguay,0.0163,-0.0062,0.0051,male,9
+Uruguay,-0.3636,-0.4137,-0.3887,female,9
+Uruguay,0.0118,-0.0112,0.0003,male,10
+Uruguay,-0.3577,-0.4076,-0.3826,female,10
+Venezuela,0.0111,-0.007,0.002,male,-5
+Venezuela,0.0835,-0.0059,0.0388,female,-5
+Venezuela,0.0155,-0.0019,0.0068,male,-4
+Venezuela,0.0696,-0.0075,0.031,female,-4
+Venezuela,0.0107,-0.0062,0.0023,male,-3
+Venezuela,0.038,-0.0293,0.0043,female,-3
+Venezuela,0,0,0,male,-2
+Venezuela,0,0,0,female,-2
+Venezuela,0.0131,-0.0033,0.0049,male,-1
+Venezuela,-0.0064,-0.0623,-0.0343,female,-1
+Venezuela,0.0226,0.0063,0.0145,male,0
+Venezuela,-0.329,-0.3793,-0.3541,female,0
+Venezuela,0.0227,0.0069,0.0148,male,1
+Venezuela,-0.3068,-0.354,-0.3304,female,1
+Venezuela,0.0214,0.0059,0.0137,male,2
+Venezuela,-0.3438,-0.3884,-0.3661,female,2
+Venezuela,0.0145,-0.0012,0.0066,male,3
+Venezuela,-0.3378,-0.3806,-0.3592,female,3
+Venezuela,0.0121,-0.0036,0.0043,male,4
+Venezuela,-0.3535,-0.3946,-0.3741,female,4
+Venezuela,0.0105,-0.0052,0.0027,male,5
+Venezuela,-0.366,-0.4057,-0.3858,female,5
+Venezuela,0.0046,-0.0113,-0.0033,male,6
+Venezuela,-0.373,-0.4114,-0.3922,female,6
+Venezuela,0.003,-0.0132,-0.0051,male,7
+Venezuela,-0.386,-0.4233,-0.4047,female,7
+Venezuela,0.0006,-0.0156,-0.0075,male,8
+Venezuela,-0.4119,-0.4485,-0.4302,female,8
+Venezuela,-0.0046,-0.021,-0.0128,male,9
+Venezuela,-0.4053,-0.4413,-0.4233,female,9
+Venezuela,-0.0041,-0.0204,-0.0122,male,10
+Venezuela,-0.4069,-0.4424,-0.4246,female,10
+Vietnam,-0.0072,-0.0152,-0.0112,male,-5
+Vietnam,-0.0238,-0.0393,-0.0315,female,-5
+Vietnam,-0.0038,-0.0115,-0.0077,male,-4
+Vietnam,-0.0129,-0.0275,-0.0202,female,-4
+Vietnam,0.0009,-0.0066,-0.0029,male,-3
+Vietnam,-0.005,-0.0192,-0.0121,female,-3
+Vietnam,0,0,0,male,-2
+Vietnam,0,0,0,female,-2
+Vietnam,0.0047,-0.0029,0.0009,male,-1
+Vietnam,0.0077,-0.0068,0.0005,female,-1
+Vietnam,0.0145,0.0073,0.0109,male,0
+Vietnam,-0.0864,-0.1024,-0.0944,female,0
+Vietnam,0.0137,0.0064,0.0101,male,1
+Vietnam,-0.0249,-0.0398,-0.0324,female,1
+Vietnam,0.0164,0.0093,0.0128,male,2
+Vietnam,-0.0105,-0.0252,-0.0178,female,2
+Vietnam,0.017,0.0098,0.0134,male,3
+Vietnam,-0.0068,-0.0216,-0.0142,female,3
+Vietnam,0.022,0.015,0.0185,male,4
+Vietnam,0.0125,-0.0024,0.0051,female,4
+Vietnam,0.024,0.0168,0.0204,male,5
+Vietnam,0.0176,0.0025,0.0101,female,5
+Vietnam,0.0248,0.0174,0.0211,male,6
+Vietnam,0.0243,0.0089,0.0166,female,6
+Vietnam,0.0251,0.0176,0.0213,male,7
+Vietnam,0.0253,0.0096,0.0174,female,7
+Vietnam,0.0266,0.0191,0.0229,male,8
+Vietnam,0.0312,0.0154,0.0233,female,8
+Vietnam,0.0301,0.0224,0.0263,male,9
+Vietnam,0.0402,0.0241,0.0321,female,9
+Vietnam,0.0312,0.0232,0.0272,male,10
+Vietnam,0.042,0.0254,0.0337,female,10
+Zambia,-0.011,-0.0383,-0.0247,male,-5
+Zambia,0.0164,-0.0746,-0.0291,female,-5
+Zambia,-0.003,-0.0281,-0.0156,male,-4
+Zambia,0.0321,-0.0531,-0.0105,female,-4
+Zambia,0.0037,-0.02,-0.0081,male,-3
+Zambia,0.0325,-0.0485,-0.008,female,-3
+Zambia,0,0,0,male,-2
+Zambia,0,0,0,female,-2
+Zambia,0.0028,-0.0195,-0.0083,male,-1
+Zambia,0.0587,-0.0191,0.0198,female,-1
+Zambia,0.0242,0.0026,0.0134,male,0
+Zambia,-0.0514,-0.127,-0.0892,female,0
+Zambia,0.007,-0.0153,-0.0042,male,1
+Zambia,-0.0086,-0.0848,-0.0467,female,1
+Zambia,0.0088,-0.0128,-0.002,male,2
+Zambia,0.0102,-0.0639,-0.0268,female,2
+Zambia,0.006,-0.0159,-0.0049,male,3
+Zambia,-0.0414,-0.1125,-0.0769,female,3
+Zambia,0.0082,-0.0135,-0.0027,male,4
+Zambia,-0.0331,-0.1017,-0.0674,female,4
+Zambia,0.0095,-0.0127,-0.0016,male,5
+Zambia,-0.0269,-0.0961,-0.0615,female,5
+Zambia,0.0127,-0.0098,0.0014,male,6
+Zambia,-0.042,-0.1107,-0.0763,female,6
+Zambia,0.0168,-0.0057,0.0055,male,7
+Zambia,-0.0549,-0.1219,-0.0884,female,7
+Zambia,0.0094,-0.0141,-0.0024,male,8
+Zambia,-0.0365,-0.105,-0.0708,female,8
+Zambia,0.0146,-0.0092,0.0027,male,9
+Zambia,-0.0412,-0.11,-0.0756,female,9
+Zambia,0.0116,-0.0112,0.0002,male,10
+Zambia,-0.0412,-0.1054,-0.0733,female,10
+Zimbabwe,0.0197,-0.0174,0.0012,male,-5
+Zimbabwe,0.0281,-0.0841,-0.028,female,-5
+Zimbabwe,0.023,-0.0118,0.0056,male,-4
+Zimbabwe,0.0542,-0.055,-0.0004,female,-4
+Zimbabwe,0.0162,-0.0173,-0.0005,male,-3
+Zimbabwe,0.0649,-0.0378,0.0135,female,-3
+Zimbabwe,0,0,0,male,-2
+Zimbabwe,0,0,0,female,-2
+Zimbabwe,0.0195,-0.0119,0.0038,male,-1
+Zimbabwe,0.0553,-0.0393,0.008,female,-1
+Zimbabwe,0.0328,0.0026,0.0177,male,0
+Zimbabwe,-0.0431,-0.1349,-0.089,female,0
+Zimbabwe,0.026,-0.0046,0.0107,male,1
+Zimbabwe,-0.0156,-0.1062,-0.0609,female,1
+Zimbabwe,0.0247,-0.0065,0.0091,male,2
+Zimbabwe,0.0158,-0.0757,-0.03,female,2
+Zimbabwe,0.0339,0.0027,0.0183,male,3
+Zimbabwe,-0.0174,-0.1097,-0.0635,female,3
+Zimbabwe,0.0204,-0.012,0.0042,male,4
+Zimbabwe,0.0121,-0.0781,-0.033,female,4
+Zimbabwe,0.0224,-0.0107,0.0059,male,5
+Zimbabwe,0.0109,-0.0801,-0.0346,female,5
+Zimbabwe,0.0284,-0.0052,0.0116,male,6
+Zimbabwe,-0.004,-0.096,-0.05,female,6
+Zimbabwe,0.034,0.001,0.0175,male,7
+Zimbabwe,0.0159,-0.0744,-0.0293,female,7
+Zimbabwe,0.0308,-0.0033,0.0137,male,8
+Zimbabwe,0.0368,-0.0534,-0.0083,female,8
+Zimbabwe,0.0205,-0.015,0.0028,male,9
+Zimbabwe,0.0453,-0.0435,0.0009,female,9
+Zimbabwe,0.031,-0.0036,0.0137,male,10
+Zimbabwe,0.0609,-0.0273,0.0168,female,10
