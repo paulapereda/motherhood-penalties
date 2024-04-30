@@ -41,19 +41,6 @@ uruguay <- read_csv(here("data", "estimates_.csv")) |>
 # Save static plot
 ggsave(here("plots", "uruguay.png"), dpi = 300, width = 7, height = 12)
 
-# Create and save the animated plot
-anim <- p +
-  transition_reveal(along = t_es) +
-  enter_fade() + exit_fade() +
-  ease_aes('linear') +
-  shadow_mark()
-
-# Calculate the dimensions for the GIF that maintain the same aspect ratio and improve resolution
-gif_width <- 960  # Twice the pixel width for better detail
-gif_height <- 560  # Calculated to maintain the aspect ratio
-
-anim_save(here("plots", "motherhood_penalties_uy.gif"), animation = anim, end_pause = 10, nframes = 150, fps = 25, width = gif_width, height = gif_height)
-
 comparison <- read_csv(here("data", "estimates_.csv")) |>
   filter(name %in% c("Africa", "Asia", "Europe", "Latin America", "North America", "Uruguay") & gender == "female") |>
   mutate(name = case_when(
@@ -63,7 +50,6 @@ comparison <- read_csv(here("data", "estimates_.csv")) |>
     name == "Latin America" ~ "Latinoamérica",
     name == "North America" ~ "Norteamérica",
     name == "Uruguay"       ~ "Uruguay"))
-
 
 comparison |>
   ggplot(aes(t_es, estimate, group = name, color = name)) +
@@ -78,7 +64,7 @@ comparison |>
        color = "",
        title = "Cambio en el empleo después de tener el primer hijo/a, %",
        subtitle = "Respecto a dos años antes del nacimiento",
-       caption = "Fuente: elaboración propia en base a The Child Penalty Atlas, por H. Kleven et al., 2023") +
+       caption = "Fuente: elaboración propia en base a The Child Penalty Atlas, por H. Kleven et al., 2023.\nPaula Pereda Suárez | @paubgood") +
   geom_text(aes(x = 8, y = -.41,  label = "Uruguay"), fontface = "bold", color = "#f7cece", vjust = -.5, family = "Verdana") +
   geom_text(aes(x = 8, y = -.22, label = "Norteamérica"), fontface = "bold", color = "#ef9e9e", vjust = -.5, family = "Verdana") +
   geom_text(aes(x = 8, y = -.37, label = "Latinoamérica"), fontface = "bold", color = "#e86d6d", vjust = -.5, family = "Verdana") +
